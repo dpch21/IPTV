@@ -18,5 +18,5 @@ http://iptvlink.ga:8888/live/nasvpn/prem/787.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_02_hd.png" group-title="DP @SPORT", (DianPhotograph) BEIN 2 HD
 http://iptvlink.ga:8888/live/nasvpn/prem/788.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_03_hd.png" group-title="DP SPORT", (DianPhotograph) BEIN 3 HD
-http://iptvlink.ga:8888/live/nasvpn/prem/789.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_asia.png" group-title="DP SPORT", (DianPhotograph) FOX SPORT 2 HD
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
