@@ -12,5 +12,7 @@ http://iptvlink.ga:8888/live/nasvpn/prem/757.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="DP ASTRO@SUPER SPROT", (DianPhotograph) ASSP4
 http://iptvlink.ga:8888/live/nasvpn/prem/758.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="DP @BEIN SPROT", (DianPhotograph) BEIN 1 HD
+http://iptvlink.ga:8888/live/nasvpn/prem/787.m3u8
 
 
