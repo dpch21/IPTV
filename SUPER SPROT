@@ -21,5 +21,5 @@ http://iptvlink.ga:8888/live/nasvpn/prem/788.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_asia.png" group-title="DP@SPORT", (DianPhotograph) FOX SPORT 2 HD
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_1_asia.png" group-title="DP@SPORT", (DianPhotograph) FOX SPORT 1 HD
-https://livecdn.fptplay.net/qnetlive/foxsports1_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_asia.png" group-title="DP@SPORT", (DianPhotograph) FOX SPORT 1 HD
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
