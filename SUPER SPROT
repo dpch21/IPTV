@@ -30,6 +30,9 @@ http://ott-cdn.ucom.am/s81/03.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta-sports-2-evraziya-ie.png" group-title="DP@SPORT", (DianPhotograph) SETANTA 2
 http://92.43.140.200/s82/04.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta_sports_eurasia_plus.png" group-title="DP@SPORT", (DianPhotograph) SETANTA +
+http://195.158.29.129/live_360/live.stream+_360p.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="DP@SPORT", (DianPhotograph) AR- BEIN 1 LOW
 https://d222f8pxmakpoy.cloudfront.net/out/v1/de6352c107034b02ad181f16bfa57d9b/index_4.m3u8
 
