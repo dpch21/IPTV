@@ -9,11 +9,8 @@ https://r5---sn-xmjxajvh-jb3zl.googlevideo.com/videoplayback?expire=1618936050&e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/420px-UEFA_Champions_League_logo_2.svg.png" group-title="LIVE", (DP) MAN CITY vs PSG 02:00 WIB
 https://r5---sn-xmjxajvh-jb3zl.googlevideo.com/videoplayback?expire=1618936050&ei=cpB-YMO7ONbJtOUP0aOYyAg&ip=140.213.0.146&id
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/420px-UEFA_Champions_League_logo_2.svg.png" group-title="LIVE", (DP) (AR) BEIN SPORT PREMIUM SD
-https://d127008t0c0m28.cloudfront.net/out/v1/fb3de4f5183d48018454f6ac3a9307a6/index_3.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/420px-UEFA_Champions_League_logo_2.svg.png" group-title="LIVE", (DP) (AR) BEIN SPORT PREMIUM LOW
-https://d127008t0c0m28.cloudfront.net/out/v1/fb3de4f5183d48018454f6ac3a9307a6/index_3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/420px-UEFA_Champions_League_logo_2.svg.png" group-title="LIVE", (DP) (ENG) BEIN SPORT PREMIUM HD
+http://iptvlink.ga:8888/live/nasvpn/prem/787.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/420px-UEFA_Champions_League_logo_2.svg.png" group-title="LIVE", (DP) (AR) BEIN SPORT PREMIUM (BURIK) 
 http://2.alhawalouh.xyz/live/97848484/index.m3u8
