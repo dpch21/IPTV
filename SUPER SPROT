@@ -18,6 +18,12 @@ http://95.216.241.85/s6TG980D5p/i1gRZPIpHz/350?token=SUAOB0NcGg8WUQQGBlAECwZQAVJ
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/420px-UEFA_Champions_League_logo_2.svg.png" group-title="LIVE", (DP) (AR) BEIN SPORT PREMIUM (BURIK) 
 http://2.alhawalouh.xyz/live/97848484/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/420px-UEFA_Champions_League_logo_2.svg.png" group-title="LIVE", (DP) (ENG) BT SPORT 2 HD 
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/420px-UEFA_Champions_League_logo_2.svg.png" group-title="LIVE", (DP) (AR) BS PREMIUM HD 
+https://d127008t0c0m28.cloudfront.net/out/v1/fb3de4f5183d48018454f6ac3a9307a6/index_1.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9Ezkx-2W1qb9SpnaYvUXkDsHVcY=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="DPCH@LOKAL", (DP) Indosiar _VIDIO
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69fb60e35b48850916f3eb7aa30678d5e1
 
