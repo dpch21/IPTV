@@ -24,6 +24,18 @@ http://75.119.130.207:25461/live/penang172/penang172/6748.m3u8?token=TRVcBxJZQ1w
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9Ezkx-2W1qb9SpnaYvUXkDsHVcY=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="DPCH@LOKAL", (DP) Indosiar _VIDIO
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69fb60e35b48850916f3eb7aa30678d5e1
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/420px-UEFA_Champions_League_logo_2.svg.png" group-title="LIVE", (DP) (AR) BEIN SPORT PREMIUM (SD) 
+http://1.alhawalouh.xyz/live/6161655/index.m3u8?t=hGuFuO6ABgDC-kKb2QSAFw&e=1620238649
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/420px-UEFA_Champions_League_logo_2.svg.png" group-title="LIVE", (DP) (AR) BEIN SPORT PREMIUM (BURIK) 
+http://2.alhawalouh.xyz/live/97848484/index.m3u8?t=MMzEYvs4nawLmYIpNF4Ytw&e=1620238781
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/420px-UEFA_Champions_League_logo_2.svg.png" group-title="LIVE", (DP) (SPN) ESPN (SD) 
+http://23.237.78.54/live-1000/263/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/420px-UEFA_Champions_League_logo_2.svg.png" group-title="LIVE", (DP) (ENG) BT SPORT 2 HD 
+http://31.42.184.17:8880/010203040506/010203040506/421
+
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/D4fhQdRMaUBB2JN2h0N4KbUauUw=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnc-tv-stream-f8ee1c.jpg" group-title="DPCH@LOKAL", (DP)  MNCTV _+
 https://r5http://95.216.241.85/s6TG980D5p/i1gRZPIpHz/350?token=SUAOB0NcGg8WVlQGCwIDWlUABgcDV1UEV1cHU1IDUAQEAQVRAAdbBVEXHUdBF0ddUQk6DFFHW1VUUU4VExJREG0LAkQKFg0CFhkTEVsOUBoKVVNXBVRSVFJSUhtEEV0GEFhEVAkADhcYF1QdRgZHVlEIOgFQEwgFBENYWRMNWE4QDQg5VFFVVFpRE18QUhcUEg0WFRdfQzY1T0JvKkF1GlsDEgcQYFpeFhkTB1sXR1lEAUdfF1xVUkNNQFQJFFoWQBtEXBJ9fBcYF1QdRgZbS1kLC0cPRxUVQ01AXhU+RgdBFhQDUVldRxYPE1UQTxdVURw6BloLDwMCFQtYCBIWWBBTU1YAFhQXWVpfDEYMR2dADQFHD0dTX1JYQEo=
 
