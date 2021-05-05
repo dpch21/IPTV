@@ -258,11 +258,17 @@ http://92.43.140.200/s82/04.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta_sports_eurasia_plus.png" group-title="DP@SPORT", (DianPhotograph) SETANTA +
 http://195.158.29.129/live_360/live.stream+_360p.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="DP@SPORT", (DianPhotograph) AR- BEIN 1 LOW
-https://d222f8pxmakpoy.cloudfront.net/out/v1/de6352c107034b02ad181f16bfa57d9b/index_4.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="DP@SPORT", (DianPhotograph) TRUE PREMIER HD 2
+http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_02_hd.png" group-title="DP@SPORT", (DianPhotograph) AR- BEIN 2 LOW
-https://d34l47jhjotoz1.cloudfront.net/out/v1/e8a2fa146bf1450cb82bbfff73228d17/index_4.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="DP@SPORT", (DianPhotograph) TRUE SPORT 1
+http://mantul.biz.id:8888/294/294/10459
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="DP@SPORT", (DianPhotograph) TRUE SPORT 2
+http://mantul.biz.id:8888/294/294/10460
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="DP@SPORT", (DianPhotograph) TRUE SPORT 3
+http://mantul.biz.id:8888/294/294/10461
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv1.png" group-title="DP@SPORT", (DianPhotograph) SPORT TV 1
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
