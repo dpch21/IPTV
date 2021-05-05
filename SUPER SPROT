@@ -303,13 +303,13 @@ https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv5.png" group-title="DP@SPORT", (DianPhotograph) SPORT TV 5
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_futbol_1.png"group-title "DP@SPORT", (DP) (DianPhotograph) Match! Futbol 1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_futbol_1.png "group-title="DP@SPORT", (DP) (DianPhotograph) Match! Futbol 1
 http://46.174.189.51/m1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_futbol_2.png"group-title "DP@SPORT", (DP) (DianPhotograph) Match! Futbol 2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_futbol_2.png" group-title="DP@SPORT", (DP) (DianPhotograph) Match! Futbol 2
 http://46.174.189.51/m2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_futbol_3.png"group-title "DP@SPORT", (DP) (DianPhotograph) Match! Futbol 2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_futbol_3.png" group-title="DP@SPORT", (DP) (DianPhotograph) Match! Futbol 2
 http://46.174.189.51/m3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9lMwU2a5XuS_mPbbxiMRIR2ZGfQ=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-cd5af1.jpg" group-title="DP@SPORT", (DianPhotograph) Champions TV 1
