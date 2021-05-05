@@ -36,6 +36,9 @@ http://23.237.78.54/live-1000/263/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/420px-UEFA_Champions_League_logo_2.svg.png" group-title="LIVE", (DP) (ENG) BT SPORT 2 HD 
 http://31.42.184.17:8880/010203040506/010203040506/421
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/420px-UEFA_Champions_League_logo_2.svg.png" group-title="LIVE", (DP) (AR) BS PREMIUM HD 
+https://d3u7f2c3yddrxc.cloudfront.net/out/v1/3f2878ed33c349e988b28548a54a5d94/index_1.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/D4fhQdRMaUBB2JN2h0N4KbUauUw=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnc-tv-stream-f8ee1c.jpg" group-title="DPCH@LOKAL", (DP)  MNCTV _+
 https://r5http://95.216.241.85/s6TG980D5p/i1gRZPIpHz/350?token=SUAOB0NcGg8WVlQGCwIDWlUABgcDV1UEV1cHU1IDUAQEAQVRAAdbBVEXHUdBF0ddUQk6DFFHW1VUUU4VExJREG0LAkQKFg0CFhkTEVsOUBoKVVNXBVRSVFJSUhtEEV0GEFhEVAkADhcYF1QdRgZHVlEIOgFQEwgFBENYWRMNWE4QDQg5VFFVVFpRE18QUhcUEg0WFRdfQzY1T0JvKkF1GlsDEgcQYFpeFhkTB1sXR1lEAUdfF1xVUkNNQFQJFFoWQBtEXBJ9fBcYF1QdRgZbS1kLC0cPRxUVQ01AXhU+RgdBFhQDUVldRxYPE1UQTxdVURw6BloLDwMCFQtYCBIWWBBTU1YAFhQXWVpfDEYMR2dADQFHD0dTX1JYQEo=
 
