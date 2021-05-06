@@ -285,8 +285,8 @@ https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="DP@Korea TV", DISCOVERY CH ID
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/273840
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony_one_in.png" group-title="DP@Korea TV", Sony ONE
-http://45.126.83.51/session/9fbf6d2c-ae66-11eb-8ece-afe69ffe0686/uq2663/h/h143/02.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-earth-uk.png" group-title="DP@Korea TV", BBC EARTH ID
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165106
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_people_asia.png" group-title="DP@Korea TV", NAT GEO PEOPLE ID
 http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
