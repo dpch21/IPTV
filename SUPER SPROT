@@ -276,6 +276,23 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIMalukuamb
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="DP@LOKAL", (DP) TVRI PAPUA
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPapua)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/k_plus_kr.png" group-title="DP@Korea TV", K Plus
+https://nonton.site:8443/6894864475/7163819284/18
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kbs_world_kr.png" group-title="DP@Korea TV", KBS World HD
+https://nonton.site:8443/6894864475/7163819284/15057
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpM4ePgskZ0MwYEYal1_C-4H9NYHSwFl5ZHbhvWuoTzdDKYM0s" group-title="DP@Korea TV", S GEM HD
+https://nonton.site:8443/6894864475/7163819284/770
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony_one_in.png" group-title="DP@Korea TV", Sony ONE
+https://nonton.site:8443/6894864475/7163819284/19
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/395_300.png" group-title="DP@Korea TV", TVN ID
+https://nonton.site:8443/6894864475/7163819284/767
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png" group-title="DP@Korea TV", tVN Movies HD
+https://nonton.site:8443/6894864475/7163819284/927
 
 #EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="MOVIES", (DP)  FOX FAMILY HD _VN
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
