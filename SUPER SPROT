@@ -12,6 +12,10 @@ https://r5---sn-xmjxajvh-jb3zl.googlevideo.com/videoplayback?expire=1618936050&e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/03/Europa_League.svg/418px-Europa_League.svg.png" group-title="LIVE", (DP) (AR) BS PREMIUM HD 
 http://1.alhawalouh.xyz/live/6161655/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/03/Europa_League.svg/418px-Europa_League.svg.png" group-title="LIVE", (DP) (AR) BS PREMIUM SD
+http://1.alhawalouh.xyz/live/79481245/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="DP@LOKAL", (DP) ANTV
 http://chostv.mobie.in/files/iptv/antv.m3u8
 
