@@ -15,7 +15,6 @@ http://1.alhawalouh.xyz/live/6161655/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/03/Europa_League.svg/418px-Europa_League.svg.png" group-title="LIVE", (DP) (AR) BS PREMIUM SD
 http://1.alhawalouh.xyz/live/79481245/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="DP@LOKAL", (DP) ANTV
 http://chostv.mobie.in/files/iptv/antv.m3u8
 
@@ -298,8 +297,26 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165106
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_people_asia.png" group-title="DP@Korea TV", NAT GEO PEOPLE ID
 http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png" group-title="DP@Korea TV", ifilm
-https://live1.presstv.com/live/ifilmen_360p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-movies-hk.png" group-title="MOVIES", (DP)  CELESTIAL MOVIES ID
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165065
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_asia.png" group-title="MOVIES", (DP)  HBO FAMILY ID
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/197055
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thrill_hk.png" group-title="MOVIES", (DP)  THRILL ID
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157580
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png" group-title="MOVIES", TvN MOVIES HD ID
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157596
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kix-hk.png" group-title="MOVIES", KIX ID
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165068
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits_tv_sg.png" group-title="MOVIES", HITS ID
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165085
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits-movies-sg.png" group-title="MOVIES", HITS MOVIES ID
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/221947
 
 #EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="MOVIES", (DP)  FOX FAMILY HD _VN
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
