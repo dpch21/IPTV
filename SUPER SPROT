@@ -333,6 +333,12 @@ http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="MOVIES", (DP)  HBO HD MAY
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-1zfZ3rEhu5s/V9OB0jOkU7I/AAAAAAAAfUQ/A9F_Fl1q51k_ONOLTVDyIT8sU3WS2nxhACLcB/s1600/galaxy-channel-tv-logo.png" group-title="MOVIES", Galaxy
+http://mantul.biz.id:8888/294/294/298
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="MOVIES", Galaxy Premium
+http://mantul.biz.id:8888/294/294/1012
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="DP ASTRO@SUPER SPORT", (DianPhotograph) ASSP1
 http://iptvlink.ga:8888/live/nasvpn/prem/753.m3u8
 
