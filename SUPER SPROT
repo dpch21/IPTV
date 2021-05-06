@@ -277,7 +277,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIMalukuamb
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPapua)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/k_plus_kr.png" group-title="DP@Korea TV", K Plus
-https://nonton.site:8443/6894864475/7163819284/18
+http://45.126.83.51/uq2663/h/h08/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kbs_world_kr.png" group-title="DP@Korea TV", KBS World HD
 https://nonton.site:8443/6894864475/7163819284/15057
@@ -286,13 +286,13 @@ https://nonton.site:8443/6894864475/7163819284/15057
 https://nonton.site:8443/6894864475/7163819284/770
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony_one_in.png" group-title="DP@Korea TV", Sony ONE
-https://nonton.site:8443/6894864475/7163819284/19
+http://45.126.83.51/session/9fbf6d2c-ae66-11eb-8ece-afe69ffe0686/uq2663/h/h143/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/395_300.png" group-title="DP@Korea TV", TVN ID
 https://nonton.site:8443/6894864475/7163819284/767
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png" group-title="DP@Korea TV", tVN Movies HD
-https://nonton.site:8443/6894864475/7163819284/927
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png" group-title="DP@Korea TV", K DRAMA
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="MOVIES", (DP)  FOX FAMILY HD _VN
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
