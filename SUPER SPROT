@@ -9,11 +9,9 @@ https://r5---sn-xmjxajvh-jb3zl.googlevideo.com/videoplayback?expire=1618936050&e
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1Kn3meWkwRw/YH6Mly6ksgI/AAAAAAAABCE/W7nC4Og5Zp0oGnGbK-hfKgsYfw_rgXPJgCLcBGAsYHQ/s0/dian.png" group-title="LIVE", Join Grup Telgram 
 https://r5---sn-xmjxajvh-jb3zl.googlevideo.com/videoplayback?expire=1618936050&ei=cpB-YMO7ONbJtOUP0aOYyAg&ip=140.213.0.146&id=1e560b040b8aa4d3&itag=18&source=blogger&mh=hu&mm=31&mn=sn-xmjxajvh-jb3zl&ms=au&mv=m&mvi=5&pl=24&susc=bl&mime=video/mp4&vprv=1&dur=11.726&lmt=1618907219624362&mt=1618906844&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,mime,vprv,dur,lmt&sig=AOq0QJ8wRQIgbAY6Tn5SWvVG-qDDequHWcWIzpSGogtS31P31VaJTDYCIQD3BvX-sx9qiD2XvpgRpG50g8Bk-A9U4W883t1vMdK0bw%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAKJiYOipsnhEueiR64ApCNXOyNY-9NysDtD4uUobJcI8AiEA-kZleUjayo16Ts9tqEZS6nrKgfOjfXHrKSYsgmScs0c%3D&cpn=qh4m-9tOKTBgbu6_&c=WEB_EMBEDDED_PLAYER&cver=1.20210418.0.0
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/03/Europa_League.svg/418px-Europa_League.svg.png" group-title="LIVE", (DP) (AR) BS PREMIUM HD 
-http://1.alhawalouh.xyz/live/6161655/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/03/Europa_League.svg/418px-Europa_League.svg.png" group-title="LIVE", (DP) (AR) BS PREMIUM SD
-http://1.alhawalouh.xyz/live/79481245/index.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1Kn3meWkwRw/YH6Mly6ksgI/AAAAAAAABCE/W7nC4Og5Zp0oGnGbK-hfKgsYfw_rgXPJgCLcBGAsYHQ/s0/dian.png" group-title="LIVE", http://te.me/dianphotograph
+https://r5---sn-xmjxajvh-jb3zl.googlevideo.com/videoplayback?expire=1618936050&ei=cpB-YMO7ONbJtOUP0aOYyAg&ip=140.213.0.146&id=1e560b040b8aa4d3&itag=18&source=blogger&mh=hu&mm=31&mn=sn-xmjxajvh-jb3zl&ms=au&mv=m&mvi=5&pl=24&susc=bl&mime=video/mp4&vprv=1&dur=11.726&lmt=1618907219624362&mt=1618906844&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,mime,vprv,dur,lmt&sig=AOq0QJ8wRQIgbAY6Tn5SWvVG-qDDequHWcWIzpSGogtS31P31VaJTDYCIQD3BvX-sx9qiD2XvpgRpG50g8Bk-A9U4W883t1vMdK0bw%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAKJiYOipsnhEueiR64ApCNXOyNY-9NysDtD4uUobJcI8AiEA-kZleUjayo16Ts9tqEZS6nrKgfOjfXHrKSYsgmScs0c%3D&cpn=qh4m-9tOKTBgbu6_&c=WEB_EMBEDDED_PLAYER&cver=1.20210418.0.0
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="DP@LOKAL", (DP) ANTV
 http://chostv.mobie.in/files/iptv/antv.m3u8
@@ -333,11 +331,11 @@ https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/movies-us.png" group-title="MOVIES", (DP)  MOVIE _GROUP
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-de.png" group-title="DP@SKY SPORTS",  (Dian Photograph) SKY SPORT 1
-http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hG5LsHpG/images-2.jpg" group-title="MOVIES",  (Dian Photograph) SKY CINEMA DISNEY
+http://stream.tvtap.live:8081/live/mdisney.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-de.png" group-title="DP@SKY SPORTS",  (Dian Photograph) SKY SPORT 1
-http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSRBY7K7/images-3.jpg" group-title="MOVIES",  (Dian Photograph) SKY CINEMA ACTION HD
+http://stream.tvtap.live:8081/live/maction.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="MOVIES", (DP)  ZQ DRAMA _GROUP
 http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0
