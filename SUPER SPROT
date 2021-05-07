@@ -404,6 +404,9 @@ http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Sky_Sport_1_HD_-_Logo_2015.svg" group-title="DP@SKY SPORTS",  (Dian Photograph) SKY SPORT 1 HD
+http://stream.tvtap.live:8081/live/de-skysport1.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="DP@SPORT", (DianPhotograph) BEIN 1 HD
 http://iptvlink.ga:8888/live/nasvpn/prem/787.m3u8
 
