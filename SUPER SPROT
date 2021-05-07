@@ -391,18 +391,18 @@ https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_04.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/hello.png" group-title="DP@MALAYSIA", (DP) Hello
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="DP ASTRO@SUPER SPORT", (DianPhotograph) ASSP1
-http://iptvlink.ga:8888/live/nasvpn/prem/753.m3u8
+http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="DP ASTRO@SUPER SPORT", (DianPhotograph) ASSP2
-http://iptvlink.ga:8888/live/nasvpn/prem/756.m3u8
+http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="DP ASTRO@SUPER SPORT", (DianPhotograph) ASSP3
-http://iptvlink.ga:8888/live/nasvpn/prem/757.m3u8
+http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="DP ASTRO@SUPER SPROT", (DianPhotograph) ASSP4
-http://iptvlink.ga:8888/live/nasvpn/prem/758.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="DP ASTRO@SUPER SPORT", (DianPhotograph) ASSP4
+http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="DP@SPORT", (DianPhotograph) BEIN 1 HD
 http://iptvlink.ga:8888/live/nasvpn/prem/787.m3u8
