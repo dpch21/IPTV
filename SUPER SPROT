@@ -485,14 +485,15 @@ http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png" group-title="DP@SPORT", DAZN 1
 http://stream.tvtap.live:8081/live/it-dazn1.stream/playlist.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9lMwU2a5XuS_mPbbxiMRIR2ZGfQ=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-cd5af1.jpg" group-title="DP@SPORT", (DianPhotograph) Champions TV 1
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6685_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1620419730~acl=/hls-p/ingest_6685_*/*~hmac=4d59b8de8d4d4eb24f8406d539d0a620c6d6068dfb4ed1412479ad8f2d226d40/hls-p/ingest_6685_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/zVTqzS-Vwnp_mhhekbD0xVUdBdI=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-e0b0b4.jpg" group-title="DP@SPORT", (DianPhotograph) Champions TV 2
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6686_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1620419917~acl=/hls-p/ingest_6686_*/*~hmac=511bff51685d75b6025eb4d4548effe41d79e2345d911f8609db6123d6aea745/hls-p/ingest_6686_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0CyFv4-SR0eH_tbFi6pDnecZyx8=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-f32604.jpg" group-title="DP@SPORT", (DianPhotograph)Champions TV 3
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6786_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1620420010~acl=/hls-p/ingest_6786_*/*~hmac=7b6956018bcb79dafe849209adc30879f0f800b15461bae85da2c02d50045e92/hls-p/ingest_6786_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/godzilla-vs-kong-2021.201814.jpg" group-title="DP@VOD IND SUB", GODZILLA VS KONG (2021) 
 http://139.99.61.223/movie/Godzilla.mkv
