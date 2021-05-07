@@ -333,6 +333,12 @@ https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/movies-us.png" group-title="MOVIES", (DP)  MOVIE _GROUP
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-de.png" group-title="DP@SKY SPORTS",  (Dian Photograph) SKY SPORT 1
+http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-de.png" group-title="DP@SKY SPORTS",  (Dian Photograph) SKY SPORT 1
+http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="MOVIES", (DP)  ZQ DRAMA _GROUP
 http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0
 
