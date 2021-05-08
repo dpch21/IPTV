@@ -82,9 +82,7 @@ https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jitv.png" group-title="DP@LOKAL", (DP) JITV
 http://202.169.224.76:1935/tv/jitv/chunklist_kamiselaluada.m3u8
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jtv.png" group-title="DP@LOKAL", (DP) JTV
-http://122.248.43.138:1935/ch2/myStream/chunklist_kamiselaluada.m3u8
-
+#EXTINF:-1 tvg-logo="http://kamiselaluada.comy
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DznwDyMD/LOGO-JOGJA-TV-NEW-pii-new1.png" group-title="DP@LOKAL", (DP) JOGJA TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 
@@ -167,7 +165,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b74410
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvone.png" group-title="DP@LOKAL", (DP) TVONE
-https://stream-06.dc3.dailymotion.com/sec(045Msia06uu92p_oLsoybAHYFkzuITqCF6lpcmcEdBE)/dm/3/x619221/s/live-3.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162507
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/useephoto.png" group-title="DP@LOKAL", (DP) Usee Photo
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/manifest.mpd
