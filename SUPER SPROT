@@ -131,7 +131,7 @@ http://210.210.155.35:80/session/09d8ec3e-2ed7-11eb-a7c0-c81f66f89318/qwr9ew/s/s
 https://v6.siar.us/nusantaratv/live/kamiselaluada_chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rcti.png" group-title="DP@LOKAL", (DP) RCTI
-https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157591
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rodjatv.png" group-title="DP@LOKAL", (DP) RODJA TV
 http://210.210.155.35:80/session/c8a56596-2ed9-11eb-a769-b82a72d63267/qwr9ew/s/s14/01.m3u8
