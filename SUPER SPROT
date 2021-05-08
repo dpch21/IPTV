@@ -366,6 +366,16 @@ http://mantul.biz.id:8888/294/294/298
 http://mantul.biz.id:8888/294/294/1012
 
 
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="DP@PENGETAHUAN",  (Dian Photograph) NAT GEO ID
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/274162
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-classic-movies-hk.png" group-title="MOVIES",  (Dian Photograph) CCM ID
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165103
+
+
+
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tv1.png" group-title="DP@MALAYSIA", (DP) TV1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/index.m3u8
 
