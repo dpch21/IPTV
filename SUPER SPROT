@@ -521,7 +521,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1620463481~acl=/hls-p/ingest_6686_
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-us.png"group-title="DP@SPORT", (DianPhotograph) TNT SPORT
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-3-id.png" group-title="DP@SPORT", (DianPhotograph) TNT SPORT WORLD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-us.png"group-title="DP@SPORT", (DianPhotograph) TNT SPORT WORLD
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/godzilla-vs-kong-2021.201814.jpg" group-title="DP@VOD IND SUB", GODZILLA VS KONG (2021) 
