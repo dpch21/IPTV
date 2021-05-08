@@ -909,6 +909,17 @@ https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/godzilla-vs-kong-2021.201814.jpg" group-title="DP@VOD IND SUB", GODZILLA VS KONG (2021) 
 http://139.99.61.223/movie/Godzilla.mkv
 
+
+
+#EXTINF:-1 tvg-logo="http://45.148.120.131/wp-content/uploads/2021/04/oBgWY00bEFeZ9N25wWVyuQddbAo-185x278.jpg" group-title="DP@VOD IND SUB", Nobody
+https://www.googleapis.com/drive/v3/files/1qT4PK7CdPOIuayAvClw_eW-2M73DpuPJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
+#EXTINF:-1 tvg-logo="http://45.148.120.131/wp-content/uploads/2021/04/1w1TVqCiEWqYnfrNUL0N1W8LAfA-185x278.jpg" group-title="DP@VOD IND SUB", The  Marksman
+https://d-8.files.im:182/files/6/yrm9y491jqvjv0/video.mkv
+
+
+
 #EXTINF:-1 tvg-logo="http://173.212.233.209/wp-content/uploads/2021/04/vqZqO8u5IT7J9qKLf62zbS0ff3o-170x255.jpg" group-title="DP@VOD IND SUB", Pipeline (2021) 
 https://www6.playerx.stream/6748bdd2f454062e72cf09b7dc90f5d6/MjAyMS0wNC0yOA==/720.m3u8
 
