@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-cinema-id.png" group-title="MOVIES", MCM
+http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/macau_lotus_tv_mo.png" group-title="MOVIES", LOTUS
+https://cgk1.securepath.site/live/peterz/rickypeter/35484.m3u8?token=QhBYV0dYRg4TDVAGVQECAVcGVVJQXAIBCQMIBAdXBVNaAQAHVVEFDQUaSBAQEEJXVQhvWgIbCVYMAAgFTRQUEVxAb19QEl4WBgtWAlVGHBBADF1WRAMDSRtEWVVDDENTCQIAAgMSSBZUQBBXEQpRXmsBVUUPWlZHA1pFXQ0aQw1XbVRTWVEKUBMCRgJBSBJbRxUSCURwXQFWWlVCCFdBLFxGR1lGW0R9X14LQA4FRFtbCxBwA1dHAEsWHBMDXxUQWEZVFA4SXQcBGkgQAAtFXEAXSRFcG3ohGxgSVBlCBAxKW19YFgpGWQJNXBBPRllBaxdVQBJLVgRUUUITWxRRQBUQXVdMbwdbX1YBURcNX1xHRwoRVxsfR1RbXlgVWRM9SVtUFA4SUgEFAF0QHg==
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.png" group-title="DP@PENGETAHUAN",  (Dian Photograph) ANIMAL PLANET
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 
