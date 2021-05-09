@@ -662,10 +662,10 @@ https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/aniplus_kr_hd.png" group-title="MOVIES", ANIPLUS
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="DP@PENGETAHUAN TV", DISCOVERY CH ID
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="DP@PENGETAHUAN", DISCOVERY CH ID
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/273840
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-earth-uk.png" group-title="DP@PENGETAHUAN TV", BBC EARTH ID
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-earth-uk.png" group-title="DP@PENGETAHUAN", BBC EARTH ID
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165106
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_people_asia.png" group-title="DP@PENGETAHUAN", NAT GEO PEOPLE ID
