@@ -1,5 +1,22 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1Kn3meWkwRw/YH6Mly6ksgI/AAAAAAAABCE/W7nC4Og5Zp0oGnGbK-hfKgsYfw_rgXPJgCLcBGAsYHQ/s0/dian.png" group-title="", (Selamat Menunaikan Ibadah Puasa) 
+https://vimeo.com/546935847
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1Kn3meWkwRw/YH6Mly6ksgI/AAAAAAAABCE/W7nC4Og5Zp0oGnGbK-hfKgsYfw_rgXPJgCLcBGAsYHQ/s0/dian.png" group-title="LIVE", (Stanby disini) 
+https://vimeo.com/546935847
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1Kn3meWkwRw/YH6Mly6ksgI/AAAAAAAABCE/W7nC4Og5Zp0oGnGbK-hfKgsYfw_rgXPJgCLcBGAsYHQ/s0/dian.png" group-title="LIVE", Join Grup Telgram 
+https://vimeo.com/546935847
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN 1 HD
+https://d3u7f2c3yddrxc.cloudfront.net/out/v1/3f2878ed33c349e988b28548a54a5d94/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN 1 BURIK  HD
+https://d3u7f2c3yddrxc.cloudfront.net/out/v1/3f2878ed33c349e988b28548a54a5d94/index_4.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-cinema-id.png" group-title="MOVIES", MCM
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
 
@@ -384,22 +401,6 @@ http://122.248.43.138:1935/ch20/myStream/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8NMW8jT/dian.png" group-title="DpCh@Television_INDONESIAN", (DP) Dayak tv
 http://122.248.43.138:1935/ch26/myStream/live.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1Kn3meWkwRw/YH6Mly6ksgI/AAAAAAAABCE/W7nC4Og5Zp0oGnGbK-hfKgsYfw_rgXPJgCLcBGAsYHQ/s0/dian.png" group-title="", (Selamat Menunaikan Ibadah Puasa) 
-https://vimeo.com/546935847
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1Kn3meWkwRw/YH6Mly6ksgI/AAAAAAAABCE/W7nC4Og5Zp0oGnGbK-hfKgsYfw_rgXPJgCLcBGAsYHQ/s0/dian.png" group-title="LIVE", (Stanby disini) 
-https://vimeo.com/546935847
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1Kn3meWkwRw/YH6Mly6ksgI/AAAAAAAABCE/W7nC4Og5Zp0oGnGbK-hfKgsYfw_rgXPJgCLcBGAsYHQ/s0/dian.png" group-title="LIVE", Join Grup Telgram 
-https://vimeo.com/546935847
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN 1 HD
-https://d3u7f2c3yddrxc.cloudfront.net/out/v1/3f2878ed33c349e988b28548a54a5d94/index_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN 1 BURIK  HD
-https://d3u7f2c3yddrxc.cloudfront.net/out/v1/3f2878ed33c349e988b28548a54a5d94/index_4.m3u8
 
 
 
