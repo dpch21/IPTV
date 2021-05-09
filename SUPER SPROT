@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.png" group-title="DP@PENGETAHUAN",  (Dian Photograph) ANIMAL PLANET
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/outdoor-channel-us.png" group-title="DP@PENGETAHUAN",  (Dian Photograph) OUTDOOR CHANNEL (VIE) 
+http://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="DP@PENGETAHUAN",  (Dian Photograph) NAT GEO WILD 
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 
