@@ -1017,8 +1017,9 @@ http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
 https://nonton.site:8443/6894864475/7163819284/37344
 #EXTINF:0 group-title=DP@ASTRO tvg-logo=https://i.postimg.cc/Z55NBNPg/Astro-Xiao-Tai-Yang.png,Astro XIAO TAI YANG
 http://185.180.221.194:8278/streams/d/Xiaotaiyang/playlist.m3u8
-#EXTINF:-1,tvg-logo=https://i.postimg.cc/KjbJJdqW/Astro-Box-Office-Movies.png group-title=DP@ASTRO ASTRO BOX OFFICE
+#EXTINF:0 group-title=DP@ASTRO tvg-logo=https://i.postimg.cc/KjbJJdqW/Astro-Box-Office-Movies.png ASTRO BOX OFFICE
 http://207.244.239.77:25461/free/free/7825
+
 
 #EXTINF:-1 tvg-logo="http://173.212.233.209/wp-content/uploads/2021/04/vqZqO8u5IT7J9qKLf62zbS0ff3o-170x255.jpg" group-title="DP@VOD IND SUB", Pipeline (2021) 
 https://www6.playerx.stream/6748bdd2f454062e72cf09b7dc90f5d6/MjAyMS0wNC0yOA==/720.m3u8
