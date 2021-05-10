@@ -1033,16 +1033,20 @@ https://y177uid.dood.video/u5kj65j4ehh3sdgge46gyoqbjhyl5it27ozqwzwhqbss65i5wxqwb
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/874855326067118080/BO33QPn__400x400.jpg" group-title="FASHION", A3 BIKINI
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/874855326067118080/BO33QPn__400x400.jpg" group-title="FASHION", MIDNITE SECRETS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RCd1N9LP/images.png" group-title="FASHION", MIDNITE SECRETS
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fashion_tv_fr.png" group-title="FASHION", FASHION TV
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
-
-#EXTINF:-1 tvg-name="FASHION TV" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fashion_tv_fr.png", FASHION TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fashion_tv_fr.png" group-title="FASHION", FASHION TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/mm/miami_tv_us.png" group-title="FASHION", MIAMI TV
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist.m3u8
+
+
+
 #EXTINF:-1 tvg-name="GAY PORN" tvg-logo="https://en.kingofsat.net/jpg/gaytv.jpg", GAY PORN
 http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 tvg-name="ROUGH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsCvPVxTBbrbopbFORr4YxH53lVyr-HRjXQ&usqp=CAU", ROUGH
