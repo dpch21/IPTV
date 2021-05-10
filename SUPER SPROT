@@ -55,6 +55,10 @@ https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=7-m
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K6Q2z7f/sctvlogo.png" group-title="DpCh@Television_INDONESIAN", (DP) SCTV
 http://210.210.155.35:80/session/2d666c26-78c0-11ea-a706-c81f66f89318/qwr9ew/s/s03/01.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K6Q2z7f/sctvlogo.png" group-title="DpCh@Television_INDONESIAN", (DP) SCTV
+http://210.210.155.35:80/session/2d666c26-78c0-11ea-a706-c81f66f89318/qwr9ew/s/s03/01.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K6Q2z7f/sctvlogo.png" group-title="DpCh@Television_INDONESIAN", (DP) SCTV
 https://etslive-2-vidio-com.akamaized.net/exp=1620661408~acl=/hls-p/ingest_204_*/*~hmac=6fe149e50d77ccccffc5604c6cc10e3a3738e0b6ccb87851ad79ecff797b3ca6/hls-p/ingest_204_360p/1620647235000.ts
 
