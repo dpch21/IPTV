@@ -37,13 +37,32 @@ http://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="DpCh@Television_INDONESIAN", (DP) INDOSIAR
-http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
+http://210.210.155.35/qwr9ew/s/s04/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="DpCh@Television_INDONESIAN", (DP) INDOSIAR
+http://cc210b6aa55c.sn.mynetname.net/vidio/indosiar.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="DpCh@Television_INDONESIAN", (DP) INDOSIAR
+https://etslive-2-vidio-com.akamaized.net/exp=1620659193~acl=/hls-p/ingest_205_*/*~hmac=b1bb385ffaf127ff96277f7a4525a3256fc6b6cfe41c7e18a4b0b501e0a9d5e8/hls-p/ingest_205_360p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="DpCh@Television_INDONESIAN", (DP) INDOSIAR
+https://etslive-2-vidio-com.akamaized.net/exp=1620659193~acl=/hls-p/ingest_205_*/*~hmac=b1bb385ffaf127ff96277f7a4525a3256fc6b6cfe41c7e18a4b0b501e0a9d5e8/hls-p/ingest_205_360p/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5nj7gFv/mnctvlogo.png" group-title="DpCh@Television_INDONESIAN", (DP) MNCTV
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K6Q2z7f/sctvlogo.png" group-title="DpCh@Television_INDONESIAN", (DP) SCTV
 http://210.210.155.35:80/session/2d666c26-78c0-11ea-a706-c81f66f89318/qwr9ew/s/s03/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K6Q2z7f/sctvlogo.png" group-title="DpCh@Television_INDONESIAN", (DP) SCTV
+https://etslive-2-vidio-com.akamaized.net/exp=1620661408~acl=/hls-p/ingest_204_*/*~hmac=6fe149e50d77ccccffc5604c6cc10e3a3738e0b6ccb87851ad79ecff797b3ca6/hls-p/ingest_204_360p/1620647235000.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K6Q2z7f/sctvlogo.png" group-title="DpCh@Television_INDONESIAN", (DP) SCTV
+https://etslive-2-vidio-com.akamaized.net/exp=1620661408~acl=/hls-p/ingest_204_*/*~hmac=6fe149e50d77ccccffc5604c6cc10e3a3738e0b6ccb87851ad79ecff797b3ca6/hls-p/ingest_204_360p/1620647235000.ts
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BZKTz4y/rctilogo.png" group-title="DpCh@Television_INDONESIAN", (DP) RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
