@@ -16,85 +16,6 @@ https://www.dropbox.com/s/qokot61ee4gsb49/My%20Video.mp4?dl=1
 http://adnaraoun.xyz/live/6161655/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="DP@USEE TV", (DP) Bioskop Indonesia
-http://home-tv.my.id/RHS/wongkitompd.m3u8?channel=bioskopindonesia
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="DP@USEE TV", (DP) ZBioskop
-http://home-tv.my.id/RHS/wongkitompd.m3u8?channel=zbioskop
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="DP@USEE TV", (DP) TVN
-http://home-tv.my.id/RHS/wongkitompd.m3u8?channel=tvn
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunia_lain_id.png" group-title="DP@USEE TV", (DP) DUNIA LAIN
-https://mkctv.my.id/jusenak/useetv.m3u8?id=dunialain
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="DP@USEE TV", (DP) TVN MOVIES
-http://home-tv.my.id/RHS/wongkitompd.m3u8?channel=tvnmovies
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="DP@USEE TV", (DP) Thrill
-http://home-tv.my.id/RHS/wongkitompd.m3u8?channel=thrill
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="DP@USEE TV", (DP) Celestial Movie
-http://home-tv.my.id/RHS/wongkitompd.m3u8?channel=celestialmovie
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="DP@USEE TV", (DP) Cinema World
-http://home-tv.my.id/RHS/wongkitompd.m3u8?channel=cinemaworld
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="DP@USEE TV", (DP) Flik
-http://home-tv.my.id/RHS/wongkitompd.m3u8?channel=flik
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="DP@USEE TV", (DP) Galaxy
-http://home-tv.my.id/RHS/wongkitompd.m3u8?channel=galaxy
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="DP@USEE TV", (DP) Galaxy Premium
-http://home-tv.my.id/RHS/wongkitompd.m3u8?channel=galaxypremium
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="DP@USEE TV", (DP) IMC
-http://home-tv.my.id/RHS/wongkitompd.m3u8?channel=imc
-
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" group-title="DP@USEE TV", (DP) beIN Sport 1
-https://mkctv.my.id/jusenak/useetv.m3u8?id=bein1
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein2_small1.png?v=2.0.0.13" group-title="DP@USEE TV", (DP) beIN Sport 2
-https://mkctv.my.id/jusenak/useetv.m3u8?id=bein2
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_nba_small1.png?v=2.0.0.13" group-title="DP@USEE TV", (DP) NBA
-https://mkctv.my.id/jusenak/useetv.m3u8?id=nba
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_champ1_small.png" group-title="DP@USEE TV", (DP) ChampionTV 1
-https://mkctv.my.id/jusenak/useetv.m3u8?id=champion1
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_champ2_small.png" group-title="DP@USEE TV", (DP) Champion TV 2
-https://mkctv.my.id/jusenak/useetv.m3u8?id=champion2
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_foxsports1_small.png?v=2.0.0.13" group-title="DP@USEE TV", (DP) Fox Sport 1
-https://mkctv.my.id/jusenak/useetv.m3u8?id=foxsport1
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_foxsports2_small.png?v=2.0.0.13" group-title="DP@USEE TV", (DP) Fox Sport 2
-https://mkctv.my.id/jusenak/useetv.m3u8?id=foxsport2
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_foxsports3_small.png?v=2.0.0.13" group-title="DP@USEE TV", (DP) Fox Sport 3
-https://mkctv.my.id/jusenak/useetv.m3u8?id=foxsport3
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_golf_small1.png?v=2.0.0.14" group-title="DP@USEE TV", (DP) Golf+
-https://mkctv.my.id/jusenak/useetv.m3u8?id=golfplus
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_useesport_small.png?v=2.0.0.13" group-title="DP@USEE TV", (DP) Useesports 1
-https://mkctv.my.id/jusenak/useetv.m3u8?id=useesport
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_useesports2_small.png" group-title="DP@USEE TV", (DP) Useesports 2
-https://mkctv.my.id/jusenak/useetv.m3u8?id=useesports2
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_egg_small1.png?v=2.0.0.13" group-title="DP@USEE TV", (DP) eGG TV
-https://mkctv.my.id/jusenak/useetv.m3u8?id=egg
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/animax_asia.png" group-title="DP@USEE TV", Animax ID
-https://mkctv.my.id/jusenak/useetv.m3u8?id=animax
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/aniplus_kr_hd.png" group-title="DP@USEE TV",  AniPlus ID
-https://mkctv.my.id/jusenak/useetv.m3u8?id=aniplus
-
 
 
 
@@ -148,8 +69,6 @@ https://d30tho09timqkb.cloudfront.net/out/v1/e9aa749a29a34ba59e6a2e9b70dbe138/in
 
 EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN 3 HD
 https://d1wz6zummv1gcq.cloudfront.net/out/v1/c21351bd96f24818ad51d0112f229e5d/index_1.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN EPL 2 BURIK
 https://d3g8ubaferj2d1.cloudfront.net/out/v1/3849055818a5461985839047f9ef6eae/index_4.m3u8
