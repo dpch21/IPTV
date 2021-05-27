@@ -2392,6 +2392,9 @@ http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://distv.net/icons/cartoonnetwork.png" group-title="DP@KIDS", CARTOON NETWORK
 http://rec2.distv.net:80/aurora/123456/124
 
+#EXTINF:-1 tvg-logo="http://distv.net/icons/cartoonnetwork.png" group-title="DP@KIDS", CARTOON NETWORK (ASIA) 
+http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
+
 
 ++++++++++++++++++++++++++++++++++
 
