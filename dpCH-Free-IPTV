@@ -873,6 +873,10 @@ https://nonton.site:8443/carl/carl/37371
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/m_net_kr.png" group-title="DP@KOREA",  MNET 
 http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVWMFjgB/IMG-20210527-185940.jpg" group-title="DP@KOREA",  KPOP TV
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtbc_kr.png" group-title="DP@KOREA",  JTBC
 http://51.81.66.195:1935/krtv/jtbc_540/playlist.m3u8
 
