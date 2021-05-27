@@ -1231,7 +1231,7 @@ http://stream.tvtap.live:8081/live/pt-sporttv4.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv5.png" group-title="DP@SPORT", (DianPhotograph) SPORT TV 5
 http://iptvtree.net:8080/vpngenerators/635ee5a5e7/1495
 
-EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="DP@SPORT", (DianPhotograph) WWE NETWORK TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="DP@SPORT", (DianPhotograph) WWE NETWORK TV
 http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_futbol_1.png "group-title="DP@SPORT", (DP) (DianPhotograph) Match! Futbol 1
