@@ -2314,6 +2314,11 @@ http://rec2.distv.net:80/aurora/123456/124
 #EXTINF:-1 tvg-logo="http://distv.net/icons/cartoonnetwork.png" group-title="DP@KIDS", CARTOON NETWORK (ASIA) 
 http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kids-tv-id.png" group-title="DP@KIDS", KIDS TV
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162505
+
+#EXTINF:-1 tvg-logo="http://distv.net/icons/nick.png" group-title="DP@KIDS", NICK (ASIA) 
+http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
 
 ++++++++++++++++++++++++++++++++++
 
@@ -2336,7 +2341,7 @@ http://iptv.tvmalaysia.cc/932633/932633/7071
 http://iptv.tvmalaysia.cc/932633/932633/7064
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_action.png" group-title="DP@HBO & FOX SUB INDO", FOX ACTION MOVIES HD
-http://iptv.tvmalaysia.cc/932633/932633/7063
+http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_global.png" group-title="DP@HBO & FOX SUB INDO", FOX HD
 http://iptv.tvmalaysia.cc/932633/932633/7227
