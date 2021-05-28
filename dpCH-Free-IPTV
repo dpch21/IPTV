@@ -44,6 +44,9 @@ https://iptv.kampung.xyz/ch/Bernama/index.m3u8
 #EXTINF:-1 group-title="DP@NEWS" tvg-id="1503" tvg-chno="503" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/44_144.png",CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
+#EXTINF:-1 group-title="DP@NEWS" tvg-id="1503" tvg-chno="503" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/44_144.png",CNN INT
+http://iptvtree.net:8080/resplice/534db280/480
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZmY1MDA1ZDUtNmMzMC0zOGI0LTlkN2YtYWQ2ZWU4MmM2OTAz
 #EXTINF:-1 group-title="DP@NEWS" tvg-id="1512" tvg-chno="512" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/366_144.png",BBC World News HD
@@ -149,7 +152,7 @@ https://d3g8ubaferj2d1.cloudfront.net/out/v1/3849055818a5461985839047f9ef6eae/in
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/flix_us_east.png" group-title="MOVIES", FLIX
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_world_premiere_hd_in.pngg" group-title="MOVIES", STAR WORLD PREMIERE HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_world_premiere_hd_in.png" group-title="MOVIES", STAR WORLD PREMIERE HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/d499ddfab492af5.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony_pix_in.png" group-title="MOVIES", SONY PIX HD
