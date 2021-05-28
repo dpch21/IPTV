@@ -138,11 +138,19 @@ https://d30tho09timqkb.cloudfront.net/out/v1/e9aa749a29a34ba59e6a2e9b70dbe138/in
 EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN 3 HD
 https://d1wz6zummv1gcq.cloudfront.net/out/v1/c21351bd96f24818ad51d0112f229e5d/index_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN EPL 2 BURIK
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdV4dQq9/download-1.jpg" group-title="LIVE", Final Man City vs Chelsea 05-30-2021 02.00 WIB
 https://d3g8ubaferj2d1.cloudfront.net/out/v1/3849055818a5461985839047f9ef6eae/index_4.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/flix_us_east.png" group-title="MOVIES", FLIX
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_world_premiere_hd_in.pngg" group-title="MOVIES", STAR WORLD PREMIERE HD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/d499ddfab492af5.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony_pix_in.png" group-title="MOVIES", SONY PIX HD
 http://iptv.tvmalaysia.cc/932633/932633/8213
@@ -2385,6 +2393,9 @@ http://rec2.distv.net:80/aurora/123456/124
 
 #EXTINF:-1 tvg-logo="http://distv.net/icons/cartoonnetwork.png" group-title="DP@KIDS", CARTOON NETWORK (ASIA) 
 http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://distv.net/icons/cartoonnetwork.png" group-title="DP@KIDS", CARTOON NETWORK (PAK) 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/2a347e9e75008c7.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kids-tv-id.png" group-title="DP@KIDS", KIDS TV
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162505
