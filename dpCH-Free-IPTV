@@ -1281,6 +1281,21 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta_sports_eurasia.png" group-title="DP@SPORT", (DianPhotograph) SETANTA 
 http://oncvq5kd.ottclub.xyz/iptv/7GCEMFFA9LAR2P/272/index.m3u8
 
+
+#EXTINF:-1   tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm.png" group-title="DP@SPORT,Skynet Sports1
+http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm.png" group-title="DP@SPORT",Skynet sports 2
+http://77.83.117.60:8888/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm.png" group-title="DP@SPORT",Skynet Sports 3
+http://77.83.117.60:8888/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm.png" group-title="DP@SPORT",Skynet sports 4
+http://77.83.117.60:8888/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm.png" group-title="DP@SPORT",Skynet Sports 5
+http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm.png" group-title="DP@SPORT",Skynet sports 6
+http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta-sports-1-evraziya-ie.png" group-title="DP@SPORT", (DianPhotograph) SETANTA 1
 http://ott-cdn.ucom.am/s81/03.m3u8
 
