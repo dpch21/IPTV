@@ -24,11 +24,14 @@ http://ssx1.1xcdn.xyz/hls/j2/Ten2_HD_HLS.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="LIVE", SONY TEN 3 SD (IND AUDIO)
 http://ssx1.1xcdn.xyz/hls/j2/Ten3_HD_HLS.m3u8
 
-#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT Sport 1 FHD" tvg-logo="http://77.68.73.254/logos/united-kingdom/bt-sport-1-uk.png" group-title="LIVE",BT Sport 1 FHD (ENG AUDIO)
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT Sport 1 FHD (ENG AUDIO)" tvg-logo="http://77.68.73.254/logos/united-kingdom/bt-sport-1-uk.png" group-title="LIVE",BT Sport 1 FHD (ENG AUDIO)
 http://pulselightning.uk:8080/Lilly765/Lilly765/222641
 
 #EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/bt-sports-1432804958.jpg" group-title="DP@SPORT", BT SPORT 1 SD (ENG AUDIO) 
 http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-malaysia-and-singapore-qa-my-sg.png" group-title="LIVE", BEIN SPORT MAX (MAY)
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157487
 
 
 
@@ -1253,6 +1256,9 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6618
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmwmGFny/unnamed-17.jpg" group-title="DP@SKY SPORTS", (DP) Sky Sports Football
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6620
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-malaysia-and-singapore-qa-my-sg.png" group-title="DP@SPORT", BEIN SPORT MAX (MAY)
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157487
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kGr6Yktn/IMG-20210105-105040.jpg" group-title="DP@SKY SPORTS", (DP) Sky Sports Premier League
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6621
