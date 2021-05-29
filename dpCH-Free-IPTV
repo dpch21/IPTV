@@ -24,6 +24,12 @@ http://ssx1.1xcdn.xyz/hls/j2/Ten2_HD_HLS.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="LIVE", SONY TEN 3 SD (IND AUDIO)
 http://ssx1.1xcdn.xyz/hls/j2/Ten3_HD_HLS.m3u8
 
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT Sport 1 FHD" tvg-logo="http://77.68.73.254/logos/united-kingdom/bt-sport-1-uk.png" group-title="LIVE",BT Sport 1 FHD (ENG AUDIO)
+http://pulselightning.uk:8080/Lilly765/Lilly765/222641
+
+#EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/bt-sports-1432804958.jpg" group-title="DP@SPORT", BT SPORT 1 SD (ENG AUDIO) 
+http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="NBA" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="DP@NBA",NBA
