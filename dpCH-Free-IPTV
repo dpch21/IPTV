@@ -12,25 +12,26 @@ https://www.dropbox.com/s/qokot61ee4gsb49/My%20Video.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1Kn3meWkwRw/YH6Mly6ksgI/AAAAAAAABCE/W7nC4Og5Zp0oGnGbK-hfKgsYfw_rgXPJgCLcBGAsYHQ/s0/dian.png" group-title="LIVE", http://te.me/dianphotograph
 https://www.dropbox.com/s/qokot61ee4gsb49/My%20Video.mp4?dl=1
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="LIVE", BEIN PREMIUM HD
+EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="LIVE", BEIN PREMIUM HD
 http://adnaraoun.xyz/live/6161655/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdV4dQq9/download-1.jpg" group-title="LIVE", Final Man City vs Chelsea 05-30-2021 02.00 WIB
+https://d3g8ubaferj2d1.cloudfront.net/out/v1/3849055818a5461985839047f9ef6eae/index_4.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="LIVE", SONY TEN 2 SD (ENG AUDIO)
+http://ssx1.1xcdn.xyz/hls/j2/Ten2_HD_HLS.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="LIVE", SONY TEN 3 SD (IND AUDIO)
+http://ssx1.1xcdn.xyz/hls/j2/Ten3_HD_HLS.m3u8
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="NBA" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="DP@NBA",NBA
 http://xtra.xcs521.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/39083
-#EXTINF:-1 tvg-id="" tvg-name="NBA 3  MATCH EVENT" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="DP@NBA",NBA 3  MATCH EVENT
-http://xtra.xcs521.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/39095
-#EXTINF:-1 tvg-id="" tvg-name="NBA 6  MATCH EVENT" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="DP@NBA",NBA 6  MATCH EVENT
-http://xtra.xcs521.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/39096
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/05/nba-tv-logo.png" group-title="DP@NBA",NBA TV
 http://mantul.biz.id:8888/gibran/gibran/23
-#EXTINF:-1 tvg-id="" tvg-name="Nba Tv Asia" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="DP@NBA",Nba Tv Asia
 
 
-@@ -348,6 +348,312 @@ http://connecttvapp.xyz:80/23071994/23071994/59
 
 
 
@@ -58,6 +59,32 @@ http://pulselightning.uk:8080/Lilly765/Lilly765/222624
 http://pulselightning.uk:8080/Lilly765/Lilly765/222628
 
 
+#EXTINF:-1 tvg-id="DAZN1.DAZN" tvg-name="Live | DAZN 01 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title=“DP@DAZN”,Live | DAZN 01 HD
+		http://pulselightning.uk:8080/Lilly765/Lilly765/223315
+		#EXTINF:-1 tvg-id="DAZN2.DAZN" tvg-name="Live | DAZN 02 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title=“DP@DAZN”,Live | DAZN 02 HD
+		http://pulselightning.uk:8080/Lilly765/Lilly765/223316
+		#EXTINF:-1 tvg-id="DAZN3.DAZN" tvg-name="Live | DAZN 03 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title=“DP@DAZN”,Live | DAZN 03 HD
+		http://pulselightning.uk:8080/Lilly765/Lilly765/223317
+		#EXTINF:-1 tvg-id="DAZN4.DAZN" tvg-name="Live | DAZN 04 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title=“DP@DAZN”,Live | DAZN 04 HD
+		http://pulselightning.uk:8080/Lilly765/Lilly765/223318
+		#EXTINF:-1 tvg-id="DAZN5.DAZN" tvg-name="Live | DAZN 05 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title=“DP@DAZN”,Live | DAZN 05 HD
+		http://pulselightning.uk:8080/Lilly765/Lilly765/223319
+		#EXTINF:-1 tvg-id="DAZN6.DAZN" tvg-name="Live | DAZN 06 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title=“DP@DAZN”,Live | DAZN 06 HD
+		http://pulselightning.uk:8080/Lilly765/Lilly765/223320
+		#EXTINF:-1 tvg-id="DAZN7.DAZN" tvg-name="Live | DAZN 07 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title=“DP@DAZN”,Live | DAZN 07 HD
+		http://pulselightning.uk:8080/Lilly765/Lilly765/223321
+		#EXTINF:-1 tvg-id="DAZN8.DAZN" tvg-name="Live | DAZN 08 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title=“DP@DAZN”,Live | DAZN 08 HD
+		http://pulselightning.uk:8080/Lilly765/Lilly765/223322
+		#EXTINF:-1 tvg-id="DAZN9.DAZN" tvg-name="Live | DAZN 09 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title=“DP@DAZN”,Live | DAZN 09 HD
+		http://pulselightning.uk:8080/Lilly765/Lilly765/223323
+		#EXTINF:-1 tvg-id="DAZN10.DAZN" tvg-name="Live | DAZN 10 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title=“DP@DAZN”,Live | DAZN 10 HD
+		http://pulselightning.uk:8080/Lilly765/Lilly765/223324
+		#EXTINF:-1 tvg-id="DAZN11.DAZN" tvg-name="Live | DAZN 11 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title=“DP@DAZN”,Live | DAZN 11 HD
+		http://pulselightning.uk:8080/Lilly765/Lilly765/223325
+		#EXTINF:-1 tvg-id="DAZN12.DAZN" tvg-name="Live | DAZN 12 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title=“DP@DAZN”,Live | DAZN 12 HD
+		http://pulselightning.uk:8080/Lilly765/Lilly765/223326
+		#EXTINF:-1 tvg-id="DAZN13.DAZN" tvg-name="Live | DAZN 13 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title=“DP@DAZN”,Live | DAZN 13 HD
+		http://pulselightning.uk:8080/Lilly765/Lilly765/223327
 
 
 
@@ -227,8 +254,7 @@ https://d30tho09timqkb.cloudfront.net/out/v1/e9aa749a29a34ba59e6a2e9b70dbe138/in
 EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN 3 HD
 https://d1wz6zummv1gcq.cloudfront.net/out/v1/c21351bd96f24818ad51d0112f229e5d/index_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdV4dQq9/download-1.jpg" group-title="LIVE", Final Man City vs Chelsea 05-30-2021 02.00 WIB
-https://d3g8ubaferj2d1.cloudfront.net/out/v1/3849055818a5461985839047f9ef6eae/index_4.m3u8
+
 
 
 
