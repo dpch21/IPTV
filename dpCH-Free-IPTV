@@ -59,32 +59,32 @@ http://pulselightning.uk:8080/Lilly765/Lilly765/222624
 http://pulselightning.uk:8080/Lilly765/Lilly765/222628
 
 
-#EXTINF:-1 tvg-id="DAZN1.DAZN" tvg-name="Live | DAZN 01 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title=“DP@DAZN”,Live | DAZN 01 HD
-		http://pulselightning.uk:8080/Lilly765/Lilly765/223315
-		#EXTINF:-1 tvg-id="DAZN2.DAZN" tvg-name="Live | DAZN 02 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title=“DP@DAZN”,Live | DAZN 02 HD
-		http://pulselightning.uk:8080/Lilly765/Lilly765/223316
-		#EXTINF:-1 tvg-id="DAZN3.DAZN" tvg-name="Live | DAZN 03 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title=“DP@DAZN”,Live | DAZN 03 HD
-		http://pulselightning.uk:8080/Lilly765/Lilly765/223317
-		#EXTINF:-1 tvg-id="DAZN4.DAZN" tvg-name="Live | DAZN 04 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title=“DP@DAZN”,Live | DAZN 04 HD
-		http://pulselightning.uk:8080/Lilly765/Lilly765/223318
-		#EXTINF:-1 tvg-id="DAZN5.DAZN" tvg-name="Live | DAZN 05 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title=“DP@DAZN”,Live | DAZN 05 HD
-		http://pulselightning.uk:8080/Lilly765/Lilly765/223319
-		#EXTINF:-1 tvg-id="DAZN6.DAZN" tvg-name="Live | DAZN 06 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title=“DP@DAZN”,Live | DAZN 06 HD
-		http://pulselightning.uk:8080/Lilly765/Lilly765/223320
-		#EXTINF:-1 tvg-id="DAZN7.DAZN" tvg-name="Live | DAZN 07 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title=“DP@DAZN”,Live | DAZN 07 HD
-		http://pulselightning.uk:8080/Lilly765/Lilly765/223321
-		#EXTINF:-1 tvg-id="DAZN8.DAZN" tvg-name="Live | DAZN 08 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title=“DP@DAZN”,Live | DAZN 08 HD
-		http://pulselightning.uk:8080/Lilly765/Lilly765/223322
-		#EXTINF:-1 tvg-id="DAZN9.DAZN" tvg-name="Live | DAZN 09 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title=“DP@DAZN”,Live | DAZN 09 HD
-		http://pulselightning.uk:8080/Lilly765/Lilly765/223323
-		#EXTINF:-1 tvg-id="DAZN10.DAZN" tvg-name="Live | DAZN 10 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title=“DP@DAZN”,Live | DAZN 10 HD
-		http://pulselightning.uk:8080/Lilly765/Lilly765/223324
-		#EXTINF:-1 tvg-id="DAZN11.DAZN" tvg-name="Live | DAZN 11 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title=“DP@DAZN”,Live | DAZN 11 HD
-		http://pulselightning.uk:8080/Lilly765/Lilly765/223325
-		#EXTINF:-1 tvg-id="DAZN12.DAZN" tvg-name="Live | DAZN 12 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title=“DP@DAZN”,Live | DAZN 12 HD
-		http://pulselightning.uk:8080/Lilly765/Lilly765/223326
-		#EXTINF:-1 tvg-id="DAZN13.DAZN" tvg-name="Live | DAZN 13 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title=“DP@DAZN”,Live | DAZN 13 HD
-		http://pulselightning.uk:8080/Lilly765/Lilly765/223327
+XTINF:-1 tvg-id="DAZN1.DAZN" tvg-name="Live | DAZN 01 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title="DAZN",Live | DAZN 01 HD
+http://pulselightning.uk:8080/Lilly765/Lilly765/223315
+#EXTINF:-1 tvg-id="DAZN2.DAZN" tvg-name="Live | DAZN 02 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title="DAZN",Live | DAZN 02 HD
+http://pulselightning.uk:8080/Lilly765/Lilly765/223316
+#EXTINF:-1 tvg-id="DAZN3.DAZN" tvg-name="Live | DAZN 03 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title="DAZN",Live | DAZN 03 HD
+http://pulselightning.uk:8080/Lilly765/Lilly765/223317
+#EXTINF:-1 tvg-id="DAZN4.DAZN" tvg-name="Live | DAZN 04 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title="DAZN",Live | DAZN 04 HD
+http://pulselightning.uk:8080/Lilly765/Lilly765/223318
+#EXTINF:-1 tvg-id="DAZN5.DAZN" tvg-name="Live | DAZN 05 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title="DAZN",Live | DAZN 05 HD
+http://pulselightning.uk:8080/Lilly765/Lilly765/223319
+#EXTINF:-1 tvg-id="DAZN6.DAZN" tvg-name="Live | DAZN 06 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title="DAZN",Live | DAZN 06 HD
+http://pulselightning.uk:8080/Lilly765/Lilly765/223320
+#EXTINF:-1 tvg-id="DAZN7.DAZN" tvg-name="Live | DAZN 07 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title="DAZN",Live | DAZN 07 HD
+http://pulselightning.uk:8080/Lilly765/Lilly765/223321
+#EXTINF:-1 tvg-id="DAZN8.DAZN" tvg-name="Live | DAZN 08 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title="DAZN",Live | DAZN 08 HD
+http://pulselightning.uk:8080/Lilly765/Lilly765/223322
+#EXTINF:-1 tvg-id="DAZN9.DAZN" tvg-name="Live | DAZN 09 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title="DAZN",Live | DAZN 09 HD
+http://pulselightning.uk:8080/Lilly765/Lilly765/223323
+#EXTINF:-1 tvg-id="DAZN10.DAZN" tvg-name="Live | DAZN 10 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title="DAZN",Live | DAZN 10 HD
+http://pulselightning.uk:8080/Lilly765/Lilly765/223324
+#EXTINF:-1 tvg-id="DAZN11.DAZN" tvg-name="Live | DAZN 11 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title="DAZN",Live | DAZN 11 HD
+http://pulselightning.uk:8080/Lilly765/Lilly765/223325
+#EXTINF:-1 tvg-id="DAZN12.DAZN" tvg-name="Live | DAZN 12 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title="DAZN",Live | DAZN 12 HD
+http://pulselightning.uk:8080/Lilly765/Lilly765/223326
+#EXTINF:-1 tvg-id="DAZN13.DAZN" tvg-name="Live | DAZN 13 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title="DAZN",Live | DAZN 13 HD
+http://pulselightning.uk:8080/Lilly765/Lilly765/223327
 
 
 
