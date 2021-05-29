@@ -34,6 +34,30 @@ http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157487
 
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="LIVE", BEIN PREMIUM (AR AUDIO)
+http://1.alhawalouh.xyz/live/6161655/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="LIVE", BEIN YALLA HD (AR AUDIO)
+https://d1qrlcqj36d57y.cloudfront.net/out/v1/b365d51598d34929a8429647b3949a0c/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="LIVE", BEIN YALLA SD (AR AUDIO)
+https://d1qrlcqj36d57y.cloudfront.net/out/v1/b365d51598d34929a8429647b3949a0c/index_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="LIVE", BEIN YALLA SD LOW (AR AUDIO)
+https://d1qrlcqj36d57y.cloudfront.net/out/v1/b365d51598d34929a8429647b3949a0c/index_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="LIVE", BEIN YALLA BURIK (AR AUDIO)
+https://d1qrlcqj36d57y.cloudfront.net/out/v1/b365d51598d34929a8429647b3949a0c/index_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-5-cn.png" group-title="LIVE", CCTV 5 SD (CHN AUDIO)
+http://cctvalih5ca.v.myalicdn.com/live/cctv5_2/index.m3u8
+
+#EXTINF:-1   tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm.png" group-title="LIVE",Skynet Sports1
+http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm.png" group-title="LIVE",Skynet sports 2
+http://77.83.117.60:8888/03_skynetsport2_480p/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="NBA" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="DP@NBA",NBA
 http://xtra.xcs521.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/39083
