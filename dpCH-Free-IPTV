@@ -325,6 +325,14 @@ https://nonton.site:8443/provision/pp/29592
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/imc-id.png" group-title="MOVIES",  IMC (WAJIB TVMATE) 
 https://nonton.site:8443/provision/pp/35484
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png" group-title="MOVIES",  FLIK
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169673
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/imc-id.png" group-title="MOVIES",  IMC 
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169669
+
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
