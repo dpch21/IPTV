@@ -2599,13 +2599,16 @@ http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/197055
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/red_by_hbo_us.png" group-title="DP@HBO & FOX SUB INDO", RED By HBO  HD
-http://iptv.tvmalaysia.cc/932633/932633/7071
+http://zalogitv.tech:8080/ADI/ADI/1373
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_asia.png" group-title="DP@HBO & FOX SUB INDO", FOX MOVIES HD
 http://iptv.tvmalaysia.cc/932633/932633/7064
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_action.png" group-title="DP@HBO & FOX SUB INDO", FOX ACTION MOVIES HD
 http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/jv/thumb/c/c0/FOX_Movies_Premium_Asia.png/150px-FOX_Movies_Premium_Asia.png" group-title="DP@HBO & FOX SUB INDO", FOX ACTION MOVIES PREMIUMN HD
+http://zalogitv.tech:8080/ADI/ADI/1357
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_global.png" group-title="DP@HBO & FOX SUB INDO", FOX HD
 http://iptv.tvmalaysia.cc/932633/932633/7227
