@@ -30,6 +30,9 @@ http://pulselightning.uk:8080/Lilly765/Lilly765/222641
 #EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/bt-sports-1432804958.jpg" group-title="DP@SPORT", BT SPORT 1 SD (ENG AUDIO) 
 http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/bt-sports-1432804958.jpg" group-title="DP@SPORT", UFC
+http://zalogitv.tech:8080/gone/gone/1854
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-malaysia-and-singapore-qa-my-sg.png" group-title="LIVE", BEIN SPORT MAX (MAY)
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157487
 
