@@ -2620,7 +2620,7 @@ http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax_asia.png" group-title="DP@HBO & FOX SUB INDO", FOX CINEMAX HD
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+http://zalogitv.tech:8080/ADI/ADI/1371
 
 ++++++++++++++++++++++++++++++++++
 
