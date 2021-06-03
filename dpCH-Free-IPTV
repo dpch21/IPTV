@@ -358,6 +358,12 @@ https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
 
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="DP@KOREA" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png" group-title="DP@KOREA", S-ONE
+https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
