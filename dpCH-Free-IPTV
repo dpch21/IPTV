@@ -1151,6 +1151,11 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/197055
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thrill_hk.png" group-title="MOVIES", (DP)  THRILL ID
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157580
 
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thrill_hk.png" group-title="MOVIES", (DP)  THRILL
+http://210.210.155.35/session/53cb7f1e-c446-11eb-845d-a3e4a63de879/qwr9ew/s/s34/02.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png" group-title="MOVIES", TvN MOVIES HD ID
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157596
 
