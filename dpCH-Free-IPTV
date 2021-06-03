@@ -12,17 +12,6 @@ https://www.dropbox.com/s/qokot61ee4gsb49/My%20Video.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1Kn3meWkwRw/YH6Mly6ksgI/AAAAAAAABCE/W7nC4Og5Zp0oGnGbK-hfKgsYfw_rgXPJgCLcBGAsYHQ/s0/dian.png" group-title="LIVE", http://te.me/dianphotograph
 https://www.dropbox.com/s/qokot61ee4gsb49/My%20Video.mp4?dl=1
 
-EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="LIVE", BEIN PREMIUM HD
-http://adnaraoun.xyz/live/6161655/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdV4dQq9/download-1.jpg" group-title="LIVE", Final Man City vs Chelsea 05-30-2021 02.00 WIB
-https://d3g8ubaferj2d1.cloudfront.net/out/v1/3849055818a5461985839047f9ef6eae/index_4.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="LIVE", SONY TEN 2 SD (ENG AUDIO)
-http://ssx1.1xcdn.xyz/hls/j2/Ten2_HD_HLS.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="LIVE", SONY TEN 3 SD (IND AUDIO)
-http://ssx1.1xcdn.xyz/hls/j2/Ten3_HD_HLS.m3u8
 
 #EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT Sport 1 FHD (ENG AUDIO)" tvg-logo="http://77.68.73.254/logos/united-kingdom/bt-sport-1-uk.png" group-title="LIVE",BT Sport 1 FHD (ENG AUDIO)
 http://pulselightning.uk:8080/Lilly765/Lilly765/222641
@@ -33,33 +22,14 @@ http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/bt-sports-1432804958.jpg" group-title="DP@SPORT", UFC
 http://zalogitv.tech:8080/gone/gone/1854
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-malaysia-and-singapore-qa-my-sg.png" group-title="LIVE", BEIN SPORT MAX (MAY)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157487
+#EXTINF:-1 tvg-logo="http://thaiip.tv/tvlogo2/32.png" tvg-logo="http://thaiip.tv/tvlogo2/32.png" group-title="LIVE", THAIRATH (MAY)
+http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="LIVE", BEIN PREMIUM (AR AUDIO)
-http://1.alhawalouh.xyz/live/6161655/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="LIVE", BEIN YALLA HD (AR AUDIO)
-https://d1qrlcqj36d57y.cloudfront.net/out/v1/b365d51598d34929a8429647b3949a0c/index_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="LIVE", BEIN YALLA SD (AR AUDIO)
-https://d1qrlcqj36d57y.cloudfront.net/out/v1/b365d51598d34929a8429647b3949a0c/index_2.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="LIVE", BEIN YALLA SD LOW (AR AUDIO)
-https://d1qrlcqj36d57y.cloudfront.net/out/v1/b365d51598d34929a8429647b3949a0c/index_3.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="LIVE", BEIN YALLA BURIK (AR AUDIO)
-https://d1qrlcqj36d57y.cloudfront.net/out/v1/b365d51598d34929a8429647b3949a0c/index_4.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-5-cn.png" group-title="LIVE", CCTV 5 SD (CHN AUDIO)
-http://cctvalih5ca.v.myalicdn.com/live/cctv5_2/index.m3u8
-
-#EXTINF:-1   tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm.png" group-title="LIVE",Skynet Sports1
-http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
-#EXTINF:-1   tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm.png" group-title="LIVE",Skynet sports 2
-http://77.83.117.60:8888/03_skynetsport2_480p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="NBA" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="DP@NBA",NBA
