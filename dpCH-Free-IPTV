@@ -13,8 +13,6 @@ https://www.dropbox.com/s/qokot61ee4gsb49/My%20Video.mp4?dl=1
 https://www.dropbox.com/s/qokot61ee4gsb49/My%20Video.mp4?dl=1
 
 
-#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT Sport 1 FHD (ENG AUDIO)" tvg-logo="http://77.68.73.254/logos/united-kingdom/bt-sport-1-uk.png" group-title="LIVE",BT Sport 1 FHD (ENG AUDIO)
-http://pulselightning.uk:8080/Lilly765/Lilly765/222641
 
 #EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/bt-sports-1432804958.jpg" group-title="DP@SPORT", BT SPORT 1 SD (ENG AUDIO) 
 http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
@@ -22,10 +20,8 @@ http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/bt-sports-1432804958.jpg" group-title="DP@SPORT", UFC
 http://zalogitv.tech:8080/gone/gone/1854
 
-#EXTINF:-1 tvg-logo="http://thaiip.tv/tvlogo2/32.png" tvg-logo="http://thaiip.tv/tvlogo2/32.png" group-title="LIVE", THAIRATH (MAY)
+#EXTINF:-1 tvg-logo="http://thaiip.tv/tvlogo2/32.png" tvg-logo="http://thaiip.tv/tvlogo2/32.png" group-title="LIVE", THAIRATH (THAI)
 http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-
-
 
 
 
@@ -38,113 +34,6 @@ http://xtra.xcs521.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/39083
 http://mantul.biz.id:8888/gibran/gibran/23
 
 
-
-
-
-#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="Sky Sports News FHD" tvg-logo="http://77.68.73.254/logos/UK/skysportsnews.png" group-title="UK | Sky Sports",Sky Sports News FHD
-http://pulselightning.uk:8080/Lilly765/Lilly765/222625
-#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="Sky Sports Main Event FHD" tvg-logo="http://77.68.73.254/logos/UK/skysportsmainevent.png" group-title="UK | Sky Sports",Sky Sports Main Event FHD
-http://pulselightning.uk:8080/Lilly765/Lilly765/222623
-#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="Sky Sports Premier League FHD" tvg-logo="http://77.68.73.254/logos/UK/skysportspremierleague.png" group-title="UK | Sky Sports",Sky Sports Premier League FHD
-http://pulselightning.uk:8080/Lilly765/Lilly765/222627
-#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="Sky Sports Football FHD" tvg-logo="http://77.68.73.254/logos/UK/skysportsfootball.png" group-title="UK | Sky Sports",Sky Sports Football FHD
-http://pulselightning.uk:8080/Lilly765/Lilly765/222621
-#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="Sky Sports Action (NFL) FHD" tvg-logo="http://77.68.73.254/logos/UK/skysportsaction.png" group-title="UK | Sky Sports",Sky Sports Action (NFL) FHD
-http://pulselightning.uk:8080/Lilly765/Lilly765/222626
-#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="Sky Sports Arena (Darts) FHD" tvg-logo="http://77.68.73.254/logos/UK/skysportsarena.png" group-title="UK | Sky Sports",Sky Sports Arena (Darts) FHD
-http://pulselightning.uk:8080/Lilly765/Lilly765/222618
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Cricket FHD" tvg-logo="http://77.68.73.254/logos/UK/skysportscricket.png" group-title="UK | Sky Sports",Sky Sports Cricket FHD
-http://pulselightning.uk:8080/Lilly765/Lilly765/222619
-#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="Sky Sports Golf FHD" tvg-logo="http://77.68.73.254/logos/UK/skysportsgolf.png" group-title="UK | Sky Sports",Sky Sports Golf FHD
-http://pulselightning.uk:8080/Lilly765/Lilly765/222622
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="Sky Sports F1 FHD" tvg-logo="http://77.68.73.254/logos/UK/skysportsf1.png" group-title="UK | Sky Sports",Sky Sports F1 FHD
-http://pulselightning.uk:8080/Lilly765/Lilly765/222620
-#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="Sky Sports Mix FHD" tvg-logo="http://77.68.73.254/logos/UK/skysportsmix.png" group-title="UK | Sky Sports",Sky Sports Mix FHD
-http://pulselightning.uk:8080/Lilly765/Lilly765/222624
-#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="Sky Sports Racing FHD" tvg-logo="http://77.68.73.254/logos/UK/skysportsracing.png" group-title="UK | Sky Sports",Sky Sports Racing FHD
-http://pulselightning.uk:8080/Lilly765/Lilly765/222628
-
-
-XTINF:-1 tvg-id="DAZN1.DAZN" tvg-name="Live | DAZN 01 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title="DAZN",Live | DAZN 01 HD
-http://pulselightning.uk:8080/Lilly765/Lilly765/223315
-#EXTINF:-1 tvg-id="DAZN2.DAZN" tvg-name="Live | DAZN 02 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title="DAZN",Live | DAZN 02 HD
-http://pulselightning.uk:8080/Lilly765/Lilly765/223316
-#EXTINF:-1 tvg-id="DAZN3.DAZN" tvg-name="Live | DAZN 03 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title="DAZN",Live | DAZN 03 HD
-http://pulselightning.uk:8080/Lilly765/Lilly765/223317
-#EXTINF:-1 tvg-id="DAZN4.DAZN" tvg-name="Live | DAZN 04 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title="DAZN",Live | DAZN 04 HD
-http://pulselightning.uk:8080/Lilly765/Lilly765/223318
-#EXTINF:-1 tvg-id="DAZN5.DAZN" tvg-name="Live | DAZN 05 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title="DAZN",Live | DAZN 05 HD
-http://pulselightning.uk:8080/Lilly765/Lilly765/223319
-#EXTINF:-1 tvg-id="DAZN6.DAZN" tvg-name="Live | DAZN 06 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title="DAZN",Live | DAZN 06 HD
-http://pulselightning.uk:8080/Lilly765/Lilly765/223320
-#EXTINF:-1 tvg-id="DAZN7.DAZN" tvg-name="Live | DAZN 07 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title="DAZN",Live | DAZN 07 HD
-http://pulselightning.uk:8080/Lilly765/Lilly765/223321
-#EXTINF:-1 tvg-id="DAZN8.DAZN" tvg-name="Live | DAZN 08 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title="DAZN",Live | DAZN 08 HD
-http://pulselightning.uk:8080/Lilly765/Lilly765/223322
-#EXTINF:-1 tvg-id="DAZN9.DAZN" tvg-name="Live | DAZN 09 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title="DAZN",Live | DAZN 09 HD
-http://pulselightning.uk:8080/Lilly765/Lilly765/223323
-#EXTINF:-1 tvg-id="DAZN10.DAZN" tvg-name="Live | DAZN 10 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title="DAZN",Live | DAZN 10 HD
-http://pulselightning.uk:8080/Lilly765/Lilly765/223324
-#EXTINF:-1 tvg-id="DAZN11.DAZN" tvg-name="Live | DAZN 11 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title="DAZN",Live | DAZN 11 HD
-http://pulselightning.uk:8080/Lilly765/Lilly765/223325
-#EXTINF:-1 tvg-id="DAZN12.DAZN" tvg-name="Live | DAZN 12 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title="DAZN",Live | DAZN 12 HD
-http://pulselightning.uk:8080/Lilly765/Lilly765/223326
-#EXTINF:-1 tvg-id="DAZN13.DAZN" tvg-name="Live | DAZN 13 HD" tvg-logo="https://www.tiebreaktens.com/wp-content/uploads/2016/10/logo-dazn-white.png" group-title="DAZN",Live | DAZN 13 HD
-http://pulselightning.uk:8080/Lilly765/Lilly765/223327
-
-
-
-
-#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT Sport 1 FHD" tvg-logo="http://77.68.73.254/logos/united-kingdom/bt-sport-1-uk.png" group-title="UK | BT Sports",BT Sport 1 FHD
-http://pulselightning.uk:8080/Lilly765/Lilly765/222641
-#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="BT Sport 2 (50 FPS)" tvg-logo="http://77.68.73.254/logos/united-kingdom/bt-sport-2-uk.png" group-title="UK | BT Sports",BT Sport 2 (50 FPS)
-http://pulselightning.uk:8080/Lilly765/Lilly765/222646
-#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="BT Sport 3 FHD" tvg-logo="http://77.68.73.254/logos/united-kingdom/bt-sport-3-uk.png" group-title="UK | BT Sports",BT Sport 3 FHD
-http://pulselightning.uk:8080/Lilly765/Lilly765/222643
-#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="BT Sport ESPN (50 FPS)" tvg-logo="http://77.68.73.254/logos/united-kingdom/bt-sport-espn-uk.png" group-title="UK | BT Sports",BT Sport ESPN (50 FPS)
-http://pulselightning.uk:8080/Lilly765/Lilly765/290497
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport Mosaic HD" tvg-logo="http://77.68.73.254/logos/united-kingdom/bt-sport-mosaic-uk.png" group-title="UK | BT Sports",BT Sport Mosaic HD
-http://pulselightning.uk:8080/Lilly765/Lilly765/222640
-#EXTINF:-1 tvg-id="btsportx1.uk" tvg-name="BT Sport Extra 1 UHD" tvg-logo="http://77.68.73.254/logos/united-kingdom/bt-sport-extra-1-uk.png" group-title="UK | BT Sports",BT Sport Extra 1 UHD
-http://pulselightning.uk:8080/Lilly765/Lilly765/222634
-#EXTINF:-1 tvg-id="btsportx2.uk" tvg-name="BT Sport Extra 2 FHD" tvg-logo="http://77.68.73.254/logos/united-kingdom/bt-sport-extra-2-uk.png" group-title="UK | BT Sports",BT Sport Extra 2 FHD
-http://pulselightning.uk:8080/Lilly765/Lilly765/222650
-#EXTINF:-1 tvg-id="btsportx3.uk" tvg-name="BT Sport Extra 3 UHD" tvg-logo="http://77.68.73.254/logos/united-kingdom/bt-sport-extra-3-uk.png" group-title="UK | BT Sports",BT Sport Extra 3 UHD
-http://pulselightning.uk:8080/Lilly765/Lilly765/222636
-#EXTINF:-1 tvg-id="btsportx4.uk" tvg-name="BT Sport Extra 4 FHD" tvg-logo="http://77.68.73.254/logos/united-kingdom/bt-sport-extra-4-uk.png" group-title="UK | BT Sports",BT Sport Extra 4 FHD
-http://pulselightning.uk:8080/Lilly765/Lilly765/222652
-#EXTINF:-1 tvg-id="btsportx5.uk" tvg-name="BT Sport Extra 5 UHD" tvg-logo="http://77.68.73.254/logos/united-kingdom/bt-sport-extra-5-uk.png" group-title="UK | BT Sports",BT Sport Extra 5 UHD
-http://pulselightning.uk:8080/Lilly765/Lilly765/222638
-#EXTINF:-1 tvg-id="btsportx6.uk" tvg-name="BT Sport Extra 6 FHD" tvg-logo="http://77.68.73.254/logos/united-kingdom/bt-sport-extra-6-uk.png" group-title="UK | BT Sports",BT Sport Extra 6 FHD
-http://pulselightning.uk:8080/Lilly765/Lilly765/22265
-
-
-#EXTINF:-1 tvg-id="1.OPTUS" tvg-name="Optus 1 HD" tvg-logo="http://77.68.73.254/sport/optussport.png" group-title="Optus Sport",Optus 1 HD
-http://pulselightning.uk:8080/Lilly765/Lilly765/223543
-#EXTINF:-1 tvg-id="2.OPTUS" tvg-name="Optus 2 HD" tvg-logo="http://77.68.73.254/sport/optussport.png" group-title="Optus Sport",Optus 2 HD
-http://pulselightning.uk:8080/Lilly765/Lilly765/223302
-#EXTINF:-1 tvg-id="3.OPTUS" tvg-name="Optus 3 HD" tvg-logo="http://77.68.73.254/sport/optussport.png" group-title="Optus Sport",Optus 3 HD
-http://pulselightning.uk:8080/Lilly765/Lilly765/223303
-#EXTINF:-1 tvg-id="4.OPTUS" tvg-name="Optus 4  HD" tvg-logo="http://77.68.73.254/sport/optussport.png" group-title="Optus Sport",Optus 4  HD
-http://pulselightning.uk:8080/Lilly765/Lilly765/223304
-#EXTINF:-1 tvg-id="5.OPTUS" tvg-name="Optus 5  HD" tvg-logo="http://77.68.73.254/sport/optussport.png" group-title="Optus Sport",Optus 5  HD
-http://pulselightning.uk:8080/Lilly765/Lilly765/223305
-#EXTINF:-1 tvg-id="6.OPTUS" tvg-name="Optus 6 HD" tvg-logo="http://77.68.73.254/sport/optussport.png" group-title="Optus Sport",Optus 6 HD
-http://pulselightning.uk:8080/Lilly765/Lilly765/223306
-#EXTINF:-1 tvg-id="7.OPTUS" tvg-name="Optus 7 HD" tvg-logo="http://77.68.73.254/sport/optussport.png" group-title="Optus Sport",Optus 7 HD
-http://pulselightning.uk:8080/Lilly765/Lilly765/223307
-#EXTINF:-1 tvg-id="8.OPTUS" tvg-name="Optus 8 HD" tvg-logo="http://77.68.73.254/sport/optussport.png" group-title="Optus Sport",Optus 8 HD
-http://pulselightning.uk:8080/Lilly765/Lilly765/223308
-#EXTINF:-1 tvg-id="10.OPTUS" tvg-name="Optus 9 HD" tvg-logo="http://77.68.73.254/sport/optussport.png" group-title="Optus Sport",Optus 9 HD
-http://pulselightning.uk:8080/Lilly765/Lilly765/223309
-#EXTINF:-1 tvg-id="10.OPTUS" tvg-name="Optus 10 HD" tvg-logo="http://77.68.73.254/sport/optussport.png" group-title="Optus Sport",Optus 10 HD
-http://pulselightning.uk:8080/Lilly765/Lilly765/223310
-#EXTINF:-1 tvg-id="11.OPTUS" tvg-name="Optus 11 HD" tvg-logo="http://77.68.73.254/sport/optussport.png" group-title="Optus Sport",Optus 11 HD
-http://pulselightning.uk:8080/Lilly765/Lilly765/223311
-#EXTINF:-1 tvg-id="12.OPTUS" tvg-name="Optus 12 HD" tvg-logo="http://77.68.73.254/sport/optussport.png" group-title="Optus Sport",Optus 12 HD
-http://pulselightning.uk:8080/Lilly765/Lilly765/223312
-#EXTINF:-1 tvg-id="13.OPTUS" tvg-name="Optus 13 HD" tvg-logo="http://77.68.73.254/sport/optussport.png" group-title="Optus Sport",Optus 13 HD
-http://pulselightning.uk:8080/Lilly765/Lilly765/223313
 
 
 
