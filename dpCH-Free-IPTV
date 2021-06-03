@@ -23,7 +23,7 @@ http://zalogitv.tech:8080/gone/gone/1854
 #EXTINF:-1 tvg-logo="http://thaiip.tv/tvlogo2/32.png" tvg-logo="http://thaiip.tv/tvlogo2/32.png" group-title="LIVE", THAIRATH SD (THAI)
 https://thairathtv.cdn.byteark.com/fleetstream/live1/240p/index.m3u8
 
-EXTINF:-1 tvg-logo="http://thaiip.tv/tvlogo2/32.png" tvg-logo="http://thaiip.tv/tvlogo2/32.png" group-title="LIVE", THAIRATH HD (THAI)
+#EXTINF:-1 tvg-logo="http://thaiip.tv/tvlogo2/32.png" tvg-logo="http://thaiip.tv/tvlogo2/32.png" group-title="LIVE", THAIRATH HD (THAI)
 https://thairathtv.cdn.byteark.com/fleetstream/live1/720p/index.m3u8
 
 
