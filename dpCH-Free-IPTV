@@ -1227,10 +1227,10 @@ http://iptvlink.ga:8888/live/nasvpn/prem/787.m3u8
 EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_02_hd.png" group-title="DP@SPORT", (DianPhotograph) BEIN 2 HD
 http://iptvlink.ga:8888/live/nasvpn/prem/788.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="DP@SPORT", (DianPhotograph) BEIN  HD (ID) 
+EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="DP@SPORT", (DianPhotograph) BEIN  HD (ID) 
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165105
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_02_hd.png" group-title="DP@SPORT", (DianPhotograph) BEIN 1 HD (ID) 
+EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_02_hd.png" group-title="DP@SPORT", (DianPhotograph) BEIN 1 HD (ID) 
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165073
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="DP@SPORT", (DianPhotograph) BEIN 1 HD (ASIA) 
@@ -1252,6 +1252,12 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta_sports_eurasia.png" group-title="DP@SPORT", (DianPhotograph) SETANTA 
 http://oncvq5kd.ottclub.xyz/iptv/7GCEMFFA9LAR2P/272/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/extreme_sports_nl.png" group-title="DP@SPORT", (DianPhotograph) Extreme Sports
+http://58.65.171.202:8000/play/10506
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/extreme_sports_nl.png" group-title="DP@SPORT", (DianPhotograph) Extreme Sports Chanel
+http://213.151.233.20:8000/dna-6071-tv-pc/hls/4005v110.m3u8
 
 #EXTINF:-1   tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm.png" group-title="DP@SPORT",Skynet Sports1
 http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
