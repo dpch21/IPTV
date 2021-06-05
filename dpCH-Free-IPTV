@@ -2648,6 +2648,13 @@ http://50.7.59.216:61980/hls/sz_phcn/index.m3u8?key=84797b799ae18d1b
 rtmp://58.200.131.2:1935/livetv/startv
 
 
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/c6299e1d3f876fd72e909d9ef2233a25837e5898e0d020e4698f256ac1f325d5.png" group-title="DP@HIBURAN", (DP) PEOPLE ARE AWESOME
+https://jukin-peopleareawesome-2-ca.samsung.wurl.com/manifest/playlist.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/middle/115-1155244_film-reel-icon-movie-logo-png-clipart.png" group-title="DP@MOVIES 1", (DP) BLACK MOVIE
 http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_2000.flv?uuid=
 
