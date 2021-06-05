@@ -116,12 +116,17 @@ https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/edge_sport_uk.png" group-title="DP@SPORT", (DianPhotograph) EDGE SPORT FHD
 http://edgesport-samsungus.amagi.tv/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_box_hd.png" group-title="DP@SPORT", (DianPhotograph) FIGHT BOX
+http://82.197.212.210:8000/play/a0za
+
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png" group-title="DP@SPORT", (DianPhotograph) Champions TV 1
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6685_720p/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-2-id.png" group-title="DP@SPORT", (DianPhotograph) Champions TV 2
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6686_720p/index.m3u8
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6686_720p/index.m3u88
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-3-id.png" group-title="DP@SPORT", (DianPhotograph) Champions TV 3
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6786_720p/index.m3u8
