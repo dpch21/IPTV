@@ -1353,6 +1353,17 @@ http://stream.tvtap.live:8081/live/skysports-maineventz.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/skysportsnews.stream/playlist.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/futbol_ua_1.png" group-title="DP@SPORT 1", (DianPhotograph) Futbol 1
+http://50.7.234.114:82/0155/tracks-v1a1/mono.m3u8?token=1kfJMDsTTp
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/futbol_ua_1.png" group-title="DP@SPORT 1", (DianPhotograph) Futbol 2
+http://50.7.234.114:82/0156/tracks-v1a1/mono.m3u8?token=1kfJMDsTTp
+
+
+
+
 EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="DP@SPORT", (DianPhotograph) BEIN 1 HD
 http://iptvlink.ga:8888/live/nasvpn/prem/787.m3u8
 
