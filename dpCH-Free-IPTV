@@ -1354,11 +1354,11 @@ http://stream.tvtap.live:8081/live/skysportsnews.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/futbol_ua_1.png" group-title="DP@SPORT 1", (DianPhotograph) Futbol 1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/futbol_ua_1.png" group-title="DP@SPORT 1", (DP) Futbol 1
 http://50.7.234.114:82/0155/tracks-v1a1/mono.m3u8?token=1kfJMDsTTp
 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/futbol_ua_1.png" group-title="DP@SPORT 1", (DianPhotograph) Futbol 2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/futbol_ua_2.png" group-title="DP@SPORT 1", (DP) Futbol 2
 http://50.7.234.114:82/0156/tracks-v1a1/mono.m3u8?token=1kfJMDsTTp
 
 
@@ -2793,7 +2793,7 @@ https://jukin-peopleareawesome-2-ca.samsung.wurl.com/manifest/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/middle/115-1155244_film-reel-icon-movie-logo-png-clipart.png" group-title="DP@MOVIES 1", (DP) BLACK MOVIE
+#EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/middle/115-1155244_film-reel-icon-movie-logo-png-clipart.png" group-title="DP@MOVIES1", (DP) BLACK MOVIE
 http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_2000.flv?uuid=
 
 
