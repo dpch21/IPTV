@@ -17,7 +17,7 @@ https://www.dropbox.com/s/qokot61ee4gsb49/My%20Video.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/bt-sports-1432804958.jpg" group-title="DP@SPORT", BT SPORT 1 SD (ENG AUDIO) 
 http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/bt-sports-1432804958.jpg" group-title="DP@SPORT", UFC
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/uu/ufc-tv-rossiya-us-ru.png" group-title="DP@SPORT 1", UFC
 http://zalogitv.tech:8080/gone/gone/1854
 
 #EXTINF:-1 tvg-logo="http://thaiip.tv/tvlogo2/32.png" tvg-logo="http://thaiip.tv/tvlogo2/32.png" group-title="LIVE", THAIRATH SD (THAI)
@@ -1469,6 +1469,10 @@ https://chostv.mobie.in/choos/sports/matchqy2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_futbol_3.png" group-title="DP@SPORT 1", (DP) (DianPhotograph) Match! Futbol 3
 https://chostv.mobie.in/choos/sports/matchqy2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_sports_us.png" group-title="DP@SPORT 1", (DP) (DianPhotograph) FIGHT SPORT
+https://chostv.mobie.in/choos/sports/matchqy2.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/bt-sports-1432804958.jpg" group-title="DP@SPORT", BT SPORT 1 (UK) 
 https://chostv.mobie.in/choos/sports/matchqy3.m3u8
