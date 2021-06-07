@@ -1572,10 +1572,10 @@ https://chostv.mobie.in/choos/sports/matchqy1.m3u8
 https://chostv.mobie.in/choos/sports/matchqy2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_futbol_3.png" group-title="DP@SPORT 1", (DP) (DianPhotograph) Match! Futbol 3
-https://chostv.mobie.in/choos/sports/matchqy2.m3u8
+https://chostv.mobie.in/choos/sports/matchqy3.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_sports_us.png" group-title="DP@SPORT 1", (DP) (DianPhotograph) FIGHT SPORT
-https://chostv.mobie.in/choos/sports/matchqy2.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_sports_us.png" group-title="DP@SPORT 1", (DP) (DianPhotograph) FIGHT CHANEL
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/bt-sports-1432804958.jpg" group-title="DP@SPORT", BT SPORT 1 (UK) 
