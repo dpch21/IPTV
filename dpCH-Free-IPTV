@@ -18,7 +18,7 @@ https://www.dropbox.com/s/qokot61ee4gsb49/My%20Video.mp4?dl=1
 http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/uu/ufc-tv-rossiya-us-ru.png" group-title="DP@SPORT 1", UFC
-http://zalogitv.tech:8080/gone/gone/1854
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 #EXTINF:-1 tvg-logo="http://thaiip.tv/tvlogo2/32.png" tvg-logo="http://thaiip.tv/tvlogo2/32.png" group-title="LIVE", THAIRATH SD (THAI)
 https://thairathtv.cdn.byteark.com/fleetstream/live1/240p/index.m3u8
