@@ -37,8 +37,12 @@ http://freeiptvgen.com:25461/108327/freeiptvgen/897
 http://103.88.170.102:8000/play/sctv/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K6Q2z7f/sctvlogo.png" group-title="LIVE", (DP) SCTV HD
+http://zalogitv.tech:8080/tony4/tony4/1755
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Dubai Sports 2" tvg-logo="" group-title="LIVE", ARAB Sports 
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NBA" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="DP@NBA",NBA
 http://xtra.xcs521.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/39083
