@@ -13,6 +13,10 @@ https://www.dropbox.com/s/qokot61ee4gsb49/My%20Video.mp4?dl=1
 https://www.dropbox.com/s/qokot61ee4gsb49/My%20Video.mp4?dl=1
 
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/uu/ufc-tv-rossiya-us-ru.png" group-title="DP@SPORT 1", BOX
+https://qlobbidev.s.llnwi.net/bpk-tv/ESPN/hls/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/bt-sports-1432804958.jpg" group-title="DP@SPORT", BT SPORT 1 SD (ENG AUDIO) 
 http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
