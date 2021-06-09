@@ -284,6 +284,12 @@ http://gumisasak.site/USEETV/master.m3u8?id=galaxypremium
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="DP@USEE TV", (DP) IMC
 http://gumisasak.site/USEETV/master.m3u8?id=imc
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thrill_hk.png" group-title="DP@USEE TV", (DP) THRILL
+http://gumisasak.site/USEETV/master.m3u8?id=thrill
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="DP@USEE TV", (DP) Cinema World
+http://gumisasak.site/USEETV/master.m3u8?id=cinemaworld
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunia_lain_id.png" group-title="DP@USEE TV", (DP) DUNIA LAIN
 http://gumisasak.site/USEETV/master.m3u8?id=dunialain
 
@@ -292,6 +298,9 @@ http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=celestialmovie
 
 #EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="DP@USEE TV", Aniplus 
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=aniplus
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/animax_asia.png" group-title="DP@USEE TV", Animax ID
+http://gumisasak.site/USEETV/master.m3u8?id=animax
 
 #EXTINF:-1 tvg-id="" tvg-name="Duck TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png" group-title="DP@USEE TV",Duck TV
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=ducktv
@@ -317,8 +326,9 @@ https://mkctv.my.id/jarwo/cucok.m3u8?id=history&bandwidth=b894100&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_discovery_small.png?v=2.0.0.13" group-title="DP@USEE TV", DISCOVERY
 https://mkctv.my.id/jarwo/cucok.m3u8?id=disco&bandwidth=b894100&sync=0
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_discovery_small.png?v=2.0.0.13" group-title="DP@USEE TV", DISCOVERY s
-https://mkctv.my.id/jarwo/cucok.m3u8?id=disco&bandwidth=b894100&sync=0
+
+
+
 
 
 
