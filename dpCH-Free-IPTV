@@ -269,8 +269,29 @@ https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.
 
 
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="DP@USEE TV", (DP) Flik
+http://gumisasak.site/USEETV/master.m3u8?id=bioskopindonesia
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="DP@USEE TV", (DP) Flik
+http://gumisasak.site/USEETV/master.m3u8?id=flik
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="DP@USEE TV", (DP) Galaxy
+http://gumisasak.site/USEETV/master.m3u8?id=galaxy
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="DP@USEE TV", (DP) Galaxy Premium
+http://gumisasak.site/USEETV/master.m3u8?id=galaxypremium
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="DP@USEE TV", (DP) IMC
+http://gumisasak.site/USEETV/master.m3u8?id=imc
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunia_lain_id.png" group-title="DP@USEE TV", (DP) DUNIA LAIN
+http://gumisasak.site/USEETV/master.m3u8?id=dunialain
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="DP@USEE TV", CALESTIAL movie2
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=celestialmovie
+
+#EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="DP@USEE TV", Aniplus 
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=aniplus
 
 
 
