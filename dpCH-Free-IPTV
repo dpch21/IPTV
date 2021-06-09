@@ -1453,11 +1453,12 @@ http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_arena_my.png" group-title="LIVE", (DianPhotograph) ARENA
+EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_arena_my.png" group-title="LIVE", (DianPhotograph) ARENA
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 
 
-
+ #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="DP ASTRO@SUPER SPORT", (DianPhotograph) AKAN SEGERA KEMBALI
+http://50.7.161.82:8278/streams/d/Assp1
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="DP ASTRO@SUPER SPORT", (DianPhotograph) ASSP1
 http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8 
