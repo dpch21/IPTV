@@ -287,6 +287,11 @@ http://gumisasak.site/USEETV/master.m3u8?id=imc
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thrill_hk.png" group-title="DP@USEE TV", (DP) THRILL
 http://gumisasak.site/USEETV/master.m3u8?id=thrill
 
+#EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="" group-title="DP@USEE TV",KIX
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=kix
+
+
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="DP@USEE TV", (DP) Cinema World
 http://gumisasak.site/USEETV/master.m3u8?id=cinemaworld
 
@@ -301,6 +306,10 @@ http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=aniplus
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/animax_asia.png" group-title="DP@USEE TV", Animax ID
 http://gumisasak.site/USEETV/master.m3u8?id=animax
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="" group-title="DP@USEE TV",Horee
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=boomerang
 
 #EXTINF:-1 tvg-id="" tvg-name="Duck TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png" group-title="DP@USEE TV",Duck TV
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=ducktv
