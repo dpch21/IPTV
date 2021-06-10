@@ -308,6 +308,25 @@ http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=aniplus
 http://gumisasak.site/USEETV/master.m3u8?id=animax
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="" group-title="DP@USEE TV",CN
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=cartoonnetwork
+
+#EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="" group-title="DP@USEE TV",AXN
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=axn
+
+#EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="" group-title="DP@USEE TV", BLUE ANT
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=blueant
+
+#EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="" group-title="DP@USEE TV", BLUE ANT EXTREME
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=blueantextreme
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="" group-title="DP@USEE TV",TVN
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=tvn
+
+#EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="" group-title="DP@USEE TV", KBS WORLD
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=kbsworld
+
 #EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="" group-title="DP@USEE TV",Horee
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=boomerang
 
