@@ -59,6 +59,11 @@ http://103.88.170.102:8000/play/sctv/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="LIVE EURO 2020", SONY TEN 2
+http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="LIVE EURO 2020", SONY TEN 2
+http://cdn.naturalbd.com:8083/SonyTen2/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="LIVE EURO 2020", (DP) NBT
@@ -67,6 +72,21 @@ http://122.155.92.8:1935/live/ch1_L.sdp/chunklist_w1503718698.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EURO 2020", (DP) NBT
 http://122.155.92.8:1935/live/ch1_L.sdp/chunklist_w1503718698.m3u8
 
+#EXTINF:-1 group-title="LIVE EURO 2020" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",(MY) RTM SUKAN
+http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
+#EXTINF:-1 group-title="LIVE EURO 2020" tvg-logo="https://i.postimg.cc/mrTXLfKB/RCTI.jpg",RCTI
+https://cdn4.mbahnunungonline.net/m3u8/7cb6654ebec98b7.m3u8
+#EXTINF:-1 group-title="LIVE EURO 2020" tvg-logo="https://i.postimg.cc/Fs9WvG8Q/MNCtv.jpg",MNC TV
+https://cdn4.mbahnunungonline.net/m3u8/d9bbf6929ec1028.m3u8
+#EXTINF:-1 group-title="LIVE EURO 2020" tvg-logo="https://i.postimg.cc/3Rb3CWPL/MNCnews.jpg",iNews
+https://tv.mbahnunungonline.net/playlist/inewsPlaylist.m3u8
+#EXTINF:-1 group-title="LIVE EURO 2020" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv1.jpg",SPORT TV 1
+http://77.83.117.60:8888//02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="LIVE EURO 2020" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv2.jpg",SPORT TV 2
+http://77.83.117.60:8888//02_SPORTTV_2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="LIVE EURO 2020" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png",Match TV Russia
+https://95-213-224-169.livesports24.online/ooomatch.m3u8
 
 
 
