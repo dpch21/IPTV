@@ -66,13 +66,13 @@ http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
 http://cdn.naturalbd.com:8083/SonyTen2/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="LIVE EURO 2020", (DP) NBT
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbt_th.png" group-title="LIVE EURO 2020", (DP) NBT
 http://122.155.92.8:1935/live/ch1_L.sdp/chunklist_w1503718698.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="LIVE EURO 2020", (DP) NBT
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbt_th.png" group-title="LIVE EURO 2020", (DP) NBT
 http://122.155.92.8:1935/live/ch1_L.sdp/chunklist_w1503718698.m3u8
 
-#EXTINF:-1 group-title="LIVE EURO 2020" tvg-logo="",(MY) RTM SUKAN
+#EXTINF:-1 group-title="LIVE EURO 2020" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm-sukan-my.png",(MY) RTM SUKAN
 http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
 #EXTINF:-1 group-title="LIVE EURO 2020" tvg-logo="https://i.postimg.cc/mrTXLfKB/RCTI.jpg",RCTI
 https://cdn4.mbahnunungonline.net/m3u8/7cb6654ebec98b7.m3u8
