@@ -270,74 +270,74 @@ https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bioskop_id.png" group-title="DP@USEE TV", (DP) Bioskop Indonesia
-http://gumisasak.site/USEETV/master.m3u8?id=bioskopindonesia
+
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="DP@USEE TV", (DP) Flik
-http://gumisasak.site/USEETV/master.m3u8?id=flik
+
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="DP@USEE TV", (DP) Galaxy
-http://gumisasak.site/USEETV/master.m3u8?id=galaxy
+
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="DP@USEE TV", (DP) Galaxy Premium
-http://gumisasak.site/USEETV/master.m3u8?id=galaxypremium
+
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="DP@USEE TV", (DP) IMC
-http://gumisasak.site/USEETV/master.m3u8?id=imc
+
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thrill_hk.png" group-title="DP@USEE TV", (DP) THRILL
-http://gumisasak.site/USEETV/master.m3u8?id=thrill
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="" group-title="DP@USEE TV",KIX
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=kix
+
 
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="DP@USEE TV", (DP) Cinema World
-http://gumisasak.site/USEETV/master.m3u8?id=cinemaworld
+
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunia_lain_id.png" group-title="DP@USEE TV", (DP) DUNIA LAIN
-http://gumisasak.site/USEETV/master.m3u8?id=dunialain
+
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-movies-hk.png" group-title="DP@USEE TV", CALESTIAL MOVIE
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=celestialmovie
+
 
 #EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="DP@USEE TV", Aniplus 
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=aniplus
+
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/animax_asia.png" group-title="DP@USEE TV", Animax ID
-http://gumisasak.site/USEETV/master.m3u8?id=animax
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="" group-title="DP@USEE TV",CN
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=cartoonnetwork
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="" group-title="DP@USEE TV",AXN
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=axn
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="" group-title="DP@USEE TV", BLUE ANT
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=blueant
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="" group-title="DP@USEE TV", BLUE ANT EXTREME
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=blueantextreme
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="" group-title="DP@USEE TV",TVN
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=tvn
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="" group-title="DP@USEE TV", KBS WORLD
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=kbsworld
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="" group-title="DP@USEE TV",Horee
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=boomerang
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Duck TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png" group-title="DP@USEE TV",Duck TV
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=ducktv
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Dunia Anak" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png" group-title="DP@USEE TV",Dunia Anak
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=duniaanak
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" group-title="DP@USEE TV",Horee
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=horee
+
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="DP@USEE TV", National Geographic
 https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeo&bandwidth=b894100&sync=0
