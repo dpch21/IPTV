@@ -43,8 +43,8 @@ http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/uu/ufc-tv-rossiya-us-ru.png" group-title="DP@SPORT 1", UFC
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
-#EXTINF:-1 tvg-logo="http://thaiip.tv/tvlogo2/32.png" tvg-logo="http://thaiip.tv/tvlogo2/32.png" group-title="LIVE EURO 2020", YALLA HD
-https://d1qan2ekrr8t7a.cloudfront.net/out/v1/c8f8c36918284375971ecfbb9f5aac98/index_1.m3u8
+#EXTINF:-1 tvg-logo="http://thaiip.tv/tvlogo2/32.png" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="LIVE EURO 2020", YALLA HD
+https://d1qan2ekrr8t7a.cloudfront.net/out/v1/c8f8c36918284375971ecfbb9f5aac98/index_2.m3u8
 
 
 
@@ -58,10 +58,10 @@ EXTINF:-1 tvg-logo="https://i.ibb.co/K6Q2z7f/sctvlogo.png" group-title="LIVE", (
 http://103.88.170.102:8000/play/sctv/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://thaiip.tv/tvlogo2/32.png" tvg-logo="http://thaiip.tv/tvlogo2/32.png" group-title="LIVE EURO 2020", YALLA SD
+#EXTINF:-1 tvg-logo="http://thaiip.tv/tvlogo2/32.png" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="LIVE EURO 2020", YALLA SD
 https://d1qan2ekrr8t7a.cloudfront.net/out/v1/c8f8c36918284375971ecfbb9f5aac98/index_3.m3u8
 
-#EXTINF:-1 tvg-logo="http://thaiip.tv/tvlogo2/32.png" tvg-logo="http://thaiip.tv/tvlogo2/32.png" group-title="LIVE EURO 2020", YALLA BURIK
+#EXTINF:-1 tvg-logo="http://thaiip.tv/tvlogo2/32.png" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="LIVE EURO 2020", YALLA BURIK
 https://d1qan2ekrr8t7a.cloudfront.net/out/v1/c8f8c36918284375971ecfbb9f5aac98/index_4.m3u8
 
 
