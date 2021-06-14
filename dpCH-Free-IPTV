@@ -58,7 +58,7 @@ EXTINF:-1 tvg-logo="https://i.ibb.co/K6Q2z7f/sctvlogo.png" group-title="LIVE", (
 http://103.88.170.102:8000/play/sctv/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://thaiip.tv/tvlogo2/32.png" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="LIVE EURO 2020", YALLA SD
+#EXTINF:-1 tvg-logo="http://thaiip.tv/tvlogo2/32.png" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="LIVE EURO 2020", YALLA HD
 https://d1qan2ekrr8t7a.cloudfront.net/out/v1/c8f8c36918284375971ecfbb9f5aac98/index_3.m3u8
 
 #EXTINF:-1 tvg-logo="http://thaiip.tv/tvlogo2/32.png" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="LIVE EURO 2020", YALLA BURIK
@@ -72,7 +72,7 @@ http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
 http://cdn.naturalbd.com:8083/SonyTen2/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="LIVE EURO 2020", ESPN
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/ee/espn_us_corp.png" group-title="LIVE EURO 2020", ESPN
 https://gma2.blab.email/fs2.m3u8
 
 
