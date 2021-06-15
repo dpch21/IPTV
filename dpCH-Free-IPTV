@@ -550,6 +550,10 @@ http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169673
 http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169669
 
 
+#EXTINF:-1, tvg-id="719" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Animax.png" tvg-name="TVN"  group-title="MOVIES",ANIMAX
+http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
+
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
