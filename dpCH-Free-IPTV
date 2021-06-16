@@ -56,7 +56,11 @@ http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="DP@BEINSPORT" ,Bein Sports English HD3
 http://143.244.60.78/BEINSport3ENHD/tracks-v1a1/mono.m3u8?token=
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9b088eX.png?v=1.0.0.1" group-title="DP@BEINSPORT", beIN Sports 1 ID
+http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=bein1
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9b088eX.png?v=1.0.0.1" group-title="DP@BEINSPORT", beIN Sports 1 ID
+http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=bein2
 
 
 #EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/bt-sports-1432804958.jpg" group-title="DP@SPORT", BT SPORT 1 SD (ENG AUDIO) 
