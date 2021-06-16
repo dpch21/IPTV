@@ -457,11 +457,11 @@ https://iptvcat.com/my_list/s/95ef4cfd5d9be3354598f0c31ef0eb58.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png" group-title="DP@SPORT", (DianPhotograph) Champions TV 1
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6685_720p/index.m3u8
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6685
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-2-id.png" group-title="DP@SPORT", (DianPhotograph) Champions TV 2
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6686_720p/index.m3u88
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6686
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-3-id.png" group-title="DP@SPORT", (DianPhotograph) Champions TV 3
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6786_720p/index.m3u8
