@@ -32,7 +32,29 @@ https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_
 http://stream.tvtap.live:8081/live/fr-canaplus-sport.stream/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="DP@BEINSPORT" ,Bein Sports MAX 1
+http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX4HD-ar/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="DP@BEINSPORT" ,Bein Sports MAX 2
+http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX2HD-ar/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="DP@BEINSPORT" ,Bein Sports MAX 3
+http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX3HD-ar/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="DP@BEINSPORT" ,Bein Sports MAX 4
+http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX4HD-ar/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="DP@BEINSPORT" ,Bein Sports MAX 5
+http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX5HD-ar/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="DP@BEINSPORT" ,Bein Sports English HD1 
+http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="DP@BEINSPORT" ,Bein Sports English HD2
+http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="DP@BEINSPORT" ,Bein Sports English HD3
+http://143.244.60.78/BEINSport3ENHD/tracks-v1a1/mono.m3u8?token=
 
 
 
