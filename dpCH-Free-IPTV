@@ -1451,13 +1451,13 @@ http://51.81.66.195:1935/krtv/mbc_540/playlist.m3u8
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/348520
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="DP@TATA SKY", SONY TEN 1
-http://ssx1.1xcdn.xyz/j2/Ten_HD_HLS.m3u8
+http://cdn.ihub.live:8080/j-Sony-Ten1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="DP@TATA SKY", SONY TEN 2
-http://ssx1.1xcdn.xyz/j2/Ten2_HD_HLS.m3u8
+http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="DP@TATA SKY", SONY TEN 3
-http://ssx1.1xcdn.xyz/j2/Ten3_HD_HLS.m3u8
+http://212.102.60.40:2200/R-EX/SPORTS_TEN_3_HD-in/tracks-v1a1/mono.m3u8
 
 EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="DP@TATA SKY", SONY TEN 1 BACKUP
 http://ssx1.1xcdn.xyz/hls/j2/Ten1_HD_HLS.m3u8
