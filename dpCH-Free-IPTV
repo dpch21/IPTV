@@ -101,11 +101,11 @@ http://77.83.117.60:8888//02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="LIVE EURO 2020" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png",Match TV Russia
 https://95-213-224-169.livesports24.online/ooomatch.m3u8
 
-
 #EXTINF:-1, tvg-id="801" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Arena.png" tvg-name="ARENA" group-title="LIVE EURO 2020",ARENA
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="LIVE EURO 2020",Ten Sports (PK)
+http://221.120.204.4/TEN-SPORTS-LOCKLE/index.m3u8
 
 
 
