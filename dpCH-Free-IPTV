@@ -58,14 +58,14 @@ EXTINF:-1 tvg-logo="https://i.ibb.co/K6Q2z7f/sctvlogo.png" group-title="LIVE", (
 http://103.88.170.102:8000/play/sctv/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://thaiip.tv/tvlogo2/32.png" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="LIVE EURO 2020", YALLA HD
+EXTINF:-1 tvg-logo="http://thaiip.tv/tvlogo2/32.png" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="LIVE EURO 2020", YALLA HD
 https://d1qan2ekrr8t7a.cloudfront.net/out/v1/c8f8c36918284375971ecfbb9f5aac98/index_3.m3u8
 
-#EXTINF:-1 tvg-logo="http://thaiip.tv/tvlogo2/32.png" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="LIVE EURO 2020", YALLA BURIK
+EXTINF:-1 tvg-logo="http://thaiip.tv/tvlogo2/32.png" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="LIVE EURO 2020", YALLA BURIK
 https://d1qan2ekrr8t7a.cloudfront.net/out/v1/c8f8c36918284375971ecfbb9f5aac98/index_4.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="LIVE EURO 2020", SONY TEN 2
+EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="LIVE EURO 2020", SONY TEN 2
 http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="LIVE EURO 2020", SONY TEN 2
@@ -75,12 +75,14 @@ http://cdn.naturalbd.com:8083/SonyTen2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/ee/espn_us_corp.png" group-title="LIVE EURO 2020", ESPN
 https://gma2.blab.email/fs2.m3u8
 
+#EXTINF:-1 tvg-id="EURO" group-title="LIVE EURO 2020" tvg-logo="https://footballmanagerstory.com/wp-content/uploads/imgs/2021/03/euro2020.png",EURO
+http://50.7.234.114:8080/0156/tracks-v1a1/mono.m3u8?token=1kfJMDsTTp
 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbt_th.png" group-title="LIVE EURO 2020", (DP) NBT
+EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbt_th.png" group-title="LIVE EURO 2020", (DP) NBT
 http://122.155.92.8:1935/live/ch1_L.sdp/chunklist_w1503718698.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbt_th.png" group-title="LIVE EURO 2020", (DP) NBT
+EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbt_th.png" group-title="LIVE EURO 2020", (DP) NBT
 http://122.155.92.8:1935/live/ch1_L.sdp/chunklist_w1503718698.m3u8
 
 #EXTINF:-1 group-title="LIVE EURO 2020" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm-sukan-my.png",(MY) RTM SUKAN
