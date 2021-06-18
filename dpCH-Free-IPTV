@@ -92,10 +92,10 @@ https://d1qan2ekrr8t7a.cloudfront.net/out/v1/c8f8c36918284375971ecfbb9f5aac98/in
 
 
 EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="LIVE EURO 2020", SONY TEN 2
-http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
+http://103.153.39.34:8000/play/a05r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="LIVE EURO 2020", SONY TEN 2
-http://cdn.naturalbd.com:8083/SonyTen2/tracks-v1a1/mono.m3u8
+http://103.153.39.34:8000/play/a05r/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/ee/espn_us_corp.png" group-title="LIVE EURO 2020", ESPN
