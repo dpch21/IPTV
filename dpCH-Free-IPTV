@@ -3204,6 +3204,10 @@ https://jukin-peopleareawesome-2-ca.samsung.wurl.com/manifest/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony_gem_asia.png" group-title="DP@HIBURAN", (DP) SONY GEM (ID) 
+http://210.210.155.35/uq2663/h/h19/01.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/middle/115-1155244_film-reel-icon-movie-logo-png-clipart.png" group-title="DP@MOVIES1", (DP) BLACK MOVIE
 http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_2000.flv?uuid=
