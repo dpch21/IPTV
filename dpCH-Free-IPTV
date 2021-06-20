@@ -627,7 +627,7 @@ https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="DP@KOREA" tvg-logo="https://www.lyngsat.com/logo/tv/ww/waku_waku_japan.png" group-title="DP@KOREA", WakuWaku JAPAN
+#EXTINF:-1 group-title="DP@JAPAN" tvg-logo="https://www.lyngsat.com/logo/tv/ww/waku_waku_japan.png" group-title="DP@JAPAN", WakuWaku JAPAN
 https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd
 
 
@@ -3204,8 +3204,21 @@ https://jukin-peopleareawesome-2-ca.samsung.wurl.com/manifest/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony_gem_asia.png" group-title="DP@HIBURAN", (DP) SONY GEM (ID) 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony_gem_asia.png" group-title="DP@JAPAN", (DP) SONY GEM (ID) 
 http://210.210.155.35/uq2663/h/h19/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony_gem_asia.png" group-title="DP@JAPAN", (DP) KIDS STATION 
+http://210.210.155.35/uq2663/h/h19/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony_gem_asia.png" group-title="DP@JAPAN", (DP) Animax Japan
+http://redlabmcdn.s.llnwi.net/jp01/bs14/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony_gem_asia.png" group-title="DP@JAPAN", (DP) TV TOKYO
+http://redlabmcdn.s.llnwi.net/jp04/ryowa6/index.m3u8
+
+
+
+
 
 
 
