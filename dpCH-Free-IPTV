@@ -99,7 +99,7 @@ EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-titl
 http://103.153.39.34:8000/play/a05r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="LIVE EURO 2020", SONY TEN 2
-http://103.153.39.34:8000/play/a05r/index.m3u8
+http://scontent.1xcdn.xyz/j2/Ten2_HD_HLS.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/ee/espn_us_corp.png" group-title="LIVE EURO 2020", ESPN
@@ -1500,13 +1500,13 @@ http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
 http://212.102.60.40:2200/R-EX/SPORTS_TEN_3_HD-in/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="DP@TATA SKY", SONY TEN 1 HD
-http://212.224.98.196:2200/R-EX/SPORTS_TEN_1_HD-in/index.m3u8?token=rk
+http://scontent.1xcdn.xyz/j2/Ten1_HD_HLS.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="DP@TATA SKY", SONY TEN 2 HD
-http://212.224.98.196:2200/R-EX/SPORTS_TEN_2_HD-in/index.m3u8?token=rk
+http://scontent.1xcdn.xyz/j2/Ten2_HD_HLS.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="DP@TATA SKY", SONY TEN 3 HD
-http://ssx1.1xcdn.xyz/hls/j2/Ten3_HD_HLS.m3u8
+http://scontent.1xcdn.xyz/j2/Ten3_HD_HLS.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_in_1.png" group-title="DP@TATA SKY", STAR SPORTS 1 HD
