@@ -3207,13 +3207,13 @@ https://jukin-peopleareawesome-2-ca.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony_gem_asia.png" group-title="DP@JAPAN", (DP) SONY GEM (ID) 
 http://210.210.155.35/uq2663/h/h19/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony_gem_asia.png" group-title="DP@JAPAN", (DP) KIDS STATION 
+#EXTINF:-1 tvg-logo="" group-title="DP@JAPAN", (DP) KIDS STATION 
 http://210.210.155.35/uq2663/h/h19/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony_gem_asia.png" group-title="DP@JAPAN", (DP) Animax Japan
+#EXTINF:-1 tvg-logo="" group-title="DP@JAPAN", (DP) Animax Japan
 http://redlabmcdn.s.llnwi.net/jp01/bs14/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony_gem_asia.png" group-title="DP@JAPAN", (DP) TV TOKYO
+#EXTINF:-1 tvg-logo="" group-title="DP@JAPAN", (DP) TV TOKYO
 http://redlabmcdn.s.llnwi.net/jp04/ryowa6/index.m3u8
 
 
