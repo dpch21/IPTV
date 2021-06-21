@@ -101,6 +101,12 @@ http://103.153.39.34:8000/play/a05r/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="LIVE EURO 2020", SONY TEN 2
 http://scontent.1xcdn.xyz/j2/Ten2_HD_HLS.m3u8
 
+#EXTINF:0 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F653%2Fbein-sports-max-1.png" group-title="LIVE EURO 2020",beIN Max 2 Sports
+http://4.amroutras.xyz/live/00002500/index.m3u8
+
+#EXTINF:0 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="LIVE EURO 2020",beIN Max 1 Sports
+http://7.anbdaouras.xyz/live/9889900/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/ee/espn_us_corp.png" group-title="LIVE EURO 2020", ESPN
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/725
