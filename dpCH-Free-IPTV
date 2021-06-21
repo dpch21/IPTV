@@ -394,7 +394,7 @@ https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 
 #EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="DP@USEE TV", Aniplus 
-
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=aniplus
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/animax_asia.png" group-title="DP@USEE TV", Animax ID
 
@@ -420,16 +420,16 @@ https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="" group-title="DP@USEE TV",Horee
-
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=boomeran
 
 #EXTINF:-1 tvg-id="" tvg-name="Duck TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png" group-title="DP@USEE TV",Duck TV
-
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=ducktv
 
 #EXTINF:-1 tvg-id="" tvg-name="Dunia Anak" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png" group-title="DP@USEE TV",Dunia Anak
-
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=duniaanak
 
 #EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" group-title="DP@USEE TV",Horee
-
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=horee
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="DP@USEE TV", National Geographic
 https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeo&bandwidth=b894100&sync=0
