@@ -462,7 +462,7 @@ http://cdn.naturalbd.com:8083/SonyTen2/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-3-id.png" group-title="LIVE COPA AMERICA",  Champions TV 3
-http://home-tv.my.id/RHS/04juni21.m3u8?channel=vidio-6786
+https://radenroro.net/RHS/belum_migrasi.m3u8?channel=vidio-6786
 
 
 
@@ -493,11 +493,11 @@ https://iptvcat.com/my_list/s/95ef4cfd5d9be3354598f0c31ef0eb58.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="DP@SPORT", ChampionTV 1 (Vidio) 
-http://home-tv.my.id/RHS/04juni21.m3u8?channel=vidio-6685
+https://radenroro.net/RHS/belum_migrasi.m3u8?channel=vidio-6685
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png" group-title="DP@SPORT", ChampionTV 2 (Vidio)
-http://home-tv.my.id/RHS/04juni21.m3u8?channel=vidio-6686
+https://radenroro.net/RHS/belum_migrasi.m3u8?channel=vidio-6686
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="DP@SPORT", ChampionTV 3 (Vidio)
-http://home-tv.my.id/RHS/04juni21.m3u8?channel=vidio-6786
+https://radenroro.net/RHS/belum_migrasi.m3u8?channel=vidio-6786
 
 
 
@@ -510,7 +510,7 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion1&bandwidth=default&sync=0
 http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=champion2
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-3-id.png" group-title="DP@SPORT", (DianPhotograph) Champions TV 3
-http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=champion3
+https://radenroro.net/RHS/belum_migrasi.m3u8?channel=vidio-6786
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/oman_tv_sport.png" group-title="DP@SPORT", (DianPhotograph) OMAN TV SPORT 
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
