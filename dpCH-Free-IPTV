@@ -503,14 +503,14 @@ http://home-tv.my.id/RHS/04juni21.m3u8?channel=vidio-6786
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png" group-title="DP@SPORT", (DianPhotograph) Champions TV 1
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6685
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion1&bandwidth=default&sync=0
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-2-id.png" group-title="DP@SPORT", (DianPhotograph) Champions TV 2
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6686
+http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=champion2
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-3-id.png" group-title="DP@SPORT", (DianPhotograph) Champions TV 3
-http://home-tv.my.id/RHS/04juni21.m3u8?channel=vidio-6786
+http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=champion3
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/oman_tv_sport.png" group-title="DP@SPORT", (DianPhotograph) OMAN TV SPORT 
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
