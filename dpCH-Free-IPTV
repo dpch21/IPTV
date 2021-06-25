@@ -458,7 +458,7 @@ https://mkctv.my.id/jarwo/cucok.m3u8?id=disco&bandwidth=b894100&sync=0
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="LIVE COPA AMERICA", SONY TEN 2
-http://cdn.naturalbd.com:8083/SonyTen2/tracks-v1a1/mono.m3u8
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7244
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-3-id.png" group-title="LIVE COPA AMERICA",  Champions TV 3
@@ -1505,6 +1505,13 @@ http://51.81.66.195:1935/krtv/mbc_540/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kbs_drama.png" group-title="DP@KOREA", KBS DRAMA
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/348520
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="DP@TATA SKY",SONY TEN 1
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30617
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="DP@TATA SKY",SONY TEN 2
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7244
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="DP@TATA SKY",SONY TEN 3
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30623
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="DP@TATA SKY", SONY TEN 1 SD
 http://cdn.ihub.live:8080/j-Sony-Ten1/tracks-v1a1/mono.m3u8
