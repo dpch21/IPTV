@@ -464,6 +464,12 @@ http://cdn.naturalbd.com:8083/SonyTen2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-3-id.png" group-title="LIVE COPA AMERICA",  Champions TV 3
 https://radenroro.net/RHS/belum_migrasi.m3u8?channel=vidio-6786
 
+#EXTINF:-1 tvg-logo="" group-title="LIVE COPA AMERICA",  Qazaqstan HD
+http://176.222.164.71/btv/SWM/Qazaqstan_HD/Qazaqstan_HD_1080p_5000kbps.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="LIVE COPA AMERICA",  SPORT TV 2 HD
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+
 
 
 
