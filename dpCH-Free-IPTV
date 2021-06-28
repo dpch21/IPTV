@@ -13,6 +13,218 @@ https://www.dropbox.com/s/qokot61ee4gsb49/My%20Video.mp4?dl=1
 https://www.dropbox.com/s/qokot61ee4gsb49/My%20Video.mp4?dl=1
 
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunia_lain_id.png" group-title="Lokal", (DG) DUNIA LAIN
+http://gpc.my.id/usee/dunialain.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/X2ISm5LSjgKupMtdZkqTb-FNGhE=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg" group-title="Lokal", Al Quran Al Kareem TV
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=6852
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="Lokal", 1. SCTV HD
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-204.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="Lokal", 2. SCTV
+http://gpc.my.id/vidio/sctv.m3u8
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=204
+
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="Lokal", 3. Indosiar HD
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-205.m3u8
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=205
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="Lokal", 4. Indosiar
+https://tv.aryakrida.com/live/indosiar.m3u8
+http://gpc.my.id/vidio/indosiar.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ZTeKx3OtwGzngONntJqXwAuLYrI=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6678/citra-muslim-68ac64.jpg" group-title="Lokal", Citra Muslim
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6678.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rcti.png" group-title="Lokal", 5. RCTI HD
+http://gpc.my.id/vidio/rcti.m3u8
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=665
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rcti.png" group-title="Lokal", 6. RCTI
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-665.m3u8
+
+#EXTINF:-1 tvg-id="mnctv" tvg-logo="http://kamiselaluada.com/img/mnctv.png" group-title="Lokal", 7. MNCTV HD
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=870
+http://gpc.my.id/vidio/mnc.m3u8
+
+#EXTINF:-1 tvg-id="mnctv" tvg-logo="http://kamiselaluada.com/img/mnctv.png" group-title="Lokal", 8. MNCTV
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-870.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gtv.png" group-title="Lokal", 9. GTV HD
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=778
+http://gpc.my.id/vidio/gtv.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gtv.png" group-title="Lokal", 10. GTV
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-778.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/inews.png" group-title="Lokal", 11. iNEWS HD
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-5409.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/inews.png" group-title="Lokal", 12. iNEWS
+http://gpc.my.id/vidio/inews.m3u8
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=e17a886efc21fa45b9dc49a17c29dcf1e0cf1f47118daebc5b16269099ad7347
+
+#EXTINF:-1 tvg-logo="https://www.tvislam.id/wp-content/uploads/2019/08/logo-ashiil-1.png" group-title="Lokal", AshillTV
+http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.m3u8
+
+#EXTINF:-1 tvg-id="transtv" tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="Lokal", 13. TRANS TV HD
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-733.m3u8
+
+#EXTINF:-1 tvg-id="transtv" tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="Lokal", 14. TRANS TV
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=733
+http://gpc.my.id/vidio/transtv.m3u8
+
+#EXTINF:-1 tvg-id="trans7" tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="Lokal", 15. TRANS 7 HD
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-734.m3u8
+
+#EXTINF:-1 tvg-id="trans7" tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="Lokal", 16. TRANS 7
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=734
+http://gpc.my.id/vidio/trans7.m3u8
+
+#EXTINF:-1 tvg-id="trans7" tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="Lokal", TRANS 7 (MotoGP)
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc0fb3069a97a8fb9df1d75e6456ecef11
+http://gpc.my.id/usee/trans7.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/net.png" group-title="Lokal", 17 . Net.TV HD
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-875.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/net.png" group-title="Lokal", 18. Net.TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d82c8d1619ad8176d665453cfb2e55f00fb3069a97a8fb9df1d75e6456ecef11
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal", 19. TVRI HD
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=6441
+http://gpc.my.id/vidio/tvri.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal", 20. TVRI
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6441.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rtv.png" group-title="Lokal", 21. RTV HD
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69ae0cf1f47118daebc5b16269099ad7347
+http://gpc.my.id/vidio/rtv.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rtv.png" group-title="Lokal", 21. RTV 
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
+http://gpc.my.id/usee/rtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/hbo.png" group-title="Lokal", HBO
+https://raw.githubusercontent.com/angahjee1994/tv/master/hbo.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/hbo_hits.png" group-title="Lokal", HBO Hits
+https://raw.githubusercontent.com/angahjee1994/tv/master/hbohit.m3u8
+
+#EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/hbo_family.png" group-title="Lokal", HBO Family
+https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
+
+#EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/hbo_signature.png" group-title="Lokal", HBO Signature
+https://raw.githubusercontent.com/angahjee1994/tv/master/hbosig.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499186_ico.png" group-title="Lokal",Red By HBO
+https://tv.aryakrida.com/live/hbo/RED.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" group-title="Lokal",CINEMAX
+https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="Lokal", 22. Kompas TV HD
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-874.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="Lokal", 23. Kompas TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvone.png" group-title="Lokal", 24. TVONE HD
+https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon-avc1_499968=4.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvone.png" group-title="Lokal", 25. TVONE
+http://cdn4.mbahnunungonline.net/m3u8/0976f879a0c4548.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="Lokal", 26. Metro TV HD
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-777.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="Lokal", 27. Metro TV
+http://gpc.my.id/vidio/metrotv.m3u8
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=777
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/antv.png" group-title="Lokal", 28. ANTV
+https://tv.aryakrida.com/live/antv.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/antv.png" group-title="Lokal", 29. ANTV HD
+https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon-avc1_499968=4.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jtv.png" group-title="Lokal", 31. JTV
+http://cdn4.mbahnunungonline.net/m3u8/33a7e98c230ae2f.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jtv.png" group-title="Lokal", 31. JTV HD
+http://122.248.43.138:1935/ch2/myStream/chunklist_w1542065869.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/65gyv7BS/SAKTI-TV.png" group-title="lokal",  SAKTI TV
+http://video2.onlivestreaming.net/saktitv/livestream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="",group-title="lokal", DTIVI 
+http://dtivi.siar.us/dtivi/live/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-250x150px.png" group-title="Lokal", 32. MALEO TV
+http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-250x150px.png" group-title="Lokal", 32. MALEO TV 2
+https://cdn4.mbahnunungonline.net/m3u8/e22dc65d77c8885.m3u8
+
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/11/Ch-POP-MUSIK-Channel-logo-FINAL-01-250px.png" group-title="Lokal", POP Musik 
+https://cdn4.mbahnunungonline.net/m3u8/94a637fadb57201.m3u8 
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjiMCsgYDqjs0JpchNyWi4Iu6rZ_8IFN9IXnkR4=s900-c-k-c0x00ffffff-no-rj" group-title="Lokal", 33. SANGAJI TV
+https://v6.siar.us/sangajitv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/3b/Logo_Jawapos_TV.png" group-title="Lokal" 34. JawaPos TV
+http://122.248.43.138:1935/ch6/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-6ncwuKp3vbg/V8eXE-q1e3I/AAAAAAAAAgo/3AoBGXJMKPQL429shl3Z5gabMgckTEY5gCLcB/s400/tv9-logo.png" group-title="Lokal" 35. TV9 Nusantara
+http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bs.png" group-title="Lokal", 36. BERITA SATU HD
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1ff1de774005f8da13f42943881c655f0fb3069a97a8fb9df1d75e6456ecef11
+http://gpc.my.id/vidio/beritasatu.m3u8
+
+#EXTINF:-1 tvg-id="jaktv" tvg-logo="http://kamiselaluada.com/img/jaktv.png" group-title="Lokal", 37. JAK TV
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-5415.m3u8
+
+#EXTINF:-1 tvg-id="jaktv" tvg-logo="http://kamiselaluada.com/img/jaktv.png" group-title="Lokal", 37. JAK TV
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=5415
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/daaitv.png" group-title="Lokal", 38. Daai TV
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6482.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mytv.png" group-title="Lokal",39. Mytv
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6711.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/magnatv.png" group-title="Lokal",40. Magna TV 
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/magnatv.png" group-title="Lokal",40. Magna TV 
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d4a5d318833039.5603f2e46a6b8.jpg" group-title="Lokal", 42. O Channel HD
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-206.m3u8
+
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d4a5d318833039.5603f2e46a6b8.jpg" group-title="Lokal", 43. O Channel
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=206
+ 
+#EXTINF:-1 tvg-logo="https://static-web-prod-vidio.akamaized.net/assets/logo/og-image-e7efa10e51acf77c67c3c5c46908bbb1091ab3a469b3ccd4c7ba9a26b52c8345.jpg" group-title="Lokal", MUSICA VIDIO
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=7619
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-7619.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions1.png" group-title="Sport", TV Champion 1
+http://gpc.my.id/vidio/champion-tv-1.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions2.png" group-title="Sport", TV Champion 2
+http://gpc.my.id/vidio/champion-tv-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0tCqSEySYyZZPXsI910g4Si7DWLxpOQAxfCUM8lF4kIoAflERZNdMSomfLyB0DzrwfQ&usqp=CAU" group-title="Sport", TV Champion 3
+http://gpc.my.id/vidio/champion-tv-3.m3u8
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png" group-title="Lokal", NTV
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-7432.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJZPZLfR/unnamed.png" group-title="DP@SPORT 1", Adventure Sports Network
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
 
