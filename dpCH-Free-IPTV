@@ -617,7 +617,7 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=sone&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="DP@USEETV", Aniplus 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=aniplus&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-id="" tvg-name="cartoonnetwork" tvg-logo="" group-title="DP@USEE TV",CN
+#EXTINF:-1 tvg-id="" tvg-name="cartoonnetwork" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cartoonnetwork.png" group-title="DP@USEETV",CN
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=cartoonnetwork&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="DP@USEETV", Animax 
@@ -638,7 +638,8 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=bioskopindonesia&bandwidth=default
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="DP@USEETV", ZBioskop 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=zbioskop&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="DP@USEETV", Thrill https://mkctvbro.my.id/horas/pakailah.m3u8?id=thrill&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="DP@USEETV", Thrill 
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=thrill&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="DP@USEETV", Celestial Movie 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=celestialmovie&bandwidth=default&sync=0
@@ -748,8 +749,6 @@ https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeopeople&bandwidth=b894100&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="DP@USEE TV", Nat Geo Wild
 https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeowild&bandwidth=b894100&sync=0
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" group-title="DP@USEE TV", HISTORY HD
-https://mkctv.my.id/jarwo/cucok.m3u8?id=history&bandwidth=b894100&sync=0
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_discovery_small.png?v=2.0.0.13" group-title="DP@USEE TV", DISCOVERY
 https://mkctv.my.id/jarwo/cucok.m3u8?id=disco&bandwidth=b894100&sync=0
