@@ -285,8 +285,6 @@ http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/uu/ufc-tv-rossiya-us-ru.png" group-title="DP@SPORT 1", UFC
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
-#EXTINF:-1 tvg-logo="http://thaiip.tv/tvlogo2/32.png" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="LIVE EURO 2020", YALLA HD
-https://d1qan2ekrr8t7a.cloudfront.net/out/v1/c8f8c36918284375971ecfbb9f5aac98/index_2.m3u8
 
 
 
@@ -326,13 +324,6 @@ http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/725
 #EXTINF:-1 tvg-id="EURO" group-title="LIVE EURO 2020" tvg-logo="https://footballmanagerstory.com/wp-content/uploads/imgs/2021/03/euro2020.png",EURO
 http://50.7.234.114:8080/0156/tracks-v1a1/mono.m3u8?token=1kfJMDsTTp
 
-
-EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbt_th.png" group-title="LIVE EURO 2020", (DP) NBT
-http://122.155.92.8:1935/live/ch1_L.sdp/chunklist_w1503718698.m3u8
-
-EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbt_th.png" group-title="LIVE EURO 2020", (DP) NBT
-http://122.155.92.8:1935/live/ch1_L.sdp/chunklist_w1503718698.m3u8
-
 #EXTINF:-1 group-title="LIVE EURO 2020" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm-sukan-my.png",(MY) RTM SUKAN
 http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
 #EXTINF:-1 group-title="LIVE EURO 2020" tvg-logo="https://i.postimg.cc/mrTXLfKB/RCTI.jpg",RCTI
@@ -355,8 +346,17 @@ http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="LIVE EURO 2020",Ten Sports (PK)
 http://221.120.204.4/TEN-SPORTS-LOCKLE/index.m3u8
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/1200px-UEFA_Euro_2020_Logo.svg.png" group-title="LIVE EURO 2020",BeinSport1max fr
+http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/1200px-UEFA_Euro_2020_Logo.svg.png" group-title="LIVE EURO 2020",SK2
+http://31.220.41.88:8081/live/klub2.stream/chunks.m3u8
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/1200px-UEFA_Euro_2020_Logo.svg.png" group-title="LIVE EURO 2020",TRT1(ligaEuro)
+https://tv-trt1.live.trt.com.tr/master_360.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/1200px-UEFA_Euro_2020_Logo.svg.png" group-title="LIVE EURO 2020",ABC_us(ligaEuro)
+http://31.220.41.87:8081/live/us-abc.stream/chunks.m3u8
 
 EXTINF:-1 tvg-logo="https://i.ibb.co/K6Q2z7f/sctvlogo.png" group-title="LIVE", (DP) SCTV HD
 http://zalogitv.tech:8080/tony4/tony4/1755
