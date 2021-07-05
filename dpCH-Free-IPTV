@@ -807,8 +807,8 @@ https://d1wz6zummv1gcq.cloudfront.net/out/v1/c21351bd96f24818ad51d0112f229e5d/in
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IQyfQCv.png?v=1.0.0.1" group-title="MOVIES", HITS
+http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/flix_us_east.png" group-title="MOVIES", FLIX
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
