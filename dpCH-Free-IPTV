@@ -980,6 +980,9 @@ http://1805327262.cloudvdn.com/a.m3u8?domain=live-hls.macaulotustv.com&player=71
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.png" group-title="DP@PENGETAHUAN",  (Dian Photograph) ANIMAL PLANET
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.png" group-title="DP@PENGETAHUAN",  (Dian Photograph) ANIMAL PLANET (ID) 
+http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.png" group-title="DP@KNOWLEDGE",  (DP) ANIMAL PLANET (UK) 
 http://stream.tvtap.live:8081/live/ap9.stream/playlist.m3u8
