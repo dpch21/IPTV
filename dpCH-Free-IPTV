@@ -804,7 +804,8 @@ EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.p
 https://d1wz6zummv1gcq.cloudfront.net/out/v1/c21351bd96f24818ad51d0112f229e5d/index_1.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="MOVIES",Hits Movies HD
+http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IQyfQCv.png?v=1.0.0.1" group-title="MOVIES", HITS
