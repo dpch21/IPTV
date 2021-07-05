@@ -665,6 +665,9 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeopeople&bandwidth=default&syn
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="DP@USEETV", NAT GEO
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeo&bandwidth=default&sync=0
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animalplanet_small.png?v=2.0.0.13" group-title="DP@USEETV", ANIMAL PLANET
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=animalplanet&bandwidth=default&sync=0
+
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bioskop_id.png" group-title="DP@USEE TV", (DP) Bioskop Indonesia
 
