@@ -885,10 +885,6 @@ https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="DP@KOREA" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png" group-title="DP@KOREA", S-ONE
-https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -898,7 +894,7 @@ https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mp
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kbs_joy.png" group-title="DP@KOREA", KBS JOY
-https://kbsnjoy.gscdn.kbs.co.kr/kbsnjoy-02/kbsnjoy-02_sd.m3u8?Expires=1623201293&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuam95LmdzY2RuLmticy5jby5rci9rYnNuam95LTAyL2tic25qb3ktMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYyMzIwMTI5M319fV19&Signature=F3rkBTagfnfMKB2HEqNbCw7qbfjsgENd71zHnhYqsy3wIjSt55unINf9q5kooSBI~l4OaR8jIy81ddPcfpNDVU6UjIkkoeSI~OLmRf-dumkOUCOiVT-CmKw2MAU~5p4d3~qCugs3dlDAFknwGRc3NT7a7CkqajVqb4yXjWjGYKHBHOQ8gzG3VSve3GLYX3YBGbtHuGHSzehcTGpyvMrgR30quBblXBW4lUJvAGsgD2NkcAxnUStICJK9eRzkMVo6cU9Wj02wK5pk3avZ754VkgEj-NBtZs0~XrODuSIvk7wDoLgyn8Fc~uJT~CsIUmoHHZVHmFED~UT3f4DKkpJkVQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+http://api.aniflix.vip/kor/kbsjoy.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/m/images/cont/ci_ch.png" group-title="DP@KOREA", KBS STORY
 https://kbsnw.gscdn.kbs.co.kr/kbsnw-02/kbsnw-02_sd.m3u8?Expires=1623201386&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudy5nc2Nkbi5rYnMuY28ua3Iva2JzbnctMDIva2JzbnctMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYyMzIwMTM4Nn19fV19&Signature=iOfNS9RZG9qoV108I1trFaAGuAQ7uD0IqmgEBb5z2R8LusamKs8dMCk9Im-nrHkCfMof8Y2NGjDcnGiex6MdQ8TkdayBw4sLOJ5R3dei4EQI-zEIOnrl24j0k8A1BKwiY3~eQnyfkwff2iqLDwV~TcpeBGKayPZZJLZbfW8tcBKbbNBDZiV6p-3g0l-J47e1xm3fsfFVWYdi6yjwJw-PoMCJvwBh9Ctd6PiXovRkQRRh10eNyiqMQN8R~-INP-VGwf9reyZNAImNe3tRngrKJj03H2ERC0R8GtXmEGPuUu0gqtIR3V8jwUkzlomkEfgMSf~x7pH4md4a1iyKjq~3nQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TAjby5rci9rYnNuam95LTAyL2tic25qb3ktMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYyMzIwMTI5M319fV19&Signature=F3rkBTagfnfMKB2HEqNbCw7qbfjsgENd71zHnhYqsy3wIjSt55unINf9q5kooSBI~l4OaR8jIy81ddPcfpNDVU6UjIkkoeSI~OLmRf-dumkOUCOiVT-CmKw2MAU~5p4d3~qCugs3dlDAFknwGRc3NT7a7CkqajVqb4yXjWjGYKHBHOQ8gzG3VSve3GLYX3YBGbtHuGHSzehcTGpyvMrgR30quBblXBW4lUJvAGsgD2NkcAxnUStICJK9eRzkMVo6cU9Wj02wK5pk3avZ754VkgEj-NBtZs0~XrODuSIvk7wDoLgyn8Fc~uJT~CsIUmoHHZVHmFED~UT3f4DKkpJkVQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
@@ -1748,7 +1744,7 @@ http://112.170.47.242:83//klive/api/url.m3u8?m=url&s=wavve&i=K02&q=SD&apikey=OAN
 http://51.81.66.195:1935/krtv/kbs2_540/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/kk/kbs.png" group-title="DP@KOREA", KBS
-http://51.81.66.195:1935/krtv/kbs1_540/playlist.m3u8
+http://api.aniflix.vip/kor/kbsw.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3mhGWCM/Dian.png" group-title="DP@KOREA", ViuTv
 http://61.238.6.49:8000/bysid/99
@@ -1757,11 +1753,11 @@ http://61.238.6.49:8000/bysid/99
 http://61.238.6.49:8000/bysid/96
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-kr.png" group-title="DP@KOREA", MBC
-http://51.81.66.195:1935/krtv/mbc_540/playlist.m3u8
+http://api.aniflix.vip/kor/mbc.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kbs_drama.png" group-title="DP@KOREA", KBS DRAMA
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/348520
+http://api.aniflix.vip/kor/kbsdrama.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="DP@TATA SKY",SONY TEN 1
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30617
