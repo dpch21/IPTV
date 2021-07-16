@@ -614,13 +614,13 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=animalplanet&bandwidth=default&syn
 
 
 
-#EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="DP@USEE TV", Aniplus 
+#EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="DP@USEETV", Aniplus 
 http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=aniplus
 
 #EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="" group-title="DP@USEETV",Horee
-http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=boomeran
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=boomerang
 
-#EXTINF:-1 tvg-id="" tvg-name="Duck TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png" group-title="DP@USEE TV",DuckTV
+#EXTINF:-1 tvg-id="" tvg-name="Duck TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png" group-title="DP@USEETV",DuckTV
 http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=ducktv
 
 #EXTINF:-1 tvg-id="" tvg-name="Dunia Anak" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png" group-title="DP@USEETV",Dunia Anak
@@ -638,7 +638,7 @@ https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeopeople&bandwidth=b894100&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="DP@USEETV", Nat Geo Wild
 https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeowild&bandwidth=b894100&sync=0
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_discovery_small.png?v=2.0.0.13" group-title="DP@USEE TV", DISCOVERY
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_discovery_small.png?v=2.0.0.13" group-title="DP@USEETV", DISCOVERY
 https://mkctv.my.id/jarwo/cucok.m3u8?id=disco&bandwidth=b894100&sync=0
 
 
