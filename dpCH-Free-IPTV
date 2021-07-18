@@ -274,6 +274,18 @@ http://gpc.my.id/vidio/champion-tv-2.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/fightsport.png" group-title="DP@SPORT 1", Fight Sports
 http://210.210.155.35/session/1f798c66-dd9f-11eb-a83f-b82a72d63267/x6bnqe/h/h05/01.m3u8
 
+#EXTINF:-1 tvg-id="ESPN" group-title="DP@SPORT 1" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/725
+
+#EXTINF:-1 tvg-id="ESPN2" group-title="DP@SPORT 1" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 2
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3622
+
+#EXTINF:-1 tvg-id="ESPN3" group-title="DP@SPORT 1" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 3
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/1161
+
+#EXTINF:-1 tvg-id="ESPN3" group-title="DP@SPORT 1" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 4
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/727
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0tCqSEySYyZZPXsI910g4Si7DWLxpOQAxfCUM8lF4kIoAflERZNdMSomfLyB0DzrwfQ&usqp=CAU" group-title="Sport", TV Champion 3
 http://gpc.my.id/vidio/champion-tv-3.m3u8
 
