@@ -315,6 +315,26 @@ https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_
 http://stream.tvtap.live:8081/live/fr-canaplus-sport.stream/playlist.m3u8
 
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/MitndTm.png" group-title="DP@BEINSPORT", Olympic Games Tokyo 2020
+http://212.224.98.209:2200/AFR-EX/SuperSport_Grandstand_FHD-dstv/tracks-v1a1/mono.m3u8?token=RK
+#EXTINF: -1 tvg-logo="https://i.imgur.com/MitndTm.png" group-title="DP@BEINSPORT", Olympic Games Tokyo 2020
+http://212.102.60.40:2200/R-EX/SPORTS_TEN_2_HD-in/tracks-v1a1/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/MitndTm.png" group-title="DP@BEINSPORT", Olympic Games Tokyo 2020
+http://212.224.98.205:2200/EX/bein11hd-ar/index.m3u8?token=rk
+#EXTINF: -1 tvg-logo="https://i.imgur.com/MitndTm.png" group-title="DP@BEINSPORT", Olympic Games Tokyo 2020
+http://212.224.98.205:2200/EX/bein1hd-ar/index.m3u8?token=rk
+#EXTINF: -1 tvg-logo="https://i.imgur.com/MitndTm.png" group-title="DP@BEINSPORT", Olympic Games Tokyo 2020
+http://212.224.98.205:2200/EX/bein4hd-ar/index.m3u8?token=rk
+#EXTINF: -1 tvg-logo="https://i.imgur.com/MitndTm.png" group-title="DP@BEINSPORT", Olympic Games Tokyo 2020
+http://212.224.98.205:2200/EX/bein5hd-ar/index.m3u8?token=rk
+#EXTINF: -1 tvg-logo="https://i.imgur.com/MitndTm.png" group-title="DP@BEINSPORT", Olympic Games Tokyo 2020
+http://212.224.98.205:2200/EX/bein6hd-ar/index.m3u8?token=rk
+#EXTINF: -1 tvg-logo="https://i.imgur.com/MitndTm.png" group-title="DP@BEINSPORT", Olympic Games Tokyo 2020
+http://212.224.98.205:2200/EX/bein7hd-ar/index.m3u8?token=rk
+#EXTINF: 
+
+
+
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/95/f6/68/95f6681b3ad0c0404b04a7c4a8cccb06.png" group-title="DP@BEINSPORT",beIN Max 1 Sports
 http://mhiptv.com:8888/heshamyoussef/629131120/40801
 #EXTINF:0 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F653%2Fbein-sports-max-1.png" group-title="DP@BEINSPORT",beIN Max 2 Sports
