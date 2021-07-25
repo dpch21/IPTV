@@ -3943,8 +3943,16 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed327f
 
 
 
-#EXTINF:-1 tvg-id="PPTV.th" group-title="DP@Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/pptv.png",PPTV 
+#EXTINF:-1 tvg-id="PPTV.th" group-title="DP@Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/pptv.png",PPTV HD
 https://cdnlive.goprimetime.info/feed/chpptvhd/index.m3u8
+
+#EXTINF:-1 tvg-id="NBT.th" group-title="DP@Digital TV"tvg-logo="https://iptv36.my.to/logo/nbt.png?rev=8",NBT HD
+http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="NBT.th" group-title="DP@Digital TV"tvg-logo="https://www.doofree88.com/storage/live/thai-pbs.png",TPBS HD
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+
+
 
 
 
