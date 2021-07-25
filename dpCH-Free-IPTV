@@ -292,6 +292,10 @@ http://212.224.98.205:2200/EX/bein6hd-ar/index.m3u8?token=rk
 http://212.224.98.205:2200/EX/bein7hd-ar/index.m3u8?token=rk
 
 
+
+
+
+
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/6600d730-c1db-11eb-a845-c107e69f2553/1690769/306840016.png" group-title="DP@BEINSPORT", BEIN XTRA
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/6600d730-c1db-11eb-a845-c107e69f2553/1690774/306840422.png" group-title="DP@BEINSPORT", beIN SPORTS 1
@@ -308,6 +312,18 @@ http://212.224.98.205:2200/EX/bein5hd-ar/index.m3u8?token=rk
 http://212.224.98.205:2200/EX/bein6hd-ar/index.m3u8?token=rk
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/6600d730-c1db-11eb-a845-c107e69f2553/1690774/306840428.png" group-title="DP@BEINSPORT", beIN SPORTS 7
 http://212.224.98.205:2200/EX/bein7hd-ar/index.m3u8?token=rk
+
+
+#EXTINF:0 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F653%2Fbein-sports-max-1.png" group-title="DP@BEINSPORT",beIN 2
+http://stream.tvtap.net:8081/live/bein2.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F653%2Fbein-sports-max-1.png" group-title="DP@BEINSPORT",beIN 3
+http://55.abdakaroukhai.xyz/live/6151278887/index.m3u8
+#EXTINF:0 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F653%2Fbein-sports-max-1.png" group-title=DP"@BEINSPORT",beIN 4
+http://55.abdakaroukhai.xyz/live/9787488847/index.m3u8
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_5.png" group-title="DP@BEINSPORT",beIN 5 
+http://55.abdakaroukhai.xyz/live/115451004/index.m3u8
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_6.png" group-title="DP@BEINSPORT",beIN 6 
+
 
 
 
