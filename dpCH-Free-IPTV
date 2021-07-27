@@ -287,9 +287,9 @@ http://212.224.98.205:2200/EX/bein4hd-ar/index.m3u8?token=rk
 #EXTINF: -1 tvg-logo="https://i.imgur.com/MitndTm.png" group-title="DP@BEINSPORT", Olympic Games Tokyo 2020
 http://212.224.98.205:2200/EX/bein5hd-ar/index.m3u8?token=rk
 #EXTINF: -1 tvg-logo="https://i.imgur.com/MitndTm.png" group-title="DP@BEINSPORT", Olympic Games Tokyo 2020
-http://212.224.98.205:2200/EX/bein6hd-ar/index.m3u8?token=rk
+http://str.smartip-tv.net:8888/BEINSPORT_2_HD/index.m3u8?token=test
 #EXTINF: -1 tvg-logo="https://i.imgur.com/MitndTm.png" group-title="DP@BEINSPORT", Olympic Games Tokyo 2020
-http://212.224.98.205:2200/EX/bein7hd-ar/index.m3u8?token=rk
+http://str.smartip-tv.net:8888/BEINSPORT_1_HD/index.m3u8?token=test
 
 
 
@@ -327,15 +327,15 @@ http://55.abdakaroukhai.xyz/live/115451004/index.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/95/f6/68/95f6681b3ad0c0404b04a7c4a8cccb06.png" group-title="DP@BEINSPORT",beIN Max 1 Sports
+EXTINF:0 tvg-logo="https://i.pinimg.com/originals/95/f6/68/95f6681b3ad0c0404b04a7c4a8cccb06.png" group-title="DP@BEINSPORT",beIN Max 1 Sports
 http://mhiptv.com:8888/heshamyoussef/629131120/40801
-#EXTINF:0 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F653%2Fbein-sports-max-1.png" group-title="DP@BEINSPORT",beIN Max 2 Sports
+EXTINF:0 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F653%2Fbein-sports-max-1.png" group-title="DP@BEINSPORT",beIN Max 2 Sports
 http://mhiptv.com:8888/heshamyoussef/629131120/40802
-#EXTINF:0 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F652%2Fbein-sports-max-1.png" group-title="DP@BEINSPORT",beIN Max 3 Sports
+EXTINF:0 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F652%2Fbein-sports-max-1.png" group-title="DP@BEINSPORT",beIN Max 3 Sports
 http://mhiptv.com:8888/heshamyoussef/629131120/40803
-#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_4.png" group-title="DP@BEINSPORT",beIN Max 4 Sports
+EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_4.png" group-title="DP@BEINSPORT",beIN Max 4 Sports
 http://mhiptv.com:8888/heshamyoussef/629131120/40804
-#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_5.png" group-title="DP@BEINSPORT",beIN Max 5 Sports
+EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_5.png" group-title="DP@BEINSPORT",beIN Max 5 Sports
 http://mhiptv.com:8888/heshamyoussef/629131120/41081
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="DP@BEINSPORT" ,Bein Sports English HD1 
