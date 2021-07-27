@@ -292,6 +292,37 @@ http://str.smartip-tv.net:8888/BEINSPORT_2_HD/index.m3u8?token=test
 http://str.smartip-tv.net:8888/BEINSPORT_1_HD/index.m3u8?token=test
 
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 1 premium Olympic
+http://directn.mrnova.online/live/60060_.m3u8?token=ndirect50k
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 2 premium Olympic
+http://directn.mrnova.online/live/60061_.m3u8?token=ndirect50k
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 3 premium Olympic
+http://directn.mrnova.online/live/60062_.m3u8?token=ndirect50k
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 1 Olympic
+http://directn.mrnova.online/live/60043_.m3u8?token=ndirect50k
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 2 Olympic
+http://directn.mrnova.online/live/60044_.m3u8?token=ndirect50k
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 3 Olympic
+http://directn.mrnova.online/live/60045_.m3u8?token=ndirect50k
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 4 Olympic
+http://directn.mrnova.online/live/60046_.m3u8?token=ndirect50k
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 5 Olympic
+http://directn.mrnova.online/live/60047_.m3u8?token=ndirect50k
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 6 Olympic
+http://directn.mrnova.online/live/60048_.m3u8?token=ndirect50k
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 7 Olympic
+http://directn.mrnova.online/live/60049_.m3u8?token=ndirect50k
+
+
 
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="sports", BEIN SPORTS 1 HD
 http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
