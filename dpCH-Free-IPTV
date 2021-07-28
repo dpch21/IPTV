@@ -12,13 +12,18 @@ https://www.dropbox.com/s/qokot61ee4gsb49/My%20Video.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1Kn3meWkwRw/YH6Mly6ksgI/AAAAAAAABCE/W7nC4Og5Zp0oGnGbK-hfKgsYfw_rgXPJgCLcBGAsYHQ/s0/dian.png" group-title="LIVE", http://te.me/dianphotograph
 https://www.dropbox.com/s/qokot61ee4gsb49/My%20Video.mp4?dl=1
 
-
-#EXTINF:-1 group-title="Tokyo 2020 Olympics",Champions TV 1
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion1&bandwidth=default&sync=0
-#EXTINF:-1 group-title="Tokyo 2020 Olympics",Champions TV 2
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion2&bandwidth=default&sync=0
-#EXTINF:-1 group-title="Tokyo 2020 Olympics",Champions TV 3
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion3&bandwidth=default&sync=0
+#EXTINF:-1 group-title="DP@Olimpiade 2020 Tokyo",Match Olympic
+https://95-213-224-169.livesports24.online/ooomatch.m3u8
+#EXTINF:-1 group-title="DP@Olimpiade 2020 Tokyo",Sukan Olympic
+http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
+#EXTINF:-1 group-title="DP@Olimpiade 2020 Tokyo",Sukan 2 Olympic
+http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+#EXTINF:-1 group-title="DP@Olimpiade 2020 Tokyo",Astro Arena Olympic
+http://iptv.tvmalaysia.cc:80/139664/139664/6707
+#EXTINF:-1 group-title="DP@Olimpiade 2020 Tokyo",Astro Sport 1 Olympic
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
+#EXTINF:-1 group-title="DP@Olimpiade 2020 Tokyo",Astro Sport 1 Olympic
+http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 
 
 
