@@ -274,22 +274,20 @@ https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_
 http://stream.tvtap.live:8081/live/fr-canaplus-sport.stream/playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/MitndTm.png" group-title="DP@BEINSPORT", Olympic Games Tokyo 2020
-http://212.224.98.209:2200/AFR-EX/SuperSport_Grandstand_FHD-dstv/tracks-v1a1/mono.m3u8?token=RK
-#EXTINF: -1 tvg-logo="https://i.imgur.com/MitndTm.png" group-title="DP@BEINSPORT", Olympic Games Tokyo 2020
-http://212.102.60.40:2200/R-EX/SPORTS_TEN_2_HD-in/tracks-v1a1/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/MitndTm.png" group-title="DP@BEINSPORT", Olympic Games Tokyo 2020
-http://212.224.98.205:2200/EX/bein11hd-ar/index.m3u8?token=rk
-#EXTINF: -1 tvg-logo="https://i.imgur.com/MitndTm.png" group-title="DP@BEINSPORT", Olympic Games Tokyo 2020
-http://212.224.98.205:2200/EX/bein1hd-ar/index.m3u8?token=rk
-#EXTINF: -1 tvg-logo="https://i.imgur.com/MitndTm.png" group-title="DP@BEINSPORT", Olympic Games Tokyo 2020
-http://212.224.98.205:2200/EX/bein4hd-ar/index.m3u8?token=rk
-#EXTINF: -1 tvg-logo="https://i.imgur.com/MitndTm.png" group-title="DP@BEINSPORT", Olympic Games Tokyo 2020
-http://212.224.98.205:2200/EX/bein5hd-ar/index.m3u8?token=rk
-#EXTINF: -1 tvg-logo="https://i.imgur.com/MitndTm.png" group-title="DP@BEINSPORT", Olympic Games Tokyo 2020
-http://str.smartip-tv.net:8888/BEINSPORT_2_HD/index.m3u8?token=test
-#EXTINF: -1 tvg-logo="https://i.imgur.com/MitndTm.png" group-title="DP@BEINSPORT", Olympic Games Tokyo 2020
-http://str.smartip-tv.net:8888/BEINSPORT_1_HD/index.m3u8?token=test
+
+
+#EXTINF:-1 group-title="DP@BEINSPORT",Match Olympic
+https://95-213-224-169.livesports24.online/ooomatch.m3u8
+#EXTINF:-1 group-title="DP@BEINSPORT",Sukan Olympic
+http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
+#EXTINF:-1 group-title="DP@BEINSPORT",Sukan 2 Olympic
+http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+#EXTINF:-1 group-title="DP@BEINSPORT",Astro Arena Olympic
+http://iptv.tvmalaysia.cc:80/139664/139664/6707
+#EXTINF:-1 group-title="DP@BEINSPORT",Astro Sport 1 Olympic
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
+#EXTINF:-1 group-title="DP@BEINSPORT",Astro Sport 1 Olympic
+http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 1 premium Olympic
