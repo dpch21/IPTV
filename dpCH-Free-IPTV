@@ -294,19 +294,6 @@ http://stream.tvtap.live:8081/live/fr-canaplus-sport.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="DP@BEINSPORT",Match Olympic
-https://95-213-224-169.livesports24.online/ooomatch.m3u8
-#EXTINF:-1 group-title="DP@BEINSPORT",Sukan Olympic
-http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
-#EXTINF:-1 group-title="DP@BEINSPORT",Sukan 2 Olympic
-http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
-#EXTINF:-1 group-title="DP@BEINSPORT",Astro Arena Olympic
-http://iptv.tvmalaysia.cc:80/139664/139664/6707
-#EXTINF:-1 group-title="DP@BEINSPORT",Astro Sport 1 Olympic
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
-#EXTINF:-1 group-title="DP@BEINSPORT",Astro Sport 1 Olympic
-http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 1 premium Olympic
 http://directn.mrnova.online/live/60060_.m3u8?token=ndirect50k
