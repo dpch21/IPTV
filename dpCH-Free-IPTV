@@ -39,7 +39,23 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
 http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 
 
+	#EXTINF:-0 group-title="DP@Olimpiade 2020 Tokyo" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-one-291.png",ZA: SuperSport Variety 1 FHD
+http://livepulse2.uk:8080/live/88888/99999/292011.m3u8
+#EXTINF:-0 group-title="DP@Olimpiade 2020 Tokyo" tvg-logo="https://img.sport-tv-guide.live/images/stations/a292.png",ZA: SuperSport Variety 2 FHD
+http://livepulse2.uk:8080/live/88888/99999/292010.m3u8
+#EXTINF:-0 group-title="DP@Olimpiade 2020 Tokyo" tvg-logo="https://img.sport-tv-guide.live/images/stations/a293.png",ZA: SuperSport Variety 3 HD
+http://livepulse2.uk:8080/live/88888/99999/292009.m3u8
+#EXTINF:-0 group-title="DP@Olimpiade 2020 Tokyo" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-four-294.png",ZA: SuperSport Variety 4 FHD
+http://livepulse2.uk:8080/live/88888/99999/292008.m3u8
 
+#EXTINF:-1 tvg=id="TVRI.ID" tvg-name="TVRI" tvg-country="ID" tvg-language="Indonesia" tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/700x0/photo/2021/07/16/tvri-livejpg-20210716015852.jpg" group-title="DP@Olimpiade 2020 Tokyo",[ID] TVRI
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="TVTokyo.jp" tvg-name="TV Tokyo" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/vgEnHX6.png" group-title="2021 Summer Olympics",TV Tokyo
+http://redlabmcdn.s.llnwi.net/jp04/ryowa6hd/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroArena.HD" tvg-name="Astro Arena" tvg-country="my" tvg-language="my" tvg-logo="https://media.thevibes.com/images/uploads/covers/_large/Astro-olympics.jpg" group-title="DP@Olimpiade 2020 Tokyo",[MY] Astro Arena [HD]
+http://alienstreams.fi:7070/staffan.brundin@gmail.com/mZkXfZ8TVW/45899.ts
+#EXTINF:-1 tvg-id="INDOSIAR.ID" tvg-name="Indosiar" tvg-country="ID" tvg-language="ID" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/07/21/3506776478.jpg" group-title="DP@Olimpiade 2020 Tokyo",[ID] Indosiar
+http://alienstreams.fi:7070/staffan.brundin@gmail.com/mZkXfZ8TVW/46083.ts
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunia_lain_id.png" group-title="Lokal", (DG) DUNIA LAIN
