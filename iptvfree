@@ -9,6 +9,40 @@ https://www.dropbox.com/s/qokot61ee4gsb49/My%20Video.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1Kn3meWkwRw/YH6Mly6ksgI/AAAAAAAABCE/W7nC4Og5Zp0oGnGbK-hfKgsYfw_rgXPJgCLcBGAsYHQ/s0/dian.png" group-title="", http://te.me/dianphotograph
 https://www.dropbox.com/s/qokot61ee4gsb49/My%20Video.mp4?dl=1
 
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 1" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_01.png" group-title="DP@Olimpiade Tokyo 2020",OLYMPIC 1
+http://185.224.216.1:8081/doofootball_r9/channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 2" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_02.png" group-title="DP@Olimpiade Tokyo 2020",OLYMPIC 2
+http://185.224.216.1:8081/doofootball_r9/channel2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 3" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_03.png" group-title="DP@Olimpiade Tokyo 2020",OLYMPIC 3
+http://185.224.216.1:8081/doofootball_r9/channel3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 4" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_04.png" group-title="DP@Olimpiade Tokyo 2020",OLYMPIC 4
+http://185.224.216.1:8081/doofootball_r9/channel4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 5" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_05.png" group-title="DP@Olimpiade Tokyo 2020",OLYMPIC 5
+http://185.224.216.1:8081/doofootball_r9/channel5/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 6" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_06.png" group-title="DP@Olimpiade Tokyo 2020",OLYMPIC 6
+http://185.224.216.1:8081/doofootball_r9/channel6/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 7" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_07.png" group-title="DP@Olimpiade Tokyo 2020",OLYMPIC 7
+http://185.224.216.1:8081/doofootball_r9/channel7/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 8" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_08.png" group-title="DP@Olimpiade Tokyo 2020",OLYMPIC 8
+http://185.224.216.1:8081/doofootball_r9/channel8/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 9" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_09.png" group-title="DP@Olimpiade Tokyo 2020",OLYMPIC 9
+http://185.224.216.1:8081/doofootball_r9/channel9/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 10" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_10.png" group-title="DP@Olimpiade Tokyo 2020",OLYMPIC 10
+http://185.224.216.1:8081/doofootball_r9/channel10/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 11" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_11.png" group-title="DP@Olimpiade Tokyo 2020",OLYMPIC 11
+http://185.224.216.1:8081/doofootball_r9/channel11/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 12" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_12.png" group-title="DP@Olimpiade Tokyo 2020",OLYMPIC 12
+http://185.224.216.1:8081/doofootball_r9/channel12/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 13" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_13.png" group-title="DP@Olimpiade Tokyo 2020",OLYMPIC 13
+http://185.224.216.1:8081/doofootball_r9/channel13/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 14" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_14.png" group-title="DP@Olimpiade Tokyo 2020",OLYMPIC 14
+http://185.224.216.1:8081/doofootball_r9/channel14/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 15" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_15.png" group-title="DP@Olimpiade Tokyo 2020",OLYMPIC 15
+http://185.224.216.1:8081/doofootball_r9/channel15/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 16" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_16.png" group-title="DP@Olimpiade Tokyo 2020",OLYMPIC 16
+http://185.224.216.1:8081/doofootball_r9/channel16/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 1" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="DP@Olimpiade Tokyo 2020",OLYMPIC 1
 https://link.zozotv.xyz:443/Freemium4/unlimited99/318
 #EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 2" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="DP@Olimpiade Tokyo 2020",OLYMPIC 2
