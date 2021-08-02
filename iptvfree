@@ -958,10 +958,9 @@ https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="DP@JAPAN" tvg-logo="https://www.lyngsat.com/logo/tv/ww/waku_waku_japan.png" group-title="DP@JAPAN", WakuWaku JAPAN
-https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd
+#EXTINF:-1 tvg-id="wakuwakujapan" group-title="DP@JAPAN" tvg-logo="http://imageidc1.tv360.vn/image1/2020_09_23/160082333989/0b36783ed8fb_640_360.png" type="stream", WakuWaku Japan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://scl.vthanhtivi.live:8000/play/wakuwaku-hthanh
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kbs_joy.png" group-title="DP@KOREA", KBS JOY
