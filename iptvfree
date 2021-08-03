@@ -1,7 +1,6 @@
 #EXTM3U
 
 EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1Kn3meWkwRw/YH6Mly6ksgI/AAAAAAAABCE/W7nC4Og5Zp0oGnGbK-hfKgsYfw_rgXPJgCLcBGAsYHQ/s0/dian.png" group-title="", (Chanel Youtube Dian Photograph) 
-https://www.dropbox.com/s/qokot61ee4gsb49/My%20Video.mp4?dl=1
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1Kn3meWkwRw/YH6Mly6ksgI/AAAAAAAABCE/W7nC4Og5Zp0oGnGbK-hfKgsYfw_rgXPJgCLcBGAsYHQ/s0/dian.png" group-title="", Join Grup Telgram 
 https://www.dropbox.com/s/qokot61ee4gsb49/My%20Video.mp4?dl=1
@@ -150,8 +149,7 @@ http://livepulse2.uk:8080/live/88888/99999/292008.m3u8
 
 #EXTINF:-1 tvg=id="TVRI.ID" tvg-name="TVRI" tvg-country="ID" tvg-language="Indonesia" tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/700x0/photo/2021/07/16/tvri-livejpg-20210716015852.jpg" group-title="DP@Olimpiade 2020 Tokyo",[ID] TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="TVTokyo.jp" tvg-name="TV Tokyo" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/vgEnHX6.png" group-title="2021 Summer Olympics",TV Tokyo
-http://redlabmcdn.s.llnwi.net/jp04/ryowa6hd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AstroArena.HD" tvg-name="Astro Arena" tvg-country="my" tvg-language="my" tvg-logo="https://media.thevibes.com/images/uploads/covers/_large/Astro-olympics.jpg" group-title="DP@Olimpiade 2020 Tokyo",[MY] Astro Arena [HD]
 http://alienstreams.fi:7070/staffan.brundin@gmail.com/mZkXfZ8TVW/45899.ts
 #EXTINF:-1 tvg-id="INDOSIAR.ID" tvg-name="Indosiar" tvg-country="ID" tvg-language="ID" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/07/21/3506776478.jpg" group-title="DP@Olimpiade 2020 Tokyo",[ID] Indosiar
@@ -443,19 +441,19 @@ http://directn.mrnova.online/live/60049_.m3u8?token=ndirect50k
 
 
 
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="sports", BEIN SPORTS 1 HD
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="DP@BEINSPORT", BEIN SPORTS 1 HD
 http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="sports", BEIN SPORTS 2 HD
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="DP@BEINSPORT", BEIN SPORTS 2 HD
 http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="sports", BEIN SPORTS 3 HD
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="DP@BEINSPORT", BEIN SPORTS 3 HD
 http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="sports", BEIN SPORTS 4 HD
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="DP@BEINSPORT", BEIN SPORTS 4 HD
 http://stream.tvtap.live:8081/live/bein4.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="sports", BEIN SPORTS 5 HD
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="DP@BEINSPORT", BEIN SPORTS 5 HD
 http://stream.tvtap.live:8081/live/bein5.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="sports", BEIN SPORTS 6 HD
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="DP@BEINSPORT", BEIN SPORTS 6 HD
 http://stream.tvtap.live:8081/live/bein6.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="sports", BEIN SPORTS 7 HD
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="DP@BEINSPORT", BEIN SPORTS 7 HD
 http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
 
 
@@ -864,7 +862,7 @@ https://mkctv.my.id/jarwo/cucok.m3u8?id=disco&bandwidth=b894100&sync=0
 
 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_1.png" group-title="DP@SPORTS",  FS1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_1.png" group-title="DP@SPORT",  FS1
 http://164.68.124.111/fs1.m3u8
 
 
@@ -2089,11 +2087,9 @@ http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/18
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_arena_my.png" group-title="DP ASTRO@SUPER SPORT", (DianPhotograph) ARENA
-http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+# http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_arena_my.png" group-title="LIVE", (DianPhotograph) ARENA
-http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSportHD" group-title="DP@SPORTS1" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",SuperSport 1
 http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
@@ -2109,11 +2105,9 @@ http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="DP ASTRO@SUPER SPORT", (DianPhotograph) AKAN SEGERA KEMBALI
-http://50.7.161.82:8278/streams/d/Assp1
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="DP ASTRO@SUPER SPORT", (DianPhotograph) ASSP1
- http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="DP ASTRO@SUPER SPORT", (DianPhotograph) ASSP2
 http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8 
@@ -2346,75 +2340,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/f89e6a493f43c8eaa4dec4cab054a580.png" group-title="DP@ArabBeinSports", (DP) beIN Sports 1 FHD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/100
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/f89e6a493f43c8eaa4dec4cab054a580.png" group-title="DP@ArabBeinSports", (DP) beIN Sports 1 HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/386
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/17dc1eb7e7c1be2b20c3d3b184f6d30e.png" group-title="DP@ArabBeinSports", (DP) beIN Sports 2 FHD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/101
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/17dc1eb7e7c1be2b20c3d3b184f6d30e.png" group-title="DP@ArabBeinSports", (DP) beIN Sports 2 HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/395
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/e44c1ec620401a2f6238c2c24ccd6c58.png" group-title="DP@ArabBeinSports", (DP) beIN Sports 3 FHD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/102
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/e44c1ec620401a2f6238c2c24ccd6c58.png" group-title="DP@ArabBeinSports", (DP) beIN Sports 3 HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/273319
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/14ff9bf1b41ac4ce0f0ed21fc112afcd.png" group-title="DP@ArabBeinSports", (DP) beIN Sports 4 FHD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/103
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/14ff9bf1b41ac4ce0f0ed21fc112afcd.png" group-title="DP@ArabBeinSports", (DP) beIN Sports 4 HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/399
-
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="DP@ArabBeinSports", (DP) beIN Sports 5 FHD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/104
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="DP@ArabBeinSports", (DP) beIN Sports 5 HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/273271
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/54048002161a540135597a92d0e8dd1e.png" group-title="DP@ArabBeinSports", (DP) beIN Sports 6 FHD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/105
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/54048002161a540135597a92d0e8dd1e.png" group-title="DP@ArabBeinSports", (DP) beIN Sports 6 HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278719
-
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/5383b47924c567e4ff80e1ba3ea1fd4a.png" group-title="DP@ArabBeinSports", (DP) beIN Sports 7 FHD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/106
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/5383b47924c567e4ff80e1ba3ea1fd4a.png" group-title="DP@ArabBeinSports", (DP) beIN Sports 7 HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278713
-
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/a7ed150b839370633953b8bb3d2f2322.png" group-title="DP@ArabBeinSports", (DP) beIN Sports 8 FHD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/107
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/a7ed150b839370633953b8bb3d2f2322.png" group-title="DP@ArabBeinSports", (DP) beIN Sports 8 HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278714
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/453c691cfb9b99b4edb2dc66fb3c02cc.png" group-title="DP@ArabBeinSports", (DP) beIN Sports 9 FHD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/108
-
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="DP@ArabBeinSports", (DP) beIN Sports 13 HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/267769
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/93cf8ae423e92a4ade6ddb15344bf1c9.png" group-title="DP@ArabBeinSports", (DP) beIN Sports 14 HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1869
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/453c691cfb9b99b4edb2dc66fb3c02cc.png" group-title="DP@ArabBeinSports", (DP) beIN Sports HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/11306
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/10a6b604d8676fda7dcaf6f1733849f3.png" group-title="DP@ArabBeinSports", (DP) beIN Sports Max 10
-http://skylogic.site:8080/esterichannel50con/36cb6c13/13820
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/d63c52c264be612fb3cfb58e2b1f6090.png" group-title="DP@ArabBeinSports", (DP) beIN Sports News HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1266
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -3983,7 +3908,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e9f2c051
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="DP@PLUTO SPORTS", (DP) Bellator MMA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f5bd7fb15c9a300077ee52a/colorLogoPNG.png" group-title="P@PLUTO SPORTS", (DP) Gameplay: Sports
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f5bd7fb15c9a300077ee52a/colorLogoPNG.png" group-title="DP@PLUTO SPORTS", (DP) Gameplay: Sports
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5bd7fb15c9a300077ee52a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f84ce2ac265700008d48dcf/colorLogoPNG.png" group-title="DP@PLUTO SPORTS", (DP) Pac-12 Insider
