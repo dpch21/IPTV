@@ -377,9 +377,6 @@ http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/1161
 #EXTINF:-1 tvg-id="ESPN3" group-title="DP@SPORT 1" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 4
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/727
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0tCqSEySYyZZPXsI910g4Si7DWLxpOQAxfCUM8lF4kIoAflERZNdMSomfLyB0DzrwfQ&usqp=CAU" group-title="Sport", TV Champion 3
-http://gpc.my.id/vidio/champion-tv-3.m3u8
-
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png" group-title="Lokal", NTV
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-7432.m3u8
 
@@ -3204,22 +3201,6 @@ http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv3_my.png",TV3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-1.png" group-title="Liga Malaysia", (DP) Unifi Sport 1
-http://mantul.biz.id:8888/gibran/gibran/10831
-
-#EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-2.png" group-title="Liga Malaysia", (DP) Unifi Sport 2
-http://mantul.biz.id:8888/gibran/gibran/10874
-
-#EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-3.png" group-title="Liga Malaysia", (DP) Unifi Sport 3
-http://mantul.biz.id:8888/gibran/gibran/10875
-
-#EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-4.png" group-title="Liga Malaysia", (DP) Unifi Sport 4
-http://mantul.biz.id:8888/gibran/gibran/10876
-
-#EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-5.png" group-title="Liga Malaysia", (DP) Unifi Sport 5
-http://mantul.biz.id:8888/gibran/gibran/10877
 
 
 
