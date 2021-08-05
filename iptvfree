@@ -1852,7 +1852,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPapua)/in
 http://api.aniflix.vip/kor/sbsmtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/oh-k-us-sg.png" group-title="DP@KOREA", Oh! K
-https://nonton.site:8443/carl/carl/37371
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/m_net_kr.png" group-title="DP@KOREA",  MNET 
 http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
@@ -1865,6 +1865,7 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 http://51.81.66.195:1935/krtv/jtbc_540/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/k_plus_kr.png" group-title="DP@KOREA", K Plus
+http://45.126.83.51/uq2663/h/h08/index.m3u8?fluxustv.m3u8
 http://45.126.83.51/uq2663/h/h08/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kbs_world_kr.png" group-title="DP@KOREA", KBS World HD
@@ -1903,6 +1904,16 @@ http://61.238.6.49:8000/bysid/96
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-kr.png" group-title="DP@KOREA", MBC
 http://api.aniflix.vip/kor/mbc.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z5t6cCe.jpg" group-title="DP@KOREA", New K-ID
+https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z5t6cCe.jpg" group-title="DP@KOREA", New K-ID 2
+https://newidco-newkid-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dHVfGex.png" group-title="DP@KOREA", New K-MOVIES
+https://newidco-newmovies-1.samsung.wurl.com/manifest/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kbs_drama.png" group-title="DP@KOREA", KBS DRAMA
