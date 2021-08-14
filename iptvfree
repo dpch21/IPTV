@@ -2194,7 +2194,12 @@ http://cloudcdn.tk:80/FrankKnosch/60iPag89/14201
 http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png" group-title="DP@SPORT", DAZN 1
-http://stream.tvtap.live:8081/live/it-dazn1.stream/playlist.m3u8
+http://185.97.150.19:8082/375
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png" group-title="DP@SPORT", DAZN 2
+http://185.97.150.19:8082/501
+
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnc-sports-id.png" group-title="DP@SPORT", MNC SPORT
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157589
