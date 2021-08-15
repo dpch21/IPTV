@@ -2170,6 +2170,12 @@ http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png" group-title="DP@SPORT", DAZN 1
+http://185.97.150.19:8082/375
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png" group-title="DP@SPORT", DAZN 2
+http://185.97.150.19:8082/501
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_3_asia.png" group-title="DP@SPORT", (DianPhotograph) FOX SPORT 3 HD
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 
@@ -2233,12 +2239,6 @@ http://cloudcdn.tk:80/FrankKnosch/60iPag89/14201
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/la_liga_es.png" group-title="DP@SPORT", Bein Laliga SD
 http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png" group-title="DP@SPORT", DAZN 1
-http://185.97.150.19:8082/375
-
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png" group-title="DP@SPORT", DAZN 2
-http://185.97.150.19:8082/501
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnc-sports-id.png" group-title="DP@SPORT", MNC SPORT
