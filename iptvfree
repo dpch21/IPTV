@@ -2075,31 +2075,16 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165105
 EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_02_hd.png" group-title="DP@SPORT", (DianPhotograph) BEIN 1 HD (ID) 
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165073
 
+
+
+*****************************************************************DP@SPORT***************************************************************
+
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="DP@SPORT", (DianPhotograph) BEIN 1 HD (ASIA) 
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_02_hd.png" group-title="DP@SPORT", (DianPhotograph) BEIN 2 HD (ASIA) 
 http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_3_asia.png" group-title="DP@SPORT", (DianPhotograph) FOX SPORT 3 HD
-https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_asia.png" group-title="DP@SPORT", (DianPhotograph) FOX SPORT 2 HD
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_global.png" group-title="DP@SPORT", (DianPhotograph) FOX SPORT 1 HD
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta_sports_eurasia.png" group-title="DP@SPORT", (DianPhotograph) SETANTA 
-https://95-213-224-181.livesports24.online/setantaukraine.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/extreme_sports_nl.png" group-title="DP@SPORT", (DianPhotograph) Extreme Sports
-http://58.65.171.202:8000/play/10506
-
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/extreme_sports_nl.png" group-title="DP@SPORT", (DianPhotograph) Extreme Sports Chanel
-http://213.151.233.20:8000/dna-6071-tv-pc/hls/4005v110.m3u8
 
 #EXTINF:-1   tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm.png" group-title="DP@SPORT",Skynet Sports1
 http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
@@ -2124,23 +2109,50 @@ https://95-213-224-181.livesports24.online/setantaplusru.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta_sports_eurasia_plus.png" group-title="DP@SPORT", (DianPhotograph) SETANTA +
 https://95-213-224-181.livesports24.online/setantaplusukr.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl1.png" group-title="DP@SPORT", (DianPhotograph) TRUE PREMIER HD 1
+http://178.175.132.170:8888/02_PremierHD1_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="DP@SPORT", (DianPhotograph) TRUE PREMIER HD 2
 http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="DP@SPORT", (DianPhotograph) TRUE SPORT 1
-http://mantul.biz.id:8888/294/294/10459
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-3-th.png" group-title="DP@SPORT", (DianPhotograph) TRUE PREMIER HD 3
+http://178.175.132.170:8888/02_PremierHD3_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="DP@SPORT", (DianPhotograph) TRUE SPORT 2
-http://mantul.biz.id:8888/294/294/10460
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-4-th.png" group-title="DP@SPORT", (DianPhotograph) TRUE PREMIER HD 4
+http://178.175.132.170:8888/02_PremierHD4_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="DP@SPORT", (DianPhotograph) TRUE SPORT 3
-http://mantul.biz.id:8888/294/294/10461
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-5-th.png" group-title="DP@SPORT", (DianPhotograph) TRUE PREMIER HD 5
+http://178.175.132.170:8888/02_PremierHD5_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="DP@SPORT", (DianPhotograph) TRUE SPORT 1 HD
+http://178.175.132.170:8888/02_2sporthd1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="DP@SPORT", (DianPhotograph) TRUE SPORT 2 HD
+http://178.175.132.170:8888/02_2sporthd2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="DP@SPORT", (DianPhotograph) TRUE SPORT 3 HD
+http://178.175.132.170:8888/02_2sporthd3_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="DP@SPORT", (DianPhotograph) TRUE SPORT 4
-http://mantul.biz.id:8888/294/294/11983
+http://178.175.132.170:8888/02_sport4_480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="DP@SPORT", (DianPhotograph) TRUE SPORT 5
-http://mantul.biz.id:8888/294/294/11984
+http://178.175.132.170:8888/02_sport5_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="DP@SPORT", (DianPhotograph) TRUE SPORT 6 
+http://178.175.132.170:8888/02_sport6_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="DP@SPORT", (DianPhotograph) TRUE SPORT 7 
+http://178.175.132.170:8888/02_sport7_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="DP@SPORT", (DianPhotograph) TRUE SPORT 1 
+http://178.175.132.170:8888/02_2sporthd1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="DP@SPORT", (DianPhotograph) TRUE SPORT 2 
+http://178.175.132.170:8888/02_sport2_480p/chunklist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv1.png" group-title="DP@SPORT", (DianPhotograph) SPORT TV 1
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
@@ -2156,6 +2168,28 @@ http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv5.png" group-title="DP@SPORT", (DianPhotograph) SPORT TV 5
 http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_3_asia.png" group-title="DP@SPORT", (DianPhotograph) FOX SPORT 3 HD
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_asia.png" group-title="DP@SPORT", (DianPhotograph) FOX SPORT 2 HD
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_global.png" group-title="DP@SPORT", (DianPhotograph) FOX SPORT 1 HD
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta_sports_eurasia.png" group-title="DP@SPORT", (DianPhotograph) SETANTA 
+https://95-213-224-181.livesports24.online/setantaukraine.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/extreme_sports_nl.png" group-title="DP@SPORT", (DianPhotograph) Extreme Sports
+http://58.65.171.202:8000/play/10506
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/extreme_sports_nl.png" group-title="DP@SPORT", (DianPhotograph) Extreme Sports Chanel
+http://213.151.233.20:8000/dna-6071-tv-pc/hls/4005v110.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="DP@SPORT", (DianPhotograph) WWE NETWORK TV
 http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
