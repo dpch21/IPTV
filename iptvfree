@@ -758,13 +758,6 @@ http://edgesport-samsungus.amagi.tv/playlist.m3u8
 https://iptvcat.com/my_list/s/95ef4cfd5d9be3354598f0c31ef0eb58.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="DP@SPORT", ChampionTV 1 (Vidio) 
-http://gpc.my.id/vidio/champion-tv-1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png" group-title="DP@SPORT", ChampionTV 2 (Vidio)
-http://gpc.my.id/vidio/champion-tv-2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="DP@SPORT", ChampionTV 3 (Vidio)
-http://gpc.my.id/vidio/champion-tv-3.m3u8
-
 
 
 
@@ -2169,6 +2162,12 @@ http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv5.png" group-title="DP@SPORT", (DianPhotograph) SPORT TV 5
 http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="DP@SPORT", ChampionTV 1 (Vidio)
+https://home-tv.web.id/RHS/1111111111111111111111111111111111111111111111111111111.m3u8?channel=vidio-6685
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png" group-title="DP@SPORT", ChampionTV 2 (Vidio)
+https://home-tv.web.id/RHS/1111111111111111111111111111111111111111111111111111111.m3u8?channel=vidio-6686
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="DP@SPORT", ChampionTV 3 (Vidio)
+https://home-tv.web.id/RHS/1111111111111111111111111111111111111111111111111111111.m3u8?channel=vidio-6786
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png" group-title="DP@SPORT", DAZN 1
 http://185.97.150.19:8082/375
