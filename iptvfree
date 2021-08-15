@@ -218,85 +218,91 @@ https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=206
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=7619
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-7619.m3u8
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions1.png" group-title="DP@SPORT 1", TV Champion 1
+
+**************************************************SPORT************************************************
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions1.png" group-title="DP@SPORT", TV Champion 1
 http://gpc.my.id/vidio/champion-tv-1.m3u8
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions2.png" group-title="DP@SPORT 1", TV Champion 2
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions2.png" group-title="DP@SPORT", TV Champion 2
 http://gpc.my.id/vidio/champion-tv-2.m3u8
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/fightsport.png" group-title="DP@SPORT 1", Fight Sports
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/fightsport.png" group-title="DP@SPORT", Fight Sports
 http://210.210.155.35/session/1f798c66-dd9f-11eb-a83f-b82a72d63267/x6bnqe/h/h05/01.m3u8
 
-#EXTINF:-1 tvg-id="ESPN" group-title="DP@SPORT 1" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN
+#EXTINF:-1 tvg-id="ESPN" group-title="DP@SPORT" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/725
 
-#EXTINF:-1 tvg-id="ESPN2" group-title="DP@SPORT 1" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2" group-title="DP@SPORT" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 2
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3622
 
-#EXTINF:-1 tvg-id="ESPN3" group-title="DP@SPORT 1" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 3
+#EXTINF:-1 tvg-id="ESPN3" group-title="DP@SPORT" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 3
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/1161
 
-#EXTINF:-1 tvg-id="ESPN3" group-title="DP@SPORT 1" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 4
+#EXTINF:-1 tvg-id="ESPN3" group-title="DP@SPORT" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 4
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/727
 
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png" group-title="Lokal", NTV
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-7432.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJZPZLfR/unnamed.png" group-title="DP@SPORT 1", Adventure Sports Network
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJZPZLfR/unnamed.png" group-title="DP@SPORT", Adventure Sports Network
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/uu/ufc-tv-rossiya-us-ru.png" group-title="DP@SPORT 1", BOX
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/uu/ufc-tv-rossiya-us-ru.png" group-title="DP@SPORT", BOX
 https://qlobbidev.s.llnwi.net/bpk-tv/ESPN/hls/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-1-ae.png" group-title="DP@SPORT 1", AD SPORT 1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-1-ae.png" group-title="DP@SPORT", AD SPORT 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-2-ae.png" group-title="DP@SPORT 1", AD SPORT 2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-2-ae.png" group-title="DP@SPORT", AD SPORT 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-3-ae.png" group-title="DP@SPORT 1", AD SPORT 3
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-3-ae.png" group-title="DP@SPORT", AD SPORT 3
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-4-ae.png" group-title="DP@SPORT 1", AD SPORT 4
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-4-ae.png" group-title="DP@SPORT", AD SPORT 4
 https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_sport.png" group-title="DP@SPORT 1", CANAL SPORTS FR
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_sport.png" group-title="DP@SPORT", CANAL SPORTS FR
 http://stream.tvtap.live:8081/live/fr-canaplus-sport.stream/playlist.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 1 premium Olympic
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 1 premium 
 http://directn.mrnova.online/live/60060_.m3u8?token=ndirect50k
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 2 premium Olympic
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 2 premium 
 http://directn.mrnova.online/live/60061_.m3u8?token=ndirect50k
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 3 premium Olympic
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 3 premium 
 http://directn.mrnova.online/live/60062_.m3u8?token=ndirect50k
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 1 Olympic
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 1 
 http://directn.mrnova.online/live/60043_.m3u8?token=ndirect50k
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 2 Olympic
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 2 
 http://directn.mrnova.online/live/60044_.m3u8?token=ndirect50k
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 3 Olympic
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 3 
 http://directn.mrnova.online/live/60045_.m3u8?token=ndirect50k
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 4 Olympic
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 4 
 http://directn.mrnova.online/live/60046_.m3u8?token=ndirect50k
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 5 Olympic
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 5 
 http://directn.mrnova.online/live/60047_.m3u8?token=ndirect50k
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 6 Olympic
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 6 
 http://directn.mrnova.online/live/60048_.m3u8?token=ndirect50k
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 7 Olympic
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 7 
 http://directn.mrnova.online/live/60049_.m3u8?token=ndirect50k
+
 
 
 
