@@ -2083,6 +2083,8 @@ http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NBC_Sports_2012.svg/1200px-NBC_Sports_2012.svg.png" group-title="DP@SPORT", (DianPhotograph) NBC SPORT NETWORK
 http://31.220.41.88:8081/live/nbcsn.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NBC_Sports_2012.svg/1200px-NBC_Sports_2012.svg.png" group-title="DP@SPORT", (DianPhotograph) NBC SPORT NETWORK HD
+http://45.182.20.194:8000/play/95KZ3fsmfRhA387z/index.m3u8
 
 #EXTINF:-1   tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm.png" group-title="DP@SPORT",Skynet Sports1
 http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
