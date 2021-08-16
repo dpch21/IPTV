@@ -2053,7 +2053,7 @@ https://95-213-224-181.livesports24.online/sport1ua.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/futbol_ua_2.png" group-title="DP@SPORT 1", (DP) Futbol 2
 https://95-213-224-181.livesports24.online/ooomatch.m3u8
 
-#EXTINF:-1 tvg-id="NBCSN" group-title="DP@SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NBC_Sports_2012.svg/1200px-NBC_Sports_2012.svg.png", NBC Sports (NBCSN)
+EXTINF:-1 tvg-id="NBCSN" group-title="DP@SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NBC_Sports_2012.svg/1200px-NBC_Sports_2012.svg.png", https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NBC_Sports_2012.svg/1200px-NBC_Sports_2012.svg.png
 http://31.220.41.88:8081/live/nbcsn.stream/chunks.m3u8
 
 EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="DP@SPORT", (DianPhotograph) BEIN 1 HD
@@ -2078,6 +2078,11 @@ http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_02_hd.png" group-title="DP@SPORT", (DianPhotograph) BEIN 2 HD (ASIA) 
 http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
+
+	
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NBC_Sports_2012.svg/1200px-NBC_Sports_2012.svg.png" group-title="DP@SPORT", (DianPhotograph) NBC SPORT NETWORK
+http://31.220.41.88:8081/live/nbcsn.stream/chunks.m3u8
+
 
 #EXTINF:-1   tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm.png" group-title="DP@SPORT",Skynet Sports1
 http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
