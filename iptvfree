@@ -274,7 +274,7 @@ http://stream.tvtap.live:8081/live/fr-canaplus-sport.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 1 premium 
-http://directn.mrnova.online/live/60060_.m3u8?token=ndirect50k
+http://yny.bourhasar.xyz/live/61011544/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 2 premium 
 http://directn.mrnova.online/live/60061_.m3u8?token=ndirect50k
@@ -283,25 +283,25 @@ http://directn.mrnova.online/live/60061_.m3u8?token=ndirect50k
 http://directn.mrnova.online/live/60062_.m3u8?token=ndirect50k
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 1 
-http://directn.mrnova.online/live/60043_.m3u8?token=ndirect50k
+http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 2 
-http://directn.mrnova.online/live/60044_.m3u8?token=ndirect50k
+http://str.smartip-tv.net:8888/BEIN_SPORT_9_HD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 3 
-http://directn.mrnova.online/live/60045_.m3u8?token=ndirect50k
+http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 4 
-http://directn.mrnova.online/live/60046_.m3u8?token=ndirect50k
+http://str.smartip-tv.net:8888/BEIN_SPORT_4_HD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 5 
-http://directn.mrnova.online/live/60047_.m3u8?token=ndirect50k
+http://str.smartip-tv.net:8888/BEIN_SPORT_5_HD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 6 
-http://directn.mrnova.online/live/60048_.m3u8?token=ndirect50k
+http://str.smartip-tv.net:8888/BEIN_SPORT_6_HD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="DP@BEINSPORT", Bein sport 7 
-http://directn.mrnova.online/live/60049_.m3u8?token=ndirect50k
+http://str.smartip-tv.net:8888/BEIN_SPORT_7_HD/index.m3u8?token=test
 
 
 
