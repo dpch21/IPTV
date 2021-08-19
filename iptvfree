@@ -1956,36 +1956,50 @@ http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/18
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_arena_my.png" group-title="DP ASTRO@SUPER SPORT", (DianPhotograph) ARENA
-# http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="AstroSuperSportHD" group-title="DP@SPORTS1" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",SuperSport 1
-http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
 
 #EXTINF:-1 tvg-id="AstroSuperSport2HD" group-title="DP@SPORTS1" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",SuperSport 2
-http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6710
 
 #EXTINF:-1 tvg-id="AstroSuperSport3HD" group-title="DP@SPORTS1" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",SuperSport 3
-http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
 
 #EXTINF:-1 tvg-id="AstroSuperSport4HD" group-title="DP@SPORTS1" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",SuperSport 4
-http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="DP@SPORTS1", Bein Sport 1
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bein1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="DP@SPORTS1", Bein Sport 2
+http://topwin-tv.my.id/2/master.m3u8?id=bein2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-malaysia-and-singapore-qa-my-sg.png" group-title="DP@SPORTS1", Bein Sport Max
+http://lengo-sentir.xyz/media/sport/premium/beINMAX
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png" group-title="DP@SPORTS1", Bein Sport Xtra
+https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sport Au" tvg-logo="https://i.ibb.co/Y3msTsz/fox-sport-news.png" group-title="DP@SPORTS1",Fox Sport AU
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="DP ASTRO@SUPER SPORT", (DianPhotograph) ASSP1
 http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="DP ASTRO@SUPER SPORT", (DianPhotograph) ASSP2
 http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8 
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6710
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="DP ASTRO@SUPER SPORT", (DianPhotograph) ASSP3
 http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8 
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="DP ASTRO@SUPER SPORT", (DianPhotograph) ASSP4
 http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
 
 EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="DP ASTRO@SUPER SPORT",  ASSP1 BACKUP
 http://iptv.tvmalaysia.cc/932633/932633/6708 
@@ -2183,13 +2197,13 @@ http://185.97.150.19:8082/375
 http://185.97.150.19:8082/501
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_3_asia.png" group-title="DP@SPORT", (DianPhotograph) FOX SPORTS 1 HD (BACKUP) 
-https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?lchId=170&format=HLS&p=PROFILE01&session=u77iemvd0bgw1el&v=N&f=.m3u8
+http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_asia.png" group-title="DP@SPORT", (DianPhotograph) FOX SPORTS 2 HD (BACKUP)
-https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?lchId=172&format=HLS&p=PROFILE01&session=u77iemvd0bgw1el&v=N&f=.m3u8
+http://77.83.117.60:8888/02_FoxSport2_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_global.png" group-title="DP@SPORT", (DianPhotograph) FOX SPORTS 3 HD (BACKUP)
-https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?lchId=178&format=HLS&p=PROFILE01&session=u77iemvd0bgw1el&v=N&f=.m3u8
+http://77.83.117.60:8888/02_FoxSport3_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_3_asia.png" group-title="DP@SPORT", (DianPhotograph) FOX SPORTS 1 (ARG)
 http://195.181.163.39/DEP_FOX_SPORTS_ARG/index.m3u8
@@ -2206,13 +2220,13 @@ http://195.181.163.39:80/DEP_FOX_SPORTS_PREM_ARG/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_3_asia.png" group-title="DP@SPORT", (DianPhotograph) FOX SPORTS 3 HD
-https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=foxsport1
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_asia.png" group-title="DP@SPORT", (DianPhotograph) FOX SPORTS 2 HD
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=foxsport2
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_global.png" group-title="DP@SPORT", (DianPhotograph) FOX SPORTS 1 HD
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=foxsport3
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta_sports_eurasia.png" group-title="DP@SPORT", (DianPhotograph) SETANTA 
 https://95-213-224-181.livesports24.online/setantaukraine.m3u8
