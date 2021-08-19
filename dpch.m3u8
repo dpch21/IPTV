@@ -19,7 +19,7 @@ http://alienstreams.fi:7070/staffan.brundin@gmail.com/mZkXfZ8TVW/46083.ts
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunia_lain_id.png" group-title="Lokal", (DG) DUNIA LAIN
-http://gpc.my.id/usee/dunialain.m3u8
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=dunialain
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/X2ISm5LSjgKupMtdZkqTb-FNGhE=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg" group-title="Lokal", Al Quran Al Kareem TV
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=6852
