@@ -2308,6 +2308,15 @@ https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://servismarjanovic.com/kanali/SK1.png" group-title="DP@SPORT", SPORT KLUB 1
+http://stream.tvtap.live:8081/live/klub1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://servismarjanovic.com/kanali/SK2.png" group-title="DP@SPORT", SPORT KLUB 2
+http://stream.tvtap.live:8081/live/klub2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://servismarjanovic.com/kanali/SK3.png" group-title="DP@SPORT", SPORT KLUB 3
+http://stream.tvtap.live:8081/live/klub3.stream/playlist.m3u8
+
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
