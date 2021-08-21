@@ -1959,6 +1959,9 @@ http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="S Premier League" tvg-logo="" group-title="DP@SPORTS1",S Premier League
+http://89.187.182.181:9090/SR_SS3_HD/tracks-v1a1/index.m3u8
+
 
 #EXTINF:-1 tvg-id="AstroSuperSportHD" group-title="DP@SPORTS1" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",SuperSport 1
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
