@@ -1997,19 +1997,15 @@ http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="DP ASTRO@SUPER SPORT", (DianPhotograph) ASSP1
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/148
 http://iptv.tvmalaysia.cc/penang200/penang200/6708
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="DP ASTRO@SUPER SPORT", (DianPhotograph) ASSP2
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/149
 http://iptv.tvmalaysia.cc/penang200/penang200/6710
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="DP ASTRO@SUPER SPORT", (DianPhotograph) ASSP3
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/232 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="DP ASTRO@SUPER SPORT", (DianPhotograph) ASSP3 
 http://iptv.tvmalaysia.cc/penang200/penang200/6711
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="DP ASTRO@SUPER SPORT", (DianPhotograph) ASSP4
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/249
 http://iptv.tvmalaysia.cc/penang200/penang200/6712
 
 EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="DP ASTRO@SUPER SPORT",  ASSP1 BACKUP
