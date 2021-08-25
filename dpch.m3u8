@@ -1482,7 +1482,7 @@ http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/arirang.png" group-title="DP@LOKAL", (DP) ARIRANG
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/149
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/arirang.png" group-title="DP@LOKAL", (DP) ARIRANG 2
 http://36.37.252.114:888/Apple/OneTV-039/playlist.m3u8
 
@@ -1997,20 +1997,20 @@ http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="DP ASTRO@SUPER SPORT", (DianPhotograph) ASSP1
-http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/148
+http://iptv.tvmalaysia.cc/penang200/penang200/6708
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="DP ASTRO@SUPER SPORT", (DianPhotograph) ASSP2
-http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8 
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6710
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/149
+http://iptv.tvmalaysia.cc/penang200/penang200/6710
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="DP ASTRO@SUPER SPORT", (DianPhotograph) ASSP3
-http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8 
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/232 
+http://iptv.tvmalaysia.cc/penang200/penang200/6711
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="DP ASTRO@SUPER SPORT", (DianPhotograph) ASSP4
-http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/249
+http://iptv.tvmalaysia.cc/penang200/penang200/6712
 
 EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="DP ASTRO@SUPER SPORT",  ASSP1 BACKUP
 http://iptv.tvmalaysia.cc/932633/932633/6708 
