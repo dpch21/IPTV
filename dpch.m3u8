@@ -11,8 +11,8 @@ https://www.dropbox.com/s/qokot61ee4gsb49/My%20Video.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useesports2_big.png" group-title="DP@BRILIGA1"  tvg-id="Riyan.1ff1de774005f8da13f42943881c655f.Coday" tvg-name"[CODAY] UseeSports2 _USEETV",UseeSports2 _USEE
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useesports2_big.png" group-title="DP@BRILIGA1"  tvg-id="Riyan.1ff1de774005f8da13f42943881c655f.Coday" tvg-name"[CODAY] UseeSports2 _USEETV",UseeSports2 _USEE
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports1&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useesports2_big.png" group-title="DP@BRILIGA1"  tvg-id="Riyan.1ff1de774005f8da13f42943881c655f.Coday" tvg-name"[CODAY] UseeSports2 _USEETV",UseeSports1 _USEE
+http://topwin-tv.my.id/2/master.m3u8?id=useesport
 
 
 #EXTINF:-1 tvg=id="TVRI.ID" tvg-name="TVRI" tvg-country="ID" tvg-language="Indonesia" tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/700x0/photo/2021/07/16/tvri-livejpg-20210716015852.jpg" group-title="DP@Olimpiade 2020 Tokyo",[ID] TVRI
